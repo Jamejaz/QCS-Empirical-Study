@@ -1,0 +1,151 @@
+post_id,platform,url,final_rule_label,coder_A,coder_B,agreement,final_layer
+P00622,QCSE,https://quantumcomputing.stackexchange.com/questions/38073/difficulties-encountered-in-simulating-quantum-purification-circuits-for-magic-s,integrity,integrity,integrity,coders agreed,integrity
+P01082,QCSE,https://quantumcomputing.stackexchange.com/questions/34630/what-are-overlooked-noise-sources-in-circuit-level-noise,integrity,integrity,integrity,coders agreed,integrity
+P03168,QCSE,https://quantumcomputing.stackexchange.com/questions/15816/how-do-we-find-the-stabilizer-generators-for-the-three-qubit-bit-flip-code-spann,integrity,integrity,integrity,coders agreed,integrity
+P04326,QCSE,https://quantumcomputing.stackexchange.com/questions/4845/would-this-quantum-algorithm-implementation-work,development context,development context,development context,coders agreed,development context
+P02838,QCSE,https://quantumcomputing.stackexchange.com/questions/18408/measuring-the-accuracy-of-a-circuit-output,development context,development context,development context,coders agreed,development context
+P00563,QCSE,https://quantumcomputing.stackexchange.com/questions/38345/how-to-initilize-logical-qubits-stabilizer-states-in-a-fault-tolerant-way,integrity,integrity,integrity,coders agreed,integrity
+P00331,QCSE,https://quantumcomputing.stackexchange.com/questions/39427/is-a-quantum-while-loop-possible,development context,development context,development context,coders agreed,development context
+P00508,QCSE,https://quantumcomputing.stackexchange.com/questions/38635/is-there-a-proof-in-the-literature-of-magic-state-injection-for-surface-codes,out of scope,integrity,integrity,coders agreed,integrity
+P04502,Reddit,https://www.reddit.com/r/Qiskit/comments/1fjvsa3/at_which_point_you_start_to_get_only_noise/,integrity,integrity,integrity,coders agreed,integrity
+P00439,QCSE,https://quantumcomputing.stackexchange.com/questions/38960/how-to-implement-frequencies-drive-measuring-and-temperature-in-a-qiskit-noise,integrity,integrity,integrity,coders agreed,integrity
+P01149,QCSE,https://quantumcomputing.stackexchange.com/questions/34200/quantum-computation-of-classical-fisher-information,development context,development context,development context,coders agreed,development context
+P04568,SO,https://stackoverflow.com/questions/68257662/qiskit-vqc-with-amplitude-encoding-for-state-preparation?r=SearchResults,development context,development context,development context,coders agreed,development context
+P01019,QCSE,https://quantumcomputing.stackexchange.com/questions/34950/how-to-convert-stim-encoder-circuit-to-a-parity-check-matrix,integrity,integrity,integrity,coders agreed,integrity
+P03245,QCSE,https://quantumcomputing.stackexchange.com/questions/15262/arbitrary-error-correctable-iff-pauli-error-are-misunderstanding-from-preskill,integrity,integrity,integrity,coders agreed,integrity
+P04451,Reddit,https://www.reddit.com/r/QuantumComputing/comments/1g3ezbd/can_classical_optimizers_undermine_quantum/,development context,development context,development context,coders agreed,development context
+P01416,QCSE,https://quantumcomputing.stackexchange.com/questions/32618/how-horizontal-loops-on-the-toric-code-are-all-undetectable,integrity,integrity,integrity,coders agreed,integrity
+P00484,QCSE,https://quantumcomputing.stackexchange.com/questions/38730/feasibility-of-applying-qaoa-to-quantum-chemistry-calculations,development context,development context,development context,coders agreed,development context
+P00545,QCSE,https://quantumcomputing.stackexchange.com/questions/38459/portfolio-optimization-with-vqe,development context,development context,development context,coders agreed,development context
+P02808,QCSE,https://quantumcomputing.stackexchange.com/questions/20677/inverting-the-depolarizing-channel,integrity,integrity,integrity,coders agreed,integrity
+P01057,QCSE,https://quantumcomputing.stackexchange.com/questions/34756/how-to-address-the-2-logical-qubits-on-the-toric-code-individually-in-general,integrity,integrity,integrity,coders agreed,integrity
+P00664,QCSE,https://quantumcomputing.stackexchange.com/questions/37833/feedback-control-with-feedback-hamiltonian-vs-quantum-error-correction,integrity,integrity,integrity,coders agreed,integrity
+P02913,QCSE,https://quantumcomputing.stackexchange.com/questions/17823/construction-of-arbitrary-normalizer-gates-using-h-s-and-cnot-gates,integrity,development context,development context,coders agreed,development context
+P02811,QCSE,https://quantumcomputing.stackexchange.com/questions/20671/how-come-classical-deutsch-jozsa-is-o1-when-allowing-a-small-error-rate,integrity,development context,development context,coders agreed,development context
+P03053,QCSE,https://quantumcomputing.stackexchange.com/questions/16715/need-help-in-qgan-function-to-load-higher-dimensional-data,development context,development context,development context,coders agreed,development context
+P00273,QCSE,https://quantumcomputing.stackexchange.com/questions/39833/error-mitigation-in-dynamic-quantum-circuits-alternatives-to-dynamical-decoupli,integrity,integrity,integrity,coders agreed,integrity
+P04088,QCSE,https://quantumcomputing.stackexchange.com/questions/6879/hidden-subgroup-problem,development context,development context,development context,coders agreed,development context
+P00546,QCSE,https://quantumcomputing.stackexchange.com/questions/38456/is-there-a-term-for-fault-tolerance-of-logical-gates-that-depends-on-the-underly,integrity,integrity,integrity,coders agreed,integrity
+P00007,QCSE,https://quantumcomputing.stackexchange.com/questions/41072/mixer-hamiltonian-in-varqite,development context,development context,development context,coders agreed,development context
+P01815,QCSE,https://quantumcomputing.stackexchange.com/questions/29208/how-to-import-noise-model-from-ibm-qiskit-real-device,integrity,integrity,integrity,coders agreed,integrity
+P04722,MSE,https://math.stackexchange.com/questions/3109313/counting-coupons-in-a-box?r=SearchResults,development context,development context,development context,coders agreed,development context
+P00276,QCSE,https://quantumcomputing.stackexchange.com/questions/39817/why-does-qpe-still-produce-phase-eigenvalues-in-hhl-even-though-it-operates-on-n,development context,development context,development context,coders agreed,development context
+P02379,QCSE,https://quantumcomputing.stackexchange.com/questions/25605/why-the-boundary-data-qubits-have-to-be-put-in-the-ground-state-for-lattice-surg,integrity,integrity,integrity,coders agreed,integrity
+P01762,QCSE,https://quantumcomputing.stackexchange.com/questions/29525/does-the-standard-3-qubit-code-scheme-admit-a-transversal-implementation-of-h,integrity,integrity,integrity,coders agreed,integrity
+P00133,QCSE,https://quantumcomputing.stackexchange.com/questions/40525/quantumkernel-command-has-been-changed-and-construct-circuit-is-no-more-useful,development context,development context,development context,coders agreed,development context
+P01495,QCSE,https://quantumcomputing.stackexchange.com/questions/32206/does-the-gradient-commute-with-the-partial-trace,development context,development context,development context,coders agreed,development context
+P01516,QCSE,https://quantumcomputing.stackexchange.com/questions/32048/rigorous-understanding-that-one-should-correct-pauli-drift-before-non-clifford,integrity,integrity,integrity,coders agreed,integrity
+P04238,QCSE,https://quantumcomputing.stackexchange.com/questions/5652/a-question-on-eastin-knill-theorem,integrity,integrity,integrity,coders agreed,integrity
+P00163,QCSE,https://quantumcomputing.stackexchange.com/questions/40341/knill-error-correction,integrity,integrity,integrity,coders agreed,integrity
+P01546,QCSE,https://quantumcomputing.stackexchange.com/questions/31893/problems-in-quantum-computing-that-tolerate-high-error-rate,integrity,integrity,integrity,coders agreed,integrity
+P01826,QCSE,https://quantumcomputing.stackexchange.com/questions/29143/why-qecc-amplitude-damping-error-syndrome-and-qiskit-simulation-are-different,integrity,integrity,integrity,coders agreed,integrity
+P01415,QCSE,https://quantumcomputing.stackexchange.com/questions/32623/can-we-have-a-constant-overhead-threshold-theorem,integrity,integrity,integrity,coders agreed,integrity
+P03882,QCSE,https://quantumcomputing.stackexchange.com/questions/9478/error-during-forest-openfermion-installation,development context,development context,development context,coders agreed,development context
+P01152,QCSE,https://quantumcomputing.stackexchange.com/questions/34186/use-stim-to-simulate-multiple-different-circuits-with-shots-1-for-each-circuit,integrity,development context,development context,coders agreed,development context
+P04911,GitHub,https://github.com/langchain-ai/langchain/discussions/24188,development context,out of scope,out of scope,coders agreed,out of scope
+P02721,QCSE,https://quantumcomputing.stackexchange.com/questions/21286/decomposition-of-the-multi-controlled-gate-in-tensorflow-quantum,development context,development context,development context,coders agreed,development context
+P03667,QCSE,https://quantumcomputing.stackexchange.com/questions/12161/what-is-the-usefulness-of-the-suzuki-trotter-formula,development context,development context,development context,coders agreed,development context
+P04039,QCSE,https://quantumcomputing.stackexchange.com/questions/8239/general-master-equation-with-decoherence-query,integrity,integrity,integrity,coders agreed,integrity
+P04078,QCSE,https://quantumcomputing.stackexchange.com/questions/6929/questions-about-theorem-and-proof-quantum-error-correction-condition-thm-10,integrity,integrity,integrity,coders agreed,integrity
+P03859,QCSE,https://quantumcomputing.stackexchange.com/questions/9677/how-to-obtain-the-noise-of-a-circuit-in-qiskit,integrity,integrity,integrity,coders agreed,integrity
+P04926,GitHub,https://github.com/unitaryfund/mitiq/discussions/2401,integrity,integrity,integrity,coders agreed,integrity
+P01408,QCSE,https://quantumcomputing.stackexchange.com/questions/32666/in-quantum-metrology-how-do-we-achieve-unbiased-estimator-in-the-local-unbiased,integrity,development context,development context,coders agreed,development context
+P02787,QCSE,https://quantumcomputing.stackexchange.com/questions/20846/how-can-time-crystals-be-useful-in-qram-design,integrity,integrity,development context,decided by adjudication,integrity
+P02471,QCSE,https://quantumcomputing.stackexchange.com/questions/23971/why-do-we-need-to-keep-of-history-of-d-cycle-for-surface-code-in-order-to-resi,integrity,integrity,integrity,coders agreed,integrity
+P01967,QCSE,https://quantumcomputing.stackexchange.com/questions/28284/using-entropy-quantum-computing-for-solving-optimization-problems,development context,integrity,development context,decided by adjudication,integrity
+P00080,QCSE,https://quantumcomputing.stackexchange.com/questions/40823/in-stim-how-do-you-get-a-detector-check-and-logical-observable-matrices-from-tab,integrity,integrity,integrity,coders agreed,integrity
+P00947,QCSE,https://quantumcomputing.stackexchange.com/questions/35344/what-is-the-point-of-defect-diagrams,integrity,integrity,integrity,coders agreed,integrity
+P02361,QCSE,https://quantumcomputing.stackexchange.com/questions/25707/local-hermitian-operators-can-be-written-as-sums-over-local-error-operators,integrity,integrity,integrity,coders agreed,integrity
+P00977,QCSE,https://quantumcomputing.stackexchange.com/questions/35163/does-qiskit-make-any-rounding-errors-or-anything-similar-or-is-it-a-perfect-bu,integrity,development context,development context,coders agreed,development context
+P03917,QCSE,https://quantumcomputing.stackexchange.com/questions/9192/problem-with-quantum-tomography-on-two-qubits,development context,development context,integrity,decided by adjudication,development context
+P03468,QCSE,https://quantumcomputing.stackexchange.com/questions/13657/circuit-for-vqe-expectation-value-finding,development context,development context,development context,coders agreed,development context
+P01606,QCSE,https://quantumcomputing.stackexchange.com/questions/31496/basic-question-on-the-difference-between-minimum-weight-perfect-matching-and-max,integrity,integrity,integrity,coders agreed,integrity
+P01343,QCSE,https://quantumcomputing.stackexchange.com/questions/33010/recovering-phases-in-2n-bit-binary-representation-of-n-qubit-paulis,integrity,development context,development context,coders agreed,development context
+P04638,SO,https://stackoverflow.com/questions/54144042/unsupportedclassversionerror-error-with-gradle-and-java-runtime-version?r=SearchResults,development context,development context,development context,coders agreed,development context
+P01893,QCSE,https://quantumcomputing.stackexchange.com/questions/28715/how-to-interface-stim-to-a-generic-qiskit-decoder,integrity,integrity,integrity,coders agreed,integrity
+P01015,QCSE,https://quantumcomputing.stackexchange.com/questions/34986/measuring-a-single-qubit-pauliz-using-qiskits-estimatorqnn,development context,development context,development context,coders agreed,development context
+P00592,QCSE,https://quantumcomputing.stackexchange.com/questions/38222/can-different-density-matrices-have-100-fidelity-with-a-given-pure-state,out of scope,integrity,integrity,coders agreed,integrity
+P00362,QCSE,https://quantumcomputing.stackexchange.com/questions/39262/do-we-really-apply-both-single-qubit-and-two-qubit-gates-in-the-same-layer-in-ex,integrity,integrity,integrity,coders agreed,integrity
+P02630,QCSE,https://quantumcomputing.stackexchange.com/questions/21910/how-to-calculate-the-coefficients-of-a-qubit-from-the-angles-of-its-bloch-repres,development context,development context,development context,coders agreed,development context
+P03233,QCSE,https://quantumcomputing.stackexchange.com/questions/15348/proper-definition-of-logical-operation-in-q-e-c,integrity,integrity,integrity,coders agreed,integrity
+P01165,QCSE,https://quantumcomputing.stackexchange.com/questions/34106/15-to-1-distillation-protocol-in-lattice-surgery-doesnt-the-potential-rejectio,integrity,integrity,integrity,coders agreed,integrity
+P02693,QCSE,https://quantumcomputing.stackexchange.com/questions/21491/using-classical-shadow-to-predict-quantum-states-fidelity-has-nothing-to-do-wit,integrity,development context,integrity,decided by adjudication,integrity
+P00765,QCSE,https://quantumcomputing.stackexchange.com/questions/37333/how-to-model-the-ibm-quantum-errors,integrity,integrity,integrity,coders agreed,integrity
+P01392,QCSE,https://quantumcomputing.stackexchange.com/questions/32749/differences-in-simulating-syndrome-measurement-circuits-with-prepared-states,integrity,integrity,integrity,coders agreed,integrity
+P01448,QCSE,https://quantumcomputing.stackexchange.com/questions/32434/qec-code-with-transversal-hadamard-on-one-logical-qubit,integrity,integrity,integrity,coders agreed,integrity
+P00602,QCSE,https://quantumcomputing.stackexchange.com/questions/38188/how-to-implement-fault-tolerant-cat-state-construction-with-qiskit,integrity,integrity,integrity,coders agreed,integrity
+P01393,QCSE,https://quantumcomputing.stackexchange.com/questions/32746/need-help-to-understand-topological-color-codes,integrity,integrity,integrity,coders agreed,integrity
+P03912,QCSE,https://quantumcomputing.stackexchange.com/questions/9219/how-to-use-qiskit-visualization-in-python-idle-3-x-python-3-x-64-bit,development context,development context,development context,coders agreed,development context
+P02987,QCSE,https://quantumcomputing.stackexchange.com/questions/17253/what-is-the-best-quantum-process-tomography-method,development context,development context,integrity,decided by adjudication,integrity
+P00987,QCSE,https://quantumcomputing.stackexchange.com/questions/35101/for-arbitrary-single-qubit-unitary-gate-does-there-exist-a-code-such-that-the-g,integrity,integrity,integrity,coders agreed,integrity
+P04112,QCSE,https://quantumcomputing.stackexchange.com/questions/6679/what-implementation-changes-should-be-done-in-maxcut-code-using-vqe,development context,development context,development context,coders agreed,development context
+P03711,QCSE,https://quantumcomputing.stackexchange.com/questions/11823/quantum-phase-estimation-circuit-and-modular-exponentiaton,development context,development context,development context,coders agreed,development context
+P04887,GitHub,https://github.com/open-quantum-safe/oqs-provider/discussions/508,out of scope,core security,core security,coders agreed,core security
+P01692,QCSE,https://quantumcomputing.stackexchange.com/questions/29867/converting-t-1-and-t-2-decay-rates-to-noise-supported-by-stim,integrity,integrity,integrity,coders agreed,integrity
+P03774,QCSE,https://quantumcomputing.stackexchange.com/questions/10312/a-bug-during-cirq-installation,development context,development context,development context,coders agreed,development context
+P01000,QCSE,https://quantumcomputing.stackexchange.com/questions/35030/number-of-logical-cycles-to-implement-r-z-theta-gates-in-lattice-surgery-wh,integrity,integrity,integrity,coders agreed,integrity
+P01332,QCSE,https://quantumcomputing.stackexchange.com/questions/33064/recover-the-noisy-povms-of-bell-basis-measurement,integrity,integrity,integrity,coders agreed,integrity
+P02234,QCSE,https://quantumcomputing.stackexchange.com/questions/26749/what-is-the-encoding-corresponding-to-the-hamming-code-5-1-3,integrity,integrity,integrity,coders agreed,integrity
+P03526,QCSE,https://quantumcomputing.stackexchange.com/questions/13257/why-is-declared-that-0-le-theta-le-pi-for-qiskits-u3-gate,development context,development context,development context,coders agreed,development context
+P04115,QCSE,https://quantumcomputing.stackexchange.com/questions/6657/i-thought-we-had-already-passed-this-error-and-qubit-threshold,integrity,integrity,development context,decided by adjudication,integrity
+P02215,QCSE,https://quantumcomputing.stackexchange.com/questions/26858/validity-of-a-quantum-operation-for-generalised-state-erasure,integrity,integrity,integrity,coders agreed,integrity
+P02761,QCSE,https://quantumcomputing.stackexchange.com/questions/21013/does-randomized-benchmarking-characterize-decoherence-error,integrity,integrity,integrity,coders agreed,integrity
+P00148,QCSE,https://quantumcomputing.stackexchange.com/questions/40453/in-qiskit-is-it-possible-to-simulate-a-rabi-oscillation-at-the-circuit-level-th,integrity,integrity,integrity,coders agreed,integrity
+P01248,QCSE,https://quantumcomputing.stackexchange.com/questions/33584/whats-the-reasoning-behind-writing-the-isometric-representation-of-a-channel,integrity,integrity,integrity,coders agreed,integrity
+P00636,QCSE,https://quantumcomputing.stackexchange.com/questions/37992/when-does-g-otimes-n-vs-g-dagger-otimes-n-implement-g-transversally,integrity,integrity,integrity,coders agreed,integrity
+P03596,QCSE,https://quantumcomputing.stackexchange.com/questions/12677/what-are-generators-for-a-real-clifford-group,integrity,development context,integrity,decided by adjudication,integrity
+P04044,QCSE,https://quantumcomputing.stackexchange.com/questions/7212/attributeerror-aerjob-object-has-no-attribute-get-counts,development context,development context,development context,coders agreed,development context
+P02485,QCSE,https://quantumcomputing.stackexchange.com/questions/23891/how-to-find-the-stabilizer-generators-for-a-post-measurement-state,integrity,development context,integrity,decided by adjudication,development context
+P04034,QCSE,https://quantumcomputing.stackexchange.com/questions/8317/how-many-combinations-can-n-qubits-have,development context,development context,development context,coders agreed,development context
+P00639,QCSE,https://quantumcomputing.stackexchange.com/questions/37974/if-the-encoding-circuit-for-a-quantum-code-is-a-clifford-operation-then-the-logi,integrity,integrity,integrity,coders agreed,integrity
+P02207,QCSE,https://quantumcomputing.stackexchange.com/questions/26885/on-the-photonic-implementation-of-shors-code,integrity,integrity,integrity,coders agreed,integrity
+P01225,QCSE,https://quantumcomputing.stackexchange.com/questions/33692/absorbing-clifford-gates-in-pauli-measurements-we-should-care-about-the-post-me,development context,integrity,integrity,coders agreed,integrity
+P01875,QCSE,https://quantumcomputing.stackexchange.com/questions/28888/qiskit-what-is-the-corrrect-equilibrium-distribution-in-the-thermal-relaxation,integrity,integrity,integrity,coders agreed,integrity
+P03853,QCSE,https://quantumcomputing.stackexchange.com/questions/9719/the-behaviour-of-ebits-in-entanglement-assisted-quantum-error-correction-codes,integrity,integrity,integrity,coders agreed,integrity
+P03627,QCSE,https://quantumcomputing.stackexchange.com/questions/12470/where-can-i-find-tutorials-about-correcting-gate-errors-in-the-quantum-circuit,integrity,integrity,integrity,coders agreed,integrity
+P04232,QCSE,https://quantumcomputing.stackexchange.com/questions/5672/why-does-phase-flip-correction-error-why-could-any-error-be-written-as-a-linear,integrity,integrity,integrity,coders agreed,integrity
+P02304,QCSE,https://quantumcomputing.stackexchange.com/questions/26237/lattice-surgery-how-is-merged-code-stabilized-by-merging-stabilizers-if-their,integrity,integrity,integrity,coders agreed,integrity
+P04061,QCSE,https://quantumcomputing.stackexchange.com/questions/7030/what-are-the-main-classes-of-quantum-error-correcting-codes,integrity,integrity,integrity,coders agreed,integrity
+P00898,QCSE,https://quantumcomputing.stackexchange.com/questions/35632/simulating-any-stabilizer-code,integrity,integrity,integrity,coders agreed,integrity
+P04496,GitHub,https://github.com/averyanalex/quantpiler,development context,development context,development context,coders agreed,development context
+P02408,QCSE,https://quantumcomputing.stackexchange.com/questions/24399/why-does-fault-tolerant-transversal-phase-gate-p-only-work-with-doubly-even-co,out of scope,integrity,integrity,coders agreed,integrity
+P00430,QCSE,https://quantumcomputing.stackexchange.com/questions/39001/how-does-observable-include-work,integrity,integrity,integrity,coders agreed,integrity
+P02604,QCSE,https://quantumcomputing.stackexchange.com/questions/22038/how-can-i-add-readout-error-in-constructing-a-quantum-noise-model,integrity,integrity,integrity,coders agreed,integrity
+P01292,QCSE,https://quantumcomputing.stackexchange.com/questions/33243/the-output-of-transversal-bell-measurement-in-knills-method-of-fault-tolerant-e,integrity,integrity,integrity,coders agreed,integrity
+P01361,QCSE,https://quantumcomputing.stackexchange.com/questions/32898/commutation-relationship-and-measurement-results,integrity,development context,integrity,decided by adjudication,development context
+P02861,QCSE,https://quantumcomputing.stackexchange.com/questions/18190/determining-whether-there-exists-an-equivalent-set-of-unitary-kraus-operators,integrity,development context,integrity,decided by adjudication,development context
+P00017,QCSE,https://quantumcomputing.stackexchange.com/questions/41041/how-to-solve-the-error-primitiveresult-object-has-no-attribute-quasi-dists,development context,development context,development context,coders agreed,development context
+P01287,QCSE,https://quantumcomputing.stackexchange.com/questions/33269/simulating-a-small-distance-surface-code-with-individual-qubit-addressing,integrity,integrity,integrity,coders agreed,integrity
+P00968,QCSE,https://quantumcomputing.stackexchange.com/questions/35198/when-did-rigetti-release-their-128-qubit-chip,development context,development context,development context,coders agreed,development context
+P00294,QCSE,https://quantumcomputing.stackexchange.com/questions/39626/what-is-the-operator-sum-representation-of-the-two-qubit-depolarizing-channel,integrity,integrity,integrity,coders agreed,integrity
+P01038,QCSE,https://quantumcomputing.stackexchange.com/questions/34838/how-to-decompose-pauli-operator-into-the-product-of-stabilizers-in-stim,integrity,development context,integrity,decided by adjudication,development context
+P00179,QCSE,https://quantumcomputing.stackexchange.com/questions/40267/what-is-the-difference-between-digital-and-analog-quantum-computing,integrity,development context,development context,coders agreed,development context
+P02915,QCSE,https://quantumcomputing.stackexchange.com/questions/17812/what-is-the-difference-between-amplitude-amplification-amplitude-estimation-an,development context,development context,development context,coders agreed,development context
+P01731,QCSE,https://quantumcomputing.stackexchange.com/questions/29699/how-to-implement-the-cross-term-multi-qubit-in-the-square-of-the-finite-differ,development context,development context,development context,coders agreed,development context
+P05126,GitHub,https://github.com/qiskit-community/qiskit-qec/discussions/25,integrity,integrity,integrity,coders agreed,integrity
+P02429,QCSE,https://quantumcomputing.stackexchange.com/questions/24290/simulate-surface-topological-code-with-majorana-huge-complexity-saving,integrity,integrity,integrity,coders agreed,integrity
+P02553,QCSE,https://quantumcomputing.stackexchange.com/questions/23490/accuracy-of-grover-algorithm-is-100-for-2-qubit-94-5-on-3-qubit-and-96-2-for,integrity,development context,development context,coders agreed,development context
+P04567,SO,https://stackoverflow.com/questions/67707357/qiskit-nature-vqe-print-full-quantum-circuit?r=SearchResults,development context,development context,development context,coders agreed,development context
+P03037,QCSE,https://quantumcomputing.stackexchange.com/questions/16814/in-shor-s-9-qubit-code-is-the-error-syndrome-for-qubit-5-phase-flip-the-same-as,integrity,integrity,integrity,coders agreed,integrity
+P00953,QCSE,https://quantumcomputing.stackexchange.com/questions/35306/updating-qiskit-chemistry-core-hamiltonian-to-qiskit-nature-framework,development context,development context,development context,coders agreed,development context
+P02029,QCSE,https://quantumcomputing.stackexchange.com/questions/27864/creating-a-uniform-superposition-of-a-subset-of-basis-states,development context,development context,development context,coders agreed,development context
+P02782,QCSE,https://quantumcomputing.stackexchange.com/questions/20871/how-does-the-invertibility-of-a-quantum-map-reflect-on-its-kraus-operators,integrity,development context,development context,coders agreed,development context
+P00732,QCSE,https://quantumcomputing.stackexchange.com/questions/37519/valueerror-non-deterministic-detectors-while-using-stim-to-simulate-toric-code,integrity,integrity,integrity,coders agreed,integrity
+P02047,QCSE,https://quantumcomputing.stackexchange.com/questions/27783/why-should-we-wait-an-additional-d-1-surface-code-cycles-in-one-cell-logical-qub,integrity,integrity,integrity,coders agreed,integrity
+P02453,QCSE,https://quantumcomputing.stackexchange.com/questions/24125/what-does-perfect-measurement-mean-in-the-context-of-fault-tolerance,integrity,integrity,integrity,coders agreed,integrity
+P01151,QCSE,https://quantumcomputing.stackexchange.com/questions/34189/when-do-we-need-to-decode-live-the-syndromes-various-examples-to-understand,integrity,integrity,integrity,coders agreed,integrity
+P04235,QCSE,https://quantumcomputing.stackexchange.com/questions/5660/decoherence-in-quantum-systems-always-produces-vert0-rangle,integrity,integrity,integrity,coders agreed,integrity
+P00907,QCSE,https://quantumcomputing.stackexchange.com/questions/35587/qiskitbackendnotfounderror-no-backend-matches-the-criteria,integrity,development context,development context,coders agreed,development context
+P03307,QCSE,https://quantumcomputing.stackexchange.com/questions/14831/pauli-matrix-tolerant-and-encoding,integrity,integrity,integrity,coders agreed,integrity
+P05151,GitHub,https://github.com/qiskit-community/qiskit-qec/discussions/62,development context,development context,integrity,decided by adjudication,development context
+P05144,GitHub,https://github.com/CQCL/lambeq/discussions/62,out of scope,development context,development context,coders agreed,development context
+P01737,QCSE,https://quantumcomputing.stackexchange.com/questions/29682/is-it-possible-to-use-fake-backends-to-run-qiskit-runtime-primitives,integrity,integrity,integrity,coders agreed,integrity
+P01670,QCSE,https://quantumcomputing.stackexchange.com/questions/30018/transversal-hadamard-gates-and-multiple-logical-qubits,integrity,integrity,integrity,coders agreed,integrity
+P03580,QCSE,https://quantumcomputing.stackexchange.com/questions/12793/quantum-error-correcting-codes-and-graphs,integrity,integrity,integrity,coders agreed,integrity
+P03163,QCSE,https://quantumcomputing.stackexchange.com/questions/15853/can-i-only-use-a-subset-of-calibration-matrix-to-reduce-measurement-errors,integrity,integrity,integrity,coders agreed,integrity
+P04597,SO,https://stackoverflow.com/questions/58017525/unexpected-keyword-argument-noise-model?r=SearchResults,development context,integrity,integrity,coders agreed,integrity
+P02119,QCSE,https://quantumcomputing.stackexchange.com/questions/27375/generating-random-circuits-with-only-cnot-gates-using-qiskit-circuit-random-rand,development context,development context,development context,coders agreed,development context
+P03347,QCSE,https://quantumcomputing.stackexchange.com/questions/14439/how-to-increase-matrix-size-and-getting-high-fidelity-for-hhl-algorithm-in-qiski,integrity,development context,development context,coders agreed,development context
+P03847,QCSE,https://quantumcomputing.stackexchange.com/questions/9764/dealing-with-noise-in-nisq,integrity,integrity,integrity,coders agreed,integrity
+P00288,QCSE,https://quantumcomputing.stackexchange.com/questions/39709/the-relationship-between-qec-decoding-error-and-capacity,integrity,integrity,integrity,coders agreed,integrity
+P04450,Reddit,https://www.reddit.com/r/QuantumComputing/comments/1gi4gix/quantum_machines_and_nvidia_use_machine_learning/,integrity,out of scope,out of scope,coders agreed,out of scope

@@ -1,0 +1,487 @@
+post_id,platform,url,manual_check_result
+P00026,QCSE,https://quantumcomputing.stackexchange.com/questions/41019/what-are-some-of-the-advantages-to-using-qutrits-over-qubits,development context or out of scope
+P00040,QCSE,https://quantumcomputing.stackexchange.com/questions/40967/factoring-30-bit-numbers-with-qiskit-and-ibm-hardware-is-this-approach-unique,development context or out of scope
+P00057,QCSE,https://quantumcomputing.stackexchange.com/questions/40906/how-can-entanglement-be-essential-to-quantum-algorithms-when-in-deutsch-the-qub,development context or out of scope
+P00063,QCSE,https://quantumcomputing.stackexchange.com/questions/40890/how-to-solve-maximum-allowed-dimension-exceeded-while-trying-to-run-grovers-a,development context or out of scope
+P00084,QCSE,https://quantumcomputing.stackexchange.com/questions/40778/bb84-cloning-games-and-state-splitting,core security
+P00101,QCSE,https://quantumcomputing.stackexchange.com/questions/40697/fault-tolerant-syndrome-extraction-on-a-2d-square-grid,development context or out of scope
+P00108,QCSE,https://quantumcomputing.stackexchange.com/questions/40664/why-cant-oblivious-carry-runways-be-fully-removed-from-gidneys-implementatio,development context or out of scope
+P00186,QCSE,https://quantumcomputing.stackexchange.com/questions/40218/are-the-knill-laflamme-conditions-just-a-clever-restatement-of-the-no-cloning-th,integrity
+P00239,QCSE,https://quantumcomputing.stackexchange.com/questions/39989/dos-attacks-on-qkd-systesm,core security
+P00265,QCSE,https://quantumcomputing.stackexchange.com/questions/39873/why-does-an-optimal-collective-attack-correspond-to-a-case-involving-purificatio,core security
+P00289,QCSE,https://quantumcomputing.stackexchange.com/questions/39698/can-quantum-computers-eventually-be-programmed-normally,development context or out of scope
+P00332,QCSE,https://quantumcomputing.stackexchange.com/questions/39426/for-the-local-hamiltonian-problem-how-is-soundness-proved-if-arthur-uses-phase,development context or out of scope
+P00371,QCSE,https://quantumcomputing.stackexchange.com/questions/39222/quantum-cryptography-without-bells-theorem-brassard-bennett-mermin,core security
+P00374,QCSE,https://quantumcomputing.stackexchange.com/questions/39216/why-do-we-use-z-gates-in-the-following-figure,core security
+P00375,QCSE,https://quantumcomputing.stackexchange.com/questions/39210/how-to-calculate-guessing-probability-for-quantum-key-distribution,core security
+P00390,QCSE,https://quantumcomputing.stackexchange.com/questions/39147/in-hetero-homodyne-detection-what-does-it-mean-to-operate-at-the-quantum-shot,development context or out of scope
+P00417,QCSE,https://quantumcomputing.stackexchange.com/questions/39058/what-is-the-logical-gate-speed-of-a-superconducting-quantum-computer,integrity
+P00435,QCSE,https://quantumcomputing.stackexchange.com/questions/38970/motivation-behind-using-pqcs-in-qml-and-variational-algorithms,development context or out of scope
+P00450,QCSE,https://quantumcomputing.stackexchange.com/questions/38906/why-does-read-the-fine-print-say-that-a-quantum-computer-can-maybe-achieve-a,development context or out of scope
+P00493,QCSE,https://quantumcomputing.stackexchange.com/questions/38696/existence-of-fhe-scheme-that-supports-evaluation-of-obfuscated-quantum-functiona,core security
+P00505,QCSE,https://quantumcomputing.stackexchange.com/questions/38654/how-to-show-that-bb84-is-safe-against-imperfect-cloning,core security
+P00510,QCSE,https://quantumcomputing.stackexchange.com/questions/38622/how-to-extract-key-from-a-grovers-attack,core security
+P00535,QCSE,https://quantumcomputing.stackexchange.com/questions/38507/implementing-the-e91-protocol-in-quantum-computing,core security
+P00548,QCSE,https://quantumcomputing.stackexchange.com/questions/38446/do-we-consider-the-entangled-based-protocol-e91-to-be-a-device-independent-proto,core security
+P00575,QCSE,https://quantumcomputing.stackexchange.com/questions/38292/in-e91-protocol-if-one-of-the-bases-combination-was-not-chosen-what-should-be,core security
+P00596,QCSE,https://quantumcomputing.stackexchange.com/questions/38201/shor-s-qiskit-circuit-exceptions-circuiterror-duplicate-qubit-arguments,development context or out of scope
+P00607,QCSE,https://quantumcomputing.stackexchange.com/questions/38155/why-isnt-quantum-error-correction-used-in-quantum-key-distribution-protocols-li,core security
+P00616,QCSE,https://quantumcomputing.stackexchange.com/questions/38102/what-is-the-state-of-the-art-in-device-independent-qkd-and-twin-field-qkd,core security
+P00625,QCSE,https://quantumcomputing.stackexchange.com/questions/38061/in-a-qkd-protocol-such-as-bb84-how-do-alice-and-bob-deal-with-lost-or-undetected,core security
+P00629,QCSE,https://quantumcomputing.stackexchange.com/questions/38040/e91-protocole-the-type-of-bell-state-use-in-this-protocol,core security
+P00630,QCSE,https://quantumcomputing.stackexchange.com/questions/38035/benefits-of-using-quantum-encrypted-keys,core security
+P00638,QCSE,https://quantumcomputing.stackexchange.com/questions/37984/entanglement-based-attack-on-e91-protocol,core security
+P00655,QCSE,https://quantumcomputing.stackexchange.com/questions/37894/generating-equal-amplitude-superposition-states-from-another-equal-amplitude-sup,integrity
+P00659,QCSE,https://quantumcomputing.stackexchange.com/questions/37873/doubt-in-shor-preskills-proof-of-security-proof-of-bb84,core security
+P00661,QCSE,https://quantumcomputing.stackexchange.com/questions/37854/happy-30th-anniversary-to-shors-algorithm-how-challenging-was-the-review-proce,development context or out of scope
+P00715,QCSE,https://quantumcomputing.stackexchange.com/questions/37613/what-is-the-definition-of-physical-gate-error-rate,integrity
+P00722,QCSE,https://quantumcomputing.stackexchange.com/questions/37568/april-fools-2024-where-can-we-find-out-more-details-about-the-recent-factoring,core security
+P00789,QCSE,https://quantumcomputing.stackexchange.com/questions/37207/understanding-polynomial-quantum-error-correcting-codes,core security
+P00795,QCSE,https://quantumcomputing.stackexchange.com/questions/37173/doubt-in-understanding-the-use-of-uhlmanns-theorem-in-bb84-security-proof,core security
+P00798,QCSE,https://quantumcomputing.stackexchange.com/questions/37165/modelling-mach-zehnder-and-saturating-cramer-rao-bound,development context or out of scope
+P00801,QCSE,https://quantumcomputing.stackexchange.com/questions/37141/why-does-this-not-break-the-security-of-quantum-teleportation,core security
+P00804,QCSE,https://quantumcomputing.stackexchange.com/questions/37118/mutual-information-between-alice-and-eve-in-a-bb84-intercept-resend-attack,core security
+P00857,QCSE,https://quantumcomputing.stackexchange.com/questions/35865/can-wiesners-quantum-money-be-realized-with-logical-qubits-today,core security
+P00866,QCSE,https://quantumcomputing.stackexchange.com/questions/35825/can-alice-and-bob-convince-the-cops-that-they-dont-share-any-entanglement,core security
+P00880,QCSE,https://quantumcomputing.stackexchange.com/questions/35745/security-of-bb84-qkd-protocol,core security
+P00888,QCSE,https://quantumcomputing.stackexchange.com/questions/35699/does-assuming-the-security-of-lwe-imply-bpp-subset-bqp,core security
+P00911,QCSE,https://quantumcomputing.stackexchange.com/questions/35563/are-qc-codes-really-quasi-cyclic,development context or out of scope
+P00913,QCSE,https://quantumcomputing.stackexchange.com/questions/35561/ldpc-in-qkd-difference-from-the-classical-context,core security
+P00938,QCSE,https://quantumcomputing.stackexchange.com/questions/35393/quantum-encryption-schemes,core security
+P00963,QCSE,https://quantumcomputing.stackexchange.com/questions/35241/w-state-entanglement-breaks-during-x-basis-measurement,development context or out of scope
+P00971,QCSE,https://quantumcomputing.stackexchange.com/questions/35188/transpileerror-occurs-when-using-simulator-stabilizer,development context or out of scope
+P00976,QCSE,https://quantumcomputing.stackexchange.com/questions/35165/do-quantum-computing-principles-have-a-theoretical-or-hypothetical-potential-to,development context or out of scope
+P01003,QCSE,https://quantumcomputing.stackexchange.com/questions/35021/quantum-homomorphic-encryption-with-a-classical-verifier-clarifying-the-settin,core security
+P01005,QCSE,https://quantumcomputing.stackexchange.com/questions/35016/role-of-eavesdroppers-in-b92-of-phase-modulation,core security
+P01017,QCSE,https://quantumcomputing.stackexchange.com/questions/34960/confirmation-of-whether-it-has-been-reached-or-not,core security
+P01023,QCSE,https://quantumcomputing.stackexchange.com/questions/34936/adding-measurement-circuits-to-the-singlet-state-circuit-and-want-to-create-sing,core security
+P01101,QCSE,https://quantumcomputing.stackexchange.com/questions/34502/quantum-algorithm-for-aes,core security
+P01120,QCSE,https://quantumcomputing.stackexchange.com/questions/34418/how-to-create-a-3-d-state-array-of-qubits-in-qiskit-or-cirq-etc,development context or out of scope
+P01126,QCSE,https://quantumcomputing.stackexchange.com/questions/34387/how-to-correctly-describe-state-preparation,development context or out of scope
+P01129,QCSE,https://quantumcomputing.stackexchange.com/questions/34371/tensorflow-quantum-hybrid-models-tf-quantum,development context or out of scope
+P01140,QCSE,https://quantumcomputing.stackexchange.com/questions/34258/can-quantum-teleportation-be-used-to-break-bb84,core security
+P01148,QCSE,https://quantumcomputing.stackexchange.com/questions/34205/how-can-entanglement-deal-with-individual-attack-in-qkd,core security
+P01156,QCSE,https://quantumcomputing.stackexchange.com/questions/34170/are-there-any-uses-for-shors-algorithm-other-than-breaking-public-key-cryptogra,development context or out of scope
+P01160,QCSE,https://quantumcomputing.stackexchange.com/questions/34162/how-to-implement-non-unitary-operator-in-qiskit,core security
+P01163,QCSE,https://quantumcomputing.stackexchange.com/questions/34140/why-cant-we-use-a-two-qubit-entangled-state-to-send-information-faster-than-lig,development context or out of scope
+P01175,QCSE,https://quantumcomputing.stackexchange.com/questions/34004/what-are-the-practical-applications-of-quantum-computing-in-engineering-by-the-y,development context or out of scope
+P01212,QCSE,https://quantumcomputing.stackexchange.com/questions/33793/number-of-qubits-in-quantum-circuits-in-ibm-qiskit,development context or out of scope
+P01226,QCSE,https://quantumcomputing.stackexchange.com/questions/33690/can-we-avoid-repetition-in-shors-algorithm-by-using-the-quadratic-formula,development context or out of scope
+P01229,QCSE,https://quantumcomputing.stackexchange.com/questions/33675/is-there-any-programming-project-that-implements-one-qkd-protocol-or-demonstrate,core security
+P01241,QCSE,https://quantumcomputing.stackexchange.com/questions/33627/choosing-e91-bb84-basis-states-and-angles,core security
+P01249,QCSE,https://quantumcomputing.stackexchange.com/questions/33583/quantum-algorithm-to-get-d-private-exponent-directly-without-factoring-first,core security
+P01268,QCSE,https://quantumcomputing.stackexchange.com/questions/33416/clarification-on-the-definition-of-cipherstate-in-the-quantum-one-time-pad,core security
+P01269,QCSE,https://quantumcomputing.stackexchange.com/questions/33411/two-way-quantum-computers-like-in-ising-model-are-they-possible-could-solve,development context or out of scope
+P01278,QCSE,https://quantumcomputing.stackexchange.com/questions/33385/what-is-the-exact-mathematical-content-of-the-no-teleportation-theorem,development context or out of scope
+P01283,QCSE,https://quantumcomputing.stackexchange.com/questions/33310/misunderstanding-of-qkd-bb84-protocol,core security
+P01309,QCSE,https://quantumcomputing.stackexchange.com/questions/33159/heuristics-on-quantum-computers,development context or out of scope
+P01344,QCSE,https://quantumcomputing.stackexchange.com/questions/33008/on-quantum-and-classical-complexity,development context or out of scope
+P01347,QCSE,https://quantumcomputing.stackexchange.com/questions/32996/mathematical-justification-of-postprocessing-in-qrng,core security
+P01377,QCSE,https://quantumcomputing.stackexchange.com/questions/32833/verifying-equation-4-in-ekerts-paper-quantum-cryptography-based-on-bells-theo,core security
+P01399,QCSE,https://quantumcomputing.stackexchange.com/questions/32719/python-code-to-approximate-an-arbitrary-22-unitary-matrix-with-gates-h-t-and-z,development context or out of scope
+P01400,QCSE,https://quantumcomputing.stackexchange.com/questions/32712/quantinuum-corporation-says-they-have-a-bell-test-for-quantum-randomness-why-do,core security
+P01464,QCSE,https://quantumcomputing.stackexchange.com/questions/32371/anyone-know-how-to-solve-the-error-plz,core security
+P01494,QCSE,https://quantumcomputing.stackexchange.com/questions/32213/expressibility-and-entanglement-capability-of-the-parameterized-quantum-circuits,development context or out of scope
+P01507,QCSE,https://quantumcomputing.stackexchange.com/questions/32112/randomness-and-precision-of-quantum-number-random-generators,core security
+P01508,QCSE,https://quantumcomputing.stackexchange.com/questions/32109/do-not-understand-error-in-if-else-section,core security
+P01509,QCSE,https://quantumcomputing.stackexchange.com/questions/32096/do-no-cloning-and-no-deletion-theorems-follow-one-from-the-other,development context or out of scope
+P01514,QCSE,https://quantumcomputing.stackexchange.com/questions/32054/derivations-of-equations-12-205-12-207-in-nielsen-chuang,core security
+P01518,QCSE,https://quantumcomputing.stackexchange.com/questions/32038/how-does-the-transformation-x-rangle-0-rangle-rightarrow-x-rangle-hx,development context or out of scope
+P01522,QCSE,https://quantumcomputing.stackexchange.com/questions/32022/how-encryption-works-with-a-qkd,core security
+P01528,QCSE,https://quantumcomputing.stackexchange.com/questions/31998/what-do-we-mean-by-family-of-css-codes,core security
+P01539,QCSE,https://quantumcomputing.stackexchange.com/questions/31950/why-is-applying-a-hadamard-transform-useful-in-the-entanglement-based-version-of,core security
+P01569,QCSE,https://quantumcomputing.stackexchange.com/questions/31769/probability-of-error-in-bb84-if-eve-is-using-breidbarts-basis,core security
+P01570,QCSE,https://quantumcomputing.stackexchange.com/questions/31750/were-quantum-computers-conjectured-to-factor-large-numbers-before-shor-developed,development context or out of scope
+P01572,QCSE,https://quantumcomputing.stackexchange.com/questions/31738/role-of-intensity-modulators-extinction-ratio-on-transmitter-side-in-cow-dps-qk,core security
+P01575,QCSE,https://quantumcomputing.stackexchange.com/questions/31724/is-there-a-bb84-man-in-the-middle-attack-forcing-the-same-keys-on-alice-and-bo,core security
+P01588,QCSE,https://quantumcomputing.stackexchange.com/questions/31584/is-it-possible-to-brute-force-the-salsa-20-algorithm-with-quantum-computing-in-a,core security
+P01612,QCSE,https://quantumcomputing.stackexchange.com/questions/30439/monitoring-qkd-devices-with-wazuh-edr,core security
+P01619,QCSE,https://quantumcomputing.stackexchange.com/questions/30403/is-quantum-energy-teleportation-a-specific-version-of-quantum-teleportation,development context or out of scope
+P01656,QCSE,https://quantumcomputing.stackexchange.com/questions/30151/understanding-adversarial-channels,development context or out of scope
+P01661,QCSE,https://quantumcomputing.stackexchange.com/questions/30090/i-cant-load-account-on-ibms-qiskit,development context or out of scope
+P01668,QCSE,https://quantumcomputing.stackexchange.com/questions/30030/what-is-a-universal-quantum-algorithm,development context or out of scope
+P01764,QCSE,https://quantumcomputing.stackexchange.com/questions/29516/physical-qubit-estimates-when-using-surface-codes,core security
+P01773,QCSE,https://quantumcomputing.stackexchange.com/questions/29479/ekert-protocol-understanding-correlations-anti-correlations-of-measurements-by,core security
+P01789,QCSE,https://quantumcomputing.stackexchange.com/questions/29384/is-it-possible-to-get-the-symbolic-matrix-operator-associated-with-a-parameter,development context or out of scope
+P01802,QCSE,https://quantumcomputing.stackexchange.com/questions/29296/are-there-problems-where-quantum-computers-are-faster-in-practice-than-classi,development context or out of scope
+P01817,QCSE,https://quantumcomputing.stackexchange.com/questions/29206/solving-linear-systems-over-finite-fields-using-quantum-computation,core security
+P01833,QCSE,https://quantumcomputing.stackexchange.com/questions/29100/why-does-entanglement-of-3-qubits-break-this,core security
+P01844,QCSE,https://quantumcomputing.stackexchange.com/questions/29068/the-ekert-protocol-e91-for-quantum-key-distribution,core security
+P01859,QCSE,https://quantumcomputing.stackexchange.com/questions/28976/how-to-factor-n-14-with-shors-algorithm,development context or out of scope
+P01871,QCSE,https://quantumcomputing.stackexchange.com/questions/28918/would-qkd-break-down-if-you-have-the-receiver-box-of-bob,core security
+P01880,QCSE,https://quantumcomputing.stackexchange.com/questions/28832/quantum-in-place-modular-addition-circuit,development context or out of scope
+P01888,QCSE,https://quantumcomputing.stackexchange.com/questions/28762/does-a-noiseless-quantum-channel-violate-no-cloning-theorem,integrity
+P01912,QCSE,https://quantumcomputing.stackexchange.com/questions/28632/applications-of-quantum-computers-after-they-become-cheap-enough-and-reliable-en,development context or out of scope
+P01935,QCSE,https://quantumcomputing.stackexchange.com/questions/28508/could-no-cloning-be-used-as-a-defence-for-quantum-encryption,core security
+P01957,QCSE,https://quantumcomputing.stackexchange.com/questions/28346/is-quantum-teleportation-fully-secure-in-principle,core security
+P01958,QCSE,https://quantumcomputing.stackexchange.com/questions/28344/understanding-shor-algorithm-fo-elliptic-curves-demonstration,development context or out of scope
+P01964,QCSE,https://quantumcomputing.stackexchange.com/questions/28300/entangling-attack-on-bb84-protocol,core security
+P01988,QCSE,https://quantumcomputing.stackexchange.com/questions/28152/insufficient-memory-to-run-circuit-using-the-statevector-simulator,development context or out of scope
+P01993,QCSE,https://quantumcomputing.stackexchange.com/questions/28118/speed-versus-number-of-qubits-for-rsa-factorization,core security
+P01996,QCSE,https://quantumcomputing.stackexchange.com/questions/28067/seeding-a-stim-tableausimulator,development context or out of scope
+P01997,QCSE,https://quantumcomputing.stackexchange.com/questions/28061/formal-measurement-of-the-probability-of-an-outcome-of-a-qubit-in-the-hadamard-b,development context or out of scope
+P02006,QCSE,https://quantumcomputing.stackexchange.com/questions/27997/cloning-for-error-correction-by-preparing-state-multiple-times,integrity
+P02011,QCSE,https://quantumcomputing.stackexchange.com/questions/27963/can-we-use-cryptocurrency-mining-to-verify-claims-of-quantum-advantage,core security
+P02015,QCSE,https://quantumcomputing.stackexchange.com/questions/27928/can-a-quantum-computer-simulate-classical-hack-and-exploit-in-a-network-also-h,core security
+P02018,QCSE,https://quantumcomputing.stackexchange.com/questions/27916/any-simple-description-of-a-circuit-for-yamakawa-zhandry-algorithm,development context or out of scope
+P02044,QCSE,https://quantumcomputing.stackexchange.com/questions/27794/qkd-chsh-inequality,core security
+P02048,QCSE,https://quantumcomputing.stackexchange.com/questions/27782/circuit-gives-unexpected-phase-factor-cirq,development context or out of scope
+P02056,QCSE,https://quantumcomputing.stackexchange.com/questions/27703/simulating-quantum-algorithms-versus-using-classical-ones,development context or out of scope
+P02094,QCSE,https://quantumcomputing.stackexchange.com/questions/27523/which-protocol-does-the-qiskit-textbook-use-for-quantum-key-distribution,core security
+P02109,QCSE,https://quantumcomputing.stackexchange.com/questions/27405/is-it-possible-to-prevent-quantum-communication-detection,core security
+P02134,QCSE,https://quantumcomputing.stackexchange.com/questions/27285/where-can-i-find-a-detailled-exposition-of-the-information-theoretic-part-of-bb8,core security
+P02140,QCSE,https://quantumcomputing.stackexchange.com/questions/27261/is-there-any-real-world-problem-where-i-can-see-quantum-computing-being-better-t,development context or out of scope
+P02144,QCSE,https://quantumcomputing.stackexchange.com/questions/27237/doesnt-a-beamsplitter-contradict-the-nocloning-theorem,development context or out of scope
+P02168,QCSE,https://quantumcomputing.stackexchange.com/questions/27108/alternative-measurements-cost,core security
+P02169,QCSE,https://quantumcomputing.stackexchange.com/questions/27107/applications-that-support-low-fidelity-qubits-generated-by-uqcm,development context or out of scope
+P02182,QCSE,https://quantumcomputing.stackexchange.com/questions/27023/what-are-quantum-computers-actually-doing-today,development context or out of scope
+P02192,QCSE,https://quantumcomputing.stackexchange.com/questions/26978/eavesdropping-in-case-of-the-bb84-protocol,core security
+P02220,QCSE,https://quantumcomputing.stackexchange.com/questions/26844/are-there-any-examples-of-harvest-now-decrypt-later-that-we-know-of,core security
+P02247,QCSE,https://quantumcomputing.stackexchange.com/questions/26627/what-type-of-attackindividual-attack-collective-attack-coherent-attack-is-a,core security
+P02284,QCSE,https://quantumcomputing.stackexchange.com/questions/26402/cost-of-swap-gate,development context or out of scope
+P02297,QCSE,https://quantumcomputing.stackexchange.com/questions/26320/a-rigorous-definition-for-an-exponential-quantum-advantage,development context or out of scope
+P02326,QCSE,https://quantumcomputing.stackexchange.com/questions/26026/what-is-a-realistic-model-for-simulating-physical-tampering-of-a-channel-ex-n,core security
+P02332,QCSE,https://quantumcomputing.stackexchange.com/questions/25987/why-is-the-combination-of-ntru-prime-and-x25519-ecdh-in-openssh-believed-to-be-s,core security
+P02334,QCSE,https://quantumcomputing.stackexchange.com/questions/25967/why-is-lattice-based-cryptography-believed-to-be-hard-to-solve-for-quantum-compu,core security
+P02336,QCSE,https://quantumcomputing.stackexchange.com/questions/25952/can-a-quantum-computer-break-quantum-cryptography,core security
+P02356,QCSE,https://quantumcomputing.stackexchange.com/questions/25784/keras-agents-fails-in-dqnagent-using-pqc-during-clonation-for-target,development context or out of scope
+P02363,QCSE,https://quantumcomputing.stackexchange.com/questions/25697/whats-the-effective-speed-of-quantum-computers-circa-2022,core security
+P02364,QCSE,https://quantumcomputing.stackexchange.com/questions/25680/ekerts-qkd-protocol-with-eve-hacker-sending-random-mixture-of-qubit-pairs-i,core security
+P02368,QCSE,https://quantumcomputing.stackexchange.com/questions/25653/surface-code-cycle-time,integrity
+P02392,QCSE,https://quantumcomputing.stackexchange.com/questions/24543/qiskit-getting-weird-error-on-creating-an-operator-acting-on-certain-qubits,development context or out of scope
+P02394,QCSE,https://quantumcomputing.stackexchange.com/questions/24507/does-there-exist-a-quantum-approximate-cloning-method-that-does-not-modify-the-i,development context or out of scope
+P02401,QCSE,https://quantumcomputing.stackexchange.com/questions/24457/quantum-part-on-regevs-lwe-paper,core security
+P02425,QCSE,https://quantumcomputing.stackexchange.com/questions/24325/e91-probability-of-wrong-conclusion-of-eavesdropper,core security
+P02435,QCSE,https://quantumcomputing.stackexchange.com/questions/24263/use-parametrized-quantum-circuit-output-amplitudes-for-training-in-tensorflow,development context or out of scope
+P02549,QCSE,https://quantumcomputing.stackexchange.com/questions/23511/in-the-e91-protocol-how-can-alice-and-bob-detect-eve-if-she-waits-to-measure-un,core security
+P02563,QCSE,https://quantumcomputing.stackexchange.com/questions/23413/heisenberg-uncertainty-principle-for-bb84-protocol-using-paulis-spin-matrices,core security
+P02564,QCSE,https://quantumcomputing.stackexchange.com/questions/23404/bb84-protocol-doubt,core security
+P02598,QCSE,https://quantumcomputing.stackexchange.com/questions/22124/what-are-conceptual-open-problem-in-quantum-communications-and-cryptography,core security
+P02601,QCSE,https://quantumcomputing.stackexchange.com/questions/22067/why-is-measurement-device-independent-mdi-quantum-key-distribution-qkd-truly,core security
+P02626,QCSE,https://quantumcomputing.stackexchange.com/questions/21949/how-would-you-apply-quantum-computing-to-break-a-symmetric-key-system,core security
+P02628,QCSE,https://quantumcomputing.stackexchange.com/questions/21933/show-that-an-intercept-and-resend-attack-on-all-qubits-reduces-mutual-informatio,core security
+P02651,QCSE,https://quantumcomputing.stackexchange.com/questions/21743/what-is-the-difference-between-cv-qkd-and-dv-qkd,core security
+P02653,QCSE,https://quantumcomputing.stackexchange.com/questions/21733/doubt-in-css-error-correction-step,core security
+P02662,QCSE,https://quantumcomputing.stackexchange.com/questions/21676/understanding-constant-multiplication-circuit-for-binary-field-how-to-construc,development context or out of scope
+P02666,QCSE,https://quantumcomputing.stackexchange.com/questions/21629/doubt-in-simple-proof-of-security-of-the-bb84-qkd,core security
+P02711,QCSE,https://quantumcomputing.stackexchange.com/questions/21377/major-security-proofs-available-for-device-independent-qkd,core security
+P02747,QCSE,https://quantumcomputing.stackexchange.com/questions/21105/what-is-the-computational-complexity-limitation-of-classical-client-delegated-qu,core security
+P02772,QCSE,https://quantumcomputing.stackexchange.com/questions/20950/can-we-do-error-correction-for-entangled-particles,development context or out of scope
+P02816,QCSE,https://quantumcomputing.stackexchange.com/questions/18650/does-qrng-generates-true-random-numbers,core security
+P02832,QCSE,https://quantumcomputing.stackexchange.com/questions/18447/mahadevs-classical-homomorphic-encryption-for-quantum-circuits-and-nisq-computi,core security
+P02843,QCSE,https://quantumcomputing.stackexchange.com/questions/18361/question-about-the-result-analysis-of-ekeras-method-in-short-dlp,development context or out of scope
+P02848,QCSE,https://quantumcomputing.stackexchange.com/questions/18269/how-are-eavesdroppers-detected-when-using-bb84-in-the-presence-of-noise,core security
+P02865,QCSE,https://quantumcomputing.stackexchange.com/questions/18159/is-there-a-practical-architecture-independent-benchmark-suitable-for-adversarial,core security
+P02888,QCSE,https://quantumcomputing.stackexchange.com/questions/17996/does-the-bit-generated-password-using-qkd-protocols-need-to-be-converted-to-anot,core security
+P02899,QCSE,https://quantumcomputing.stackexchange.com/questions/17928/how-do-i-construct-a-breidbart-gate-in-qiskit,development context or out of scope
+P02927,QCSE,https://quantumcomputing.stackexchange.com/questions/17707/paper-references-on-how-quantum-algorithms-have-an-impact-on-cryptography,core security
+P02948,QCSE,https://quantumcomputing.stackexchange.com/questions/17546/sympy-suddently-does-not-work-together-with-tfq,development context or out of scope
+P02953,QCSE,https://quantumcomputing.stackexchange.com/questions/17518/how-can-one-cheat-in-mahadevs-classical-verification-protocol-if-one-can-find-a,core security
+P02962,QCSE,https://quantumcomputing.stackexchange.com/questions/17458/show-when-a-k-and-b-k-are-correlated-when-measuring-in-different-bases-in-t,core security
+P02978,QCSE,https://quantumcomputing.stackexchange.com/questions/17318/does-a-cnot-quantum-gate-violate-no-cloning-theorem,development context or out of scope
+P03007,QCSE,https://quantumcomputing.stackexchange.com/questions/17041/what-is-the-probability-of-detecting-eves-tampering-in-bb84,core security
+P03033,QCSE,https://quantumcomputing.stackexchange.com/questions/16844/understanding-the-2-3-threshold-quantum-secret-sharing-scheme-in-cleve-et-al,core security
+P03089,QCSE,https://quantumcomputing.stackexchange.com/questions/16489/shor-vs-schnorr-a-classical-algorithm-for-breaking-rsa,development context or out of scope
+P03102,QCSE,https://quantumcomputing.stackexchange.com/questions/16314/can-weak-measurements-or-quantum-state-tomography-break-bb84,core security
+P03107,QCSE,https://quantumcomputing.stackexchange.com/questions/16244/can-i-have-access-to-break-my-windows-bitlocker-key,core security
+P03120,QCSE,https://quantumcomputing.stackexchange.com/questions/16128/ibmq-load-account-fails-with-403-client-error,development context or out of scope
+P03131,QCSE,https://quantumcomputing.stackexchange.com/questions/16028/handle-qiskit-exception-while-loading-ibmq-account-using-streamlit,development context or out of scope
+P03140,QCSE,https://quantumcomputing.stackexchange.com/questions/15992/fowler-distance-in-solovay-kitaev-algorithm,development context or out of scope
+P03146,QCSE,https://quantumcomputing.stackexchange.com/questions/15957/how-is-it-possible-for-quantum-computers-to-handle-encryption-if-their-states-ar,development context or out of scope
+P03165,QCSE,https://quantumcomputing.stackexchange.com/questions/15829/where-does-the-time-complexity-come-from-when-applying-grovers-algorithm-to-aes,core security
+P03170,QCSE,https://quantumcomputing.stackexchange.com/questions/15797/q-installation-on-heroku,development context or out of scope
+P03183,QCSE,https://quantumcomputing.stackexchange.com/questions/15722/theoretical-obstacles-for-a-bzk-like-quantum-algorithm-instantiated-with-a-subro,core security
+P03195,QCSE,https://quantumcomputing.stackexchange.com/questions/15612/how-to-convert-a-dataset-of-different-values-in-0-1000-to-quantum-data-for-tra,development context or out of scope
+P03197,QCSE,https://quantumcomputing.stackexchange.com/questions/15592/average-secret-key-rate-calculation,core security
+P03214,QCSE,https://quantumcomputing.stackexchange.com/questions/15489/how-to-deal-with-job-submission-error-in-ibm,development context or out of scope
+P03220,QCSE,https://quantumcomputing.stackexchange.com/questions/15451/do-quantum-computers-have-any-security-risks-associated-with-them,core security
+P03240,QCSE,https://quantumcomputing.stackexchange.com/questions/15293/how-to-generate-a-random-sequence,development context or out of scope
+P03246,QCSE,https://quantumcomputing.stackexchange.com/questions/15255/differences-between-extractors-and-privacy-amplification-for-quantum-random-gene,core security
+P03254,QCSE,https://quantumcomputing.stackexchange.com/questions/15193/how-to-show-that-amount-of-qubits-needed-to-crack-the-rsa-2048-protocol-using-sh,core security
+P03265,QCSE,https://quantumcomputing.stackexchange.com/questions/15178/quantum-bit-error-rate,core security
+P03277,QCSE,https://quantumcomputing.stackexchange.com/questions/15028/could-a-new-benchmark-of-quantum-processors-q-score-by-atos-be-more-useful-than,development context or out of scope
+P03320,QCSE,https://quantumcomputing.stackexchange.com/questions/14691/what-is-meant-with-reconciliation-in-cv-qkd,core security
+P03348,QCSE,https://quantumcomputing.stackexchange.com/questions/14438/non-ideal-bit-commitment-and-coin-tossing,core security
+P03372,QCSE,https://quantumcomputing.stackexchange.com/questions/14268/unable-to-run-a-qrng-code,development context or out of scope
+P03385,QCSE,https://quantumcomputing.stackexchange.com/questions/14196/how-exactly-does-grovers-algorithm-crack-symmetric-key-encryption,core security
+P03410,QCSE,https://quantumcomputing.stackexchange.com/questions/14027/the-methodology-of-quantum-key-distributions-systems,core security
+P03427,QCSE,https://quantumcomputing.stackexchange.com/questions/13929/is-there-a-quantum-operation-that-can-transform-a-superposition-of-states-into-i,development context or out of scope
+P03433,QCSE,https://quantumcomputing.stackexchange.com/questions/13901/how-are-franson-interferometers-used-to-prove-security-in-photonic-qkd-experimen,core security
+P03493,QCSE,https://quantumcomputing.stackexchange.com/questions/13508/can-hash-functions-speed-up-quantum-simulation-generalizing-may-and-schlieper,development context or out of scope
+P03518,QCSE,https://quantumcomputing.stackexchange.com/questions/13335/any-good-resources-for-learning-about-quantum-networks-and-how-to-do-a-simulatio,core security
+P03545,QCSE,https://quantumcomputing.stackexchange.com/questions/13090/how-do-i-compare-the-secret-key-rate-kbps-with-the-secret-key-rate-per-channel,core security
+P03556,QCSE,https://quantumcomputing.stackexchange.com/questions/13018/can-eve-randomly-guess-the-correct-bases-in-the-bb84-exchange-of-a-one-time-pad,core security
+P03577,QCSE,https://quantumcomputing.stackexchange.com/questions/12815/energy-cost-of-quantum-computation,development context or out of scope
+P03578,QCSE,https://quantumcomputing.stackexchange.com/questions/12812/is-there-a-notion-of-computational-security-in-quantum-cryptography,core security
+P03586,QCSE,https://quantumcomputing.stackexchange.com/questions/12743/how-do-we-restrict-to-a-limited-number-of-dimensions-say-3-for-qutrits-while-u,development context or out of scope
+P03597,QCSE,https://quantumcomputing.stackexchange.com/questions/12660/what-is-the-intuition-behind-the-following-entanglement-distillation-protocol-fo,development context or out of scope
+P03622,QCSE,https://quantumcomputing.stackexchange.com/questions/12504/will-quantum-computing-kill-cryptocurrencies-ecommerce-and-private-communicatio,core security
+P03654,QCSE,https://quantumcomputing.stackexchange.com/questions/12264/is-it-a-good-idea-to-publish-a-research-paper-about-the-simulation-of-bb84-proto,core security
+P03655,QCSE,https://quantumcomputing.stackexchange.com/questions/12257/must-the-cryptographic-test-for-quantumness-in-bcmvv18-use-post-quantum-trapdo,core security
+P03659,QCSE,https://quantumcomputing.stackexchange.com/questions/12202/hadamard-gate-with-two-inputs-in-the-circuit-for-the-bb84-protocol,core security
+P03660,QCSE,https://quantumcomputing.stackexchange.com/questions/12261/what-are-the-thermodynamic-limits-of-shors-algorithm,development context or out of scope
+P03673,QCSE,https://quantumcomputing.stackexchange.com/questions/12138/is-the-bb84-protocol-an-example-of-quantum-supremacy,core security
+P03678,QCSE,https://quantumcomputing.stackexchange.com/questions/12099/how-does-quantum-teleportation-relate-to-quantum-encryption,core security
+P03703,QCSE,https://quantumcomputing.stackexchange.com/questions/11902/do-we-already-know-some-problems-that-would-be-hard-to-solve-for-quantum-comput,core security
+P03716,QCSE,https://quantumcomputing.stackexchange.com/questions/11769/in-the-bb84-protocol-for-what-error-thresholds-can-alice-and-bob-not-establish,core security
+P03729,QCSE,https://quantumcomputing.stackexchange.com/questions/11645/what-is-the-role-of-choosing-the-single-qubits-randomly-in-google-quantum-suprem,development context or out of scope
+P03753,QCSE,https://quantumcomputing.stackexchange.com/questions/11467/shifting-amplitude-from-one-basis-to-another-with-a-control-qubit,development context or out of scope
+P03767,QCSE,https://quantumcomputing.stackexchange.com/questions/11382/why-alice-and-bob-dont-get-the-same-result-when-they-measure-in-the-same-basis,core security
+P03784,QCSE,https://quantumcomputing.stackexchange.com/questions/10241/how-to-deal-with-noise-in-bb84-protocol,core security
+P03792,QCSE,https://quantumcomputing.stackexchange.com/questions/10168/like-blockchains-other-than-the-few-quantum-algorithms-available-out-there-are,development context or out of scope
+P03794,QCSE,https://quantumcomputing.stackexchange.com/questions/10156/how-does-a-rectilinear-filter-used-for-qkd-bb84-detect-both-horizontal-and-verti,core security
+P03814,QCSE,https://quantumcomputing.stackexchange.com/questions/10029/what-is-the-quantum-state-transmitted-to-bob-in-bb84-protocol,core security
+P03833,QCSE,https://quantumcomputing.stackexchange.com/questions/9851/does-the-quantum-fourier-transform-have-many-applications-beyond-period-finding,development context or out of scope
+P03838,QCSE,https://quantumcomputing.stackexchange.com/questions/9806/show-that-if-b-and-b-are-uncorrelated-then-a-and-a-are-uncorrelated,core security
+P03839,QCSE,https://quantumcomputing.stackexchange.com/questions/9798/is-it-possible-to-mine-bitcoin-by-implementing-grovers-algorithm-on-a-quantum-c,core security
+P03886,QCSE,https://quantumcomputing.stackexchange.com/questions/9456/in-the-biconf-information-reconciliation-protocol-for-qkd-should-i-also-run-bin,core security
+P03890,QCSE,https://quantumcomputing.stackexchange.com/questions/9428/ibm-quantum-experience-api-without-qiskit,development context or out of scope
+P03894,QCSE,https://quantumcomputing.stackexchange.com/questions/9406/does-the-lieb-robinson-bound-constrain-the-speed-of-entanglement-information-tra,development context or out of scope
+P03896,QCSE,https://quantumcomputing.stackexchange.com/questions/9385/could-quantum-computers-be-useful-for-sending-encrypted-information-over-a-class,core security
+P03925,QCSE,https://quantumcomputing.stackexchange.com/questions/9133/qiskit-connection,development context or out of scope
+P03928,QCSE,https://quantumcomputing.stackexchange.com/questions/9112/bb84-and-b92-protocols-what-is-maximum-and-minimum-bits-that-alice-and-bob-migh,core security
+P03932,QCSE,https://quantumcomputing.stackexchange.com/questions/9070/quantum-random-number-generator,development context or out of scope
+P03939,QCSE,https://quantumcomputing.stackexchange.com/questions/9015/what-authentication-protocol-to-use-for-bb84-and-other-qkd-protocols,core security
+P03945,QCSE,https://quantumcomputing.stackexchange.com/questions/8987/couldnt-connect-to-ibmq-server,development context or out of scope
+P03955,QCSE,https://quantumcomputing.stackexchange.com/questions/8924/what-is-the-difference-between-intercept-resend-attack-and-measure-resend-attack,core security
+P03961,QCSE,https://quantumcomputing.stackexchange.com/questions/8873/renting-quantum-on-the-cloud-data-privacy-adoption-and-error-correction,core security
+P03995,QCSE,https://quantumcomputing.stackexchange.com/questions/8589/can-quantum-voting-machine-replace-electronic-voting-machine-evm-in-future,core security
+P04037,QCSE,https://quantumcomputing.stackexchange.com/questions/8276/is-it-possible-to-simulate-or-replicate-a-cryptographic-algorithm-using-qiskit,core security
+P04047,QCSE,https://quantumcomputing.stackexchange.com/questions/7182/ibmq-load-account-from-stored-account-is-failing-on-qiskit-0-9-0,development context or out of scope
+P04062,QCSE,https://quantumcomputing.stackexchange.com/questions/7001/bounding-advantage-of-a-no-cloning-theorem-counterfeiter,core security
+P04064,QCSE,https://quantumcomputing.stackexchange.com/questions/6989/job-execution-issue-while-using-ibmq-experience,integrity
+P04066,QCSE,https://quantumcomputing.stackexchange.com/questions/6986/non-maximally-entangled-states-for-qkd,core security
+P04069,QCSE,https://quantumcomputing.stackexchange.com/questions/6978/are-there-many-practical-problems-for-which-grovers-algorithm-beats-the-best-he,development context or out of scope
+P04076,QCSE,https://quantumcomputing.stackexchange.com/questions/6932/clarifying-moscas-inequality-theorem-parallel-vs-additive,core security
+P04081,QCSE,https://quantumcomputing.stackexchange.com/questions/6915/in-what-ways-can-qubits-be-used-for-applications-that-do-not-require-entanglemen,development context or out of scope
+P04083,QCSE,https://quantumcomputing.stackexchange.com/questions/6900/why-isnt-there-a-contradiction-between-the-existence-of-cnot-gate-entanglement,development context or out of scope
+P04090,QCSE,https://quantumcomputing.stackexchange.com/questions/6869/no-cloning-theorem-does-not-seem-precise,core security
+P04100,QCSE,https://quantumcomputing.stackexchange.com/questions/6816/complexity-of-classical-counting-algorithm,development context or out of scope
+P04119,QCSE,https://quantumcomputing.stackexchange.com/questions/6632/classical-and-quantum-limits-to-classical-copying,integrity
+P04120,QCSE,https://quantumcomputing.stackexchange.com/questions/6631/sampling-random-circuits-vs-solovay-kitaev-compiler,development context or out of scope
+P04144,QCSE,https://quantumcomputing.stackexchange.com/questions/6493/calculating-power-of-a-quantum-computer-for-rsa,core security
+P04148,QCSE,https://quantumcomputing.stackexchange.com/questions/6413/clarification-of-the-calculations-section-of-the-hhl09-paper,development context or out of scope
+P04183,QCSE,https://quantumcomputing.stackexchange.com/questions/6099/counting-channel-uses-of-the-lossy-bosonic-channel-or-definition-of-channel-uses,core security
+P04203,QCSE,https://quantumcomputing.stackexchange.com/questions/5907/grovers-algorithm-des-circuit-as-oracle,core security
+P04216,QCSE,https://quantumcomputing.stackexchange.com/questions/5824/grovers-algorithm-number-of-searches-required-to-find-a-key,core security
+P04220,QCSE,https://quantumcomputing.stackexchange.com/questions/5784/quantum-teleportation-of-a-state-from-one-of-two-bases,core security
+P04234,QCSE,https://quantumcomputing.stackexchange.com/questions/5661/what-role-do-hecke-operators-and-ideal-classes-perform-in-quantum-money-from-mo,core security
+P04269,QCSE,https://quantumcomputing.stackexchange.com/questions/5356/where-does-the-xmon-simulator-from-googles-cirq-framework-its-entropy-from,core security
+P04282,QCSE,https://quantumcomputing.stackexchange.com/questions/5263/what-is-the-difference-between-quantum-key-distribution-and-quantum-key-exchange,core security
+P04293,QCSE,https://quantumcomputing.stackexchange.com/questions/5153/implementing-bb84-protocol-with-easily-obtained-consumer-hardware,core security
+P04311,QCSE,https://quantumcomputing.stackexchange.com/questions/4991/what-does-teleportation-have-to-do-w-xor-linked-lists,development context or out of scope
+P04317,QCSE,https://quantumcomputing.stackexchange.com/questions/4914/proof-of-no-cloning,development context or out of scope
+P04328,QCSE,https://quantumcomputing.stackexchange.com/questions/4827/bb84-protocol-over-lifi,core security
+P04334,QCSE,https://quantumcomputing.stackexchange.com/questions/4783/how-to-encode-a-qubit-in-standard-basis,development context or out of scope
+P04335,QCSE,https://quantumcomputing.stackexchange.com/questions/4776/comprehension-questions-on-quantum-cryptography-especially-bb84,core security
+P04343,QCSE,https://quantumcomputing.stackexchange.com/questions/4721/lesser-qubit-computer-doing-the-parts-of-shors-against-e-g-rsa-2048-sized-pri,core security
+P04348,QCSE,https://quantumcomputing.stackexchange.com/questions/4645/using-xor-games-to-benchmark-quantum-computers,core security
+P04354,QCSE,https://quantumcomputing.stackexchange.com/questions/4568/bb84-attack-with-entangled-qubits-example,core security
+P04368,QCSE,https://quantumcomputing.stackexchange.com/questions/4392/how-can-shors-algorithm-be-used-to-crack-32-bit-rsa-encryption,core security
+P04371,QCSE,https://quantumcomputing.stackexchange.com/questions/4366/lattice-based-cryptography-vs-bb84,core security
+P04376,QCSE,https://quantumcomputing.stackexchange.com/questions/4326/how-many-qubits-does-it-take-to-break-a-10-characters-password,core security
+P04389,QCSE,https://quantumcomputing.stackexchange.com/questions/4186/how-many-bits-do-alice-and-bob-needs-to-compare-to-make-sure-the-channel-is-secu,core security
+P04390,QCSE,https://quantumcomputing.stackexchange.com/questions/4183/generalization-for-n-quantum-teleportations,development context or out of scope
+P04393,QCSE,https://quantumcomputing.stackexchange.com/questions/4125/quantum-xor-cipher-construction,core security
+P04396,QCSE,https://quantumcomputing.stackexchange.com/questions/4102/cloning-classical-data-encoded-into-qubits,development context or out of scope
+P04408,Reddit,https://www.reddit.com/r/QuantumComputing/comments/1ihl871/is_quantum_encryption_worth_the_money/,core security
+P04409,Reddit,https://www.reddit.com/r/QuantumComputing/comments/1ihk820/how_will_postquantum_cybersecurity_impact/,core security
+P04410,Reddit,https://www.reddit.com/r/QuantumComputing/comments/1ihj7ve/quantum_random_number_generator/,development context or out of scope
+P04413,Reddit,https://www.reddit.com/r/QuantumComputing/comments/1idvdt3/project_and_essay_ideas_about_quantum_computing/,development context or out of scope
+P04415,Reddit,https://www.reddit.com/r/QuantumComputing/comments/1ib9juz/quantum_decryption/,core security
+P04417,Reddit,https://www.reddit.com/r/QuantumComputing/comments/1i6odnc/quantum_ctf_ideas/,core security
+P04419,Reddit,https://www.reddit.com/r/QuantumComputing/comments/1i52np3/explain_in_5_levels_of_difficulty_quantum/,development context or out of scope
+P04428,Reddit,https://www.reddit.com/r/QuantumComputing/comments/1hsmgqa/questions_about_willow_rsa2048/,core security
+P04431,Reddit,https://www.reddit.com/r/QuantumComputing/comments/1hovnof/shors_algorithm_implementation_on_ibm_quantum/,core security
+P04435,Reddit,https://www.reddit.com/r/QuantumComputing/comments/1hdfrzt/if_quantum_computers_can_brute_force_any/,core security
+P04438,Reddit,https://www.reddit.com/r/QuantumComputing/comments/1hcq8l3/qkd/,core security
+P04445,Reddit,https://www.reddit.com/r/QuantumComputing/comments/1gstnk9/whats_the_purpose_of_sandboxaq/,development context or out of scope
+P04448,Reddit,https://www.reddit.com/r/QuantumComputing/comments/1gim6xv/quantum_key_distribution/,core security
+P04475,Reddit,https://www.reddit.com/r/QuantumComputing/comments/1con1ig/how_is_eavesdropping_not_possible_during_quantum/,core security
+P04477,Reddit,https://www.reddit.com/r/QuantumComputing/comments/1cfche3/quantum_key_distribution/,core security
+P04478,Reddit,https://www.reddit.com/r/QuantumComputing/comments/1c5hh6j/lattice_based_encryption_remains_for_now/,core security
+P04482,Reddit,https://www.reddit.com/r/QuantumComputing/comments/1blpt3u/why_isnt_postquantum_encryption_more_widely/,core security
+P04491,Reddit,https://www.reddit.com/r/QuantumComputing/comments/1afn733/quantum_breaking_encryption_isgood/,core security
+P04494,Reddit,https://www.reddit.com/r/QuantumComputing/comments/19b0eru/quantum_computing_and_encryption/,core security
+P04501,Reddit,https://www.reddit.com/r/QuantumComputing/comments/17ldkqb/the_intersection_of_cybersecurity_and_quantum/,core security
+P04514,SO,https://stackoverflow.com/questions/41702337/can-we-break-rsa-aes-encrypted-document-using-quantum-algorithms-if-yes-how-ca?r=SearchResults,core security
+P04515,SO,https://stackoverflow.com/questions/48997526/does-openssl-provide-any-post-quantum-asymmetric-algorithms?r=SearchResults,core security
+P04517,SO,https://stackoverflow.com/questions/61821267/curated-webassembly-cdn?r=SearchResults,development context or out of scope
+P04519,SO,https://stackoverflow.com/questions/78227869/encountered-this-error-while-implementing-ntt-cpp-code-terminate-called-after-t?r=SearchResults,core security
+P04520,SO,https://stackoverflow.com/questions/56260518/creating-x509-certificate-in-c-using-post-quantum-public-key-algorithm?r=SearchResults,core security
+P04521,SO,https://stackoverflow.com/questions/44927921/phoenix-started-throwing-undefinedfunctionerror-function-crypto-rand-bytes-1?r=SearchResults,development context or out of scope
+P04543,SO,https://stackoverflow.com/questions/62625744/tensorflow-quantum-pqc-not-optimizing?r=SearchResults,development context or out of scope
+P04551,SO,https://stackoverflow.com/questions/54147508/why-doesnt-my-navbar-fully-extend-in-width-over-the-page?r=SearchResults,development context or out of scope
+P04607,SO,https://stackoverflow.com/questions/78449203/modulenotfounderror-no-module-named-qiskit-monitor?r=SearchResults,core security
+P04627,SO,https://stackoverflow.com/questions/2768807/quantum-computing-and-encryption-breaking?r=SearchResults,core security
+P04628,SO,https://stackoverflow.com/questions/67328122/cant-we-enforce-a-limited-number-of-attempts-to-prevent-quantum-computing-from?r=SearchResults,core security
+P04631,SO,https://stackoverflow.com/questions/311064/are-there-public-key-cryptography-algorithms-that-are-provably-np-hard-to-defeat?r=SearchResults,core security
+P04633,SO,https://stackoverflow.com/questions/79167958/store-and-retrieve-encrypted-binary-data-with-griddb-using-pythons-cryptography?r=SearchResults,development context or out of scope
+P04636,SO,https://stackoverflow.com/questions/5336992/are-there-any-security-measures-that-are-resistant-to-a-brute-force-attack?r=SearchResults,development context or out of scope
+P04644,SO,https://stackoverflow.com/questions/48996401/xslt-calls-are-broken-due-to-security-issues?r=SearchResults,development context or out of scope
+P04651,MSE,https://math.stackexchange.com/questions/4579277/on-theoretical-bounds-for-time-complexity-of-integer-factoring?r=SearchResults,development context or out of scope
+P04653,MSE,https://math.stackexchange.com/questions/5027744/bits-to-detect-eves-presence?r=SearchResults,core security
+P04655,MSE,https://math.stackexchange.com/questions/1091324/conjectured-optimal-running-time-for-integer-factorization?r=SearchResults,development context or out of scope
+P04658,MSE,https://math.stackexchange.com/questions/4342454/prime-and-co-prime-numbers-importance-in-cryptography?r=SearchResults,development context or out of scope
+P04659,MSE,https://math.stackexchange.com/questions/4881292/confusion-over-the-use-of-the-term-module-in-mathematics-and-post-quantum-cryp?r=SearchResults,core security
+P04671,MSE,https://math.stackexchange.com/questions/257089/factoring-from-order-finding?r=SearchResults,development context or out of scope
+P04675,MSE,https://math.stackexchange.com/questions/2187858/example-of-difficult-base-for-the-lattice-problems?r=SearchResults,core security
+P04676,MSE,https://math.stackexchange.com/questions/3905577/what-are-the-historical-trends-of-contemporary-mathematics?r=SearchResults,development context or out of scope
+P04678,MSE,https://math.stackexchange.com/questions/4427232/likelihood-of-2-being-a-liar-in-miller-rabin-test-for-large-number-e-g-1000-b?r=SearchResults,development context or out of scope
+P04681,MSE,https://math.stackexchange.com/questions/2854117/class-number-for-special-cyclotomic-fields?r=SearchResults,core security
+P04683,MSE,https://math.stackexchange.com/questions/4919800/shortest-vector-problem-as-hidden-subgroup-problem?r=SearchResults,development context or out of scope
+P04684,MSE,https://math.stackexchange.com/questions/4612535/is-x-is-finite-decidable-in-zfc?r=SearchResults,development context or out of scope
+P04744,SES,https://security.stackexchange.com/questions/25251/impact-of-quantum-computers-other-than-new-algorithms?r=SearchResults,core security
+P04745,SES,https://security.stackexchange.com/questions/189886/the-basic-difference-between-rsa-algorithm-and-shors-algorithm?r=SearchResults,core security
+P04746,SES,https://security.stackexchange.com/questions/210625/creating-x509-certificate-in-c-using-post-quantum-public-key-algorithm?r=SearchResults,core security
+P04747,SES,https://security.stackexchange.com/questions/121946/is-there-readily-available-encryption-algorithms-for-current-computers-that-is?r=SearchResults,core security
+P04748,SES,https://security.stackexchange.com/questions/277558/is-a-three-layer-post-quantum-safe-vpn-hidden-within-regular-ipsec-effective-aga?r=SearchResults,core security
+P04749,SES,https://security.stackexchange.com/questions/194934/how-long-until-quantum-computers-are-able-to-decrypt-rsa-using-shors-algorithm?r=SearchResults,core security
+P04750,SES,https://security.stackexchange.com/questions/6345/which-encryption-algorithms-will-be-used-to-replace-rsa-when-quantum-computers-b?r=SearchResults,core security
+P04751,SES,https://security.stackexchange.com/questions/87345/how-many-qubits-are-needed-to-factor-2048-bit-rsa-keys-on-a-quantum-computer?r=SearchResults,core security
+P04752,SES,https://security.stackexchange.com/questions/37636/rsa-key-length-vs-shors-algorithm?r=SearchResults,core security
+P04753,SES,https://security.stackexchange.com/questions/264359/will-the-public-key-cryptosystem-change-in-a-post-quantum-state?r=SearchResults,core security
+P04754,SES,https://security.stackexchange.com/questions/238640/doesnt-hashing-negate-quantum-computer-cracking?r=SearchResults,core security
+P04755,SES,https://security.stackexchange.com/questions/48022/what-kinds-of-encryption-are-not-breakable-via-quantum-computers?r=SearchResults,core security
+P04756,SES,https://security.stackexchange.com/questions/92108/aes-encryption-algorithm-life-time?r=SearchResults,core security
+P04757,SES,https://security.stackexchange.com/questions/131703/strength-of-rsa-encryption-with-or-without-a-public-key?r=SearchResults,core security
+P04758,SES,https://security.stackexchange.com/questions/276514/how-can-you-protect-against-a-man-in-the-middle-forging-a-tls-client-hello-that?r=SearchResults,core security
+P04759,SES,https://security.stackexchange.com/questions/273393/rsa-vs-shors-algorithm-fast-factoring-server-credentials-mitm?r=SearchResults,core security
+P04760,SES,https://security.stackexchange.com/questions/162194/what-would-be-a-better-encryption-algorithm-then-rsa-des-ede3-cbc?r=SearchResults,development context or out of scope
+P04761,SES,https://security.stackexchange.com/questions/166131/how-files-of-ransom-attacks-were-decypted?r=SearchResults,development context or out of scope
+P04762,SES,https://security.stackexchange.com/questions/101841/unseen-is-encryption-claims-revisited-with-their-proprietary-patented-xaes-al?r=SearchResults,core security
+P04763,SES,https://security.stackexchange.com/questions/128667/how-safe-is-this-multidimensional-encryption-method-includes-xaes-familiar-f?r=SearchResults,core security
+P04764,SES,https://security.stackexchange.com/questions/232087/algorithm-and-key-size-to-choose-for-ssl-certificates-security-and-cpu-wise-in?r=SearchResults,core security
+P04765,SES,https://security.stackexchange.com/questions/184340/security-on-passwords-stored-by-firefox-against-add-ons?r=SearchResults,development context or out of scope
+P04766,SES,https://security.stackexchange.com/questions/82109/can-a-bitcoin-miner-generate-sha2-hashes-on-arbitrary-data?r=SearchResults,core security
+P04767,SES,https://security.stackexchange.com/questions/165222/is-there-an-industry-standard-data-container-for-asymmetric-encryption-signing?r=SearchResults,core security
+P04768,SES,https://security.stackexchange.com/questions/42206/what-block-ciphers-and-algorithms-are-now-safe?r=SearchResults,core security
+P04769,SES,https://security.stackexchange.com/questions/231177/store-provided-external-user-data-encrypted-in-the-database?r=SearchResults,development context or out of scope
+P04770,SES,https://security.stackexchange.com/questions/51999/a-service-that-claims-beyond-army-level-encryption?r=SearchResults,core security
+P04771,SES,https://security.stackexchange.com/questions/137018/will-quantum-computing-render-passwords-obsolete?r=SearchResults,core security
+P04772,SES,https://security.stackexchange.com/questions/134848/will-quantum-computing-destroy-all-our-present-encryption?r=SearchResults,core security
+P04773,SES,https://security.stackexchange.com/questions/4286/are-the-encryptions-broken-with-great-computing-power?r=SearchResults,core security
+P04774,SES,https://security.stackexchange.com/questions/93625/for-which-time-frame-should-we-assume-quantum-computers?r=SearchResults,core security
+P04775,SES,https://security.stackexchange.com/questions/241991/when-could-256-bit-encryption-be-brute-forced?r=SearchResults,core security
+P04776,SES,https://security.stackexchange.com/questions/2581/are-there-any-security-measures-that-are-resistant-to-a-brute-force-attack?r=SearchResults,development context or out of scope
+P04777,SES,https://security.stackexchange.com/questions/249266/human-made-encryption-decryption-by-machine?r=SearchResults,development context or out of scope
+P04778,SES,https://security.stackexchange.com/questions/165784/hardening-password-based-file-encryption-with-a-synchronous-stream-cipher-plus-h?r=SearchResults,development context or out of scope
+P04779,SES,https://security.stackexchange.com/questions/64075/related-password-hash-security?r=SearchResults,development context or out of scope
+P04780,SES,https://security.stackexchange.com/questions/238140/how-could-the-unhackabilty-of-quantum-internet-justify-its-cost?r=SearchResults,core security
+P04781,SES,https://security.stackexchange.com/questions/184689/what-can-you-do-with-a-sufficiently-complex-quantum-computer-against-elliptic-cu?r=SearchResults,core security
+P04782,SES,https://security.stackexchange.com/questions/6141/amount-of-simple-operations-that-is-safely-out-of-reach-for-all-humanity?r=SearchResults,development context or out of scope
+P04783,SES,https://security.stackexchange.com/questions/234994/emergency-method-to-erase-all-data-off-a-machine-within-seconds?r=SearchResults,development context or out of scope
+P04784,SES,https://security.stackexchange.com/questions/276852/is-this-solution-i-have-programmed-100-hack-proof?r=SearchResults,development context or out of scope
+P04785,SES,https://security.stackexchange.com/questions/116596/will-quantum-computers-render-aes-obsolete?r=SearchResults,core security
+P04786,SES,https://security.stackexchange.com/questions/52036/questions-about-rsa-asymmetric-key-encryption?r=SearchResults,core security
+P04787,SES,https://security.stackexchange.com/questions/205600/rsa-4096-vs-ecc-curve-25519?r=SearchResults,core security
+P04788,SES,https://security.stackexchange.com/questions/36355/why-standards-organizations-give-so-short-protection-times-for-128-bit-encryptio?r=SearchResults,core security
+P04789,SES,https://security.stackexchange.com/questions/251797/how-likely-is-it-that-publicly-available-data-will-be-decrypted-in-the-future?r=SearchResults,development context or out of scope
+P04790,SES,https://security.stackexchange.com/questions/42219/what-can-a-web-application-developer-do-to-protect-user-information-from-powerfu?r=SearchResults,core security
+P04791,SES,https://security.stackexchange.com/questions/231236/should-i-get-rid-of-my-very-old-1024-bit-rsa-ssh-key?r=SearchResults,development context or out of scope
+P04792,SES,https://security.stackexchange.com/questions/224565/can-i-trust-post-quantum-vpn-for-protection-against-quantum-computers?r=SearchResults,core security
+P04793,SES,https://security.stackexchange.com/questions/265866/could-quantum-computers-quickly-crack-ransomware-encryption?r=SearchResults,core security
+P04794,SES,https://security.stackexchange.com/questions/205111/what-happens-to-pki-once-quantum-computers-can-break-encryption?r=SearchResults,core security
+P04795,SES,https://security.stackexchange.com/questions/122145/ntruencrypt-in-tls-and-gpg-encryption?r=SearchResults,core security
+P04796,SES,https://security.stackexchange.com/questions/183841/lattice-based-encryption-current-status?r=SearchResults,core security
+P04797,SES,https://security.stackexchange.com/questions/178050/is-ssd-encryption-useless-on-data-already-present?r=SearchResults,development context or out of scope
+P04798,SES,https://security.stackexchange.com/questions/239569/what-can-be-added-on-a-proxy-server-using-tls-v1-3-more-secure?r=SearchResults,core security
+P04799,SES,https://security.stackexchange.com/questions/239358/attacks-relying-on-poor-entropy?r=SearchResults,core security
+P04800,SES,https://security.stackexchange.com/questions/224274/storing-safely-files-in-the-cloud-what-is-the-current-state-of-the-art-encrpyt?r=SearchResults,core security
+P04801,SES,https://security.stackexchange.com/questions/230853/does-crypto-shredding-count-as-deletion-in-regards-to-ccpa?r=SearchResults,development context or out of scope
+P04802,SES,https://security.stackexchange.com/questions/136696/guaranteed-public-key-authenticity-besides-physical-meeting-and-possibly-untrus?r=SearchResults,development context or out of scope
+P04804,GitHub,https://github.com/Keyfactor/ejbca-ce/discussions/802,core security
+P04813,GitHub,https://github.com/nginx-proxy/nginx-proxy/discussions/2564,core security
+P04817,GitHub,https://github.com/open-quantum-safe/oqs-demos/discussions/342,development context or out of scope
+P04821,GitHub,https://github.com/open-quantum-safe/liboqs/discussions/2062,development context or out of scope
+P04822,GitHub,https://github.com/genzj/bookmark/discussions/6,development context or out of scope
+P04825,GitHub,https://github.com/getsops/sops/discussions/1736,development context or out of scope
+P04829,GitHub,https://github.com/open-quantum-safe/liboqs/discussions/2008,core security
+P04835,GitHub,https://github.com/nginx/nginx/discussions/334,core security
+P04837,GitHub,https://github.com/cryptomator/cryptomator/discussions/3615,development context or out of scope
+P04839,GitHub,https://github.com/IETF-Hackathon/pqc-certificates/discussions/144,core security
+P04840,GitHub,https://github.com/mechmove/TomsRotaryCipher/discussions/1,development context or out of scope
+P04845,GitHub,https://github.com/open-quantum-safe/oqs-provider/discussions/595,core security
+P04850,GitHub,https://github.com/qutip/qutip/discussions/2543,development context or out of scope
+P04855,GitHub,https://github.com/open-quantum-safe/liboqs/discussions/1978,core security
+P04856,GitHub,https://github.com/OliverB21/blog/discussions/3,core security
+P04858,GitHub,https://github.com/FiloSottile/age/discussions/231,core security
+P04860,GitHub,https://github.com/open-quantum-safe/liboqs/discussions/1625,core security
+P04862,GitHub,https://github.com/open-quantum-safe/liboqs/discussions/1883,core security
+P04863,GitHub,https://github.com/nodejs/node/discussions/54475,core security
+P04865,GitHub,https://github.com/blinksh/blink/discussions/2037,core security
+P04868,GitHub,https://github.com/bcgit/bc-java/discussions/1854,core security
+P04869,GitHub,https://github.com/martijnvanbrummelen/nwipe/discussions/625,development context or out of scope
+P04874,GitHub,https://github.com/strongswan/strongswan/discussions/2497,core security
+P04875,GitHub,https://github.com/openssl/openssl/discussions/25732,development context or out of scope
+P04881,GitHub,https://github.com/BugOfBugs/OpenSSL/discussions/4,development context or out of scope
+P04882,GitHub,https://github.com/daveshap/Raspberry/discussions/26,development context or out of scope
+P04883,GitHub,https://github.com/open-quantum-safe/liboqs/discussions/1981,core security
+P04884,GitHub,https://github.com/open-quantum-safe/oqs-provider/discussions/523,core security
+P04885,GitHub,https://github.com/AmePelliccia/AmePelliccia/discussions/12,development context or out of scope
+P04888,GitHub,https://github.com/NVIDIA/cuda-quantum/discussions/1984,core security
+P04889,GitHub,https://github.com/pkic/community/discussions/33,development context or out of scope
+P04892,GitHub,https://github.com/open-quantum-safe/oqs-provider/discussions/455,core security
+P04898,GitHub,https://github.com/horizontalsystems/unstoppable-wallet-android/discussions/7647,development context or out of scope
+P04899,GitHub,https://github.com/fahertym/InterCooperative-Network/discussions/2,development context or out of scope
+P04906,GitHub,https://github.com/open-quantum-safe/oqs-provider/discussions/455,core security
+P04909,GitHub,https://github.com/horizontalsystems/unstoppable-wallet-android/discussions/7647,development context or out of scope
+P04913,GitHub,https://github.com/open-quantum-safe/oqs-demos/discussions/303,core security
+P04918,GitHub,https://github.com/open-quantum-safe/liboqs/discussions/1913,core security
+P04920,GitHub,https://github.com/odin-lang/Odin/discussions/1275,development context or out of scope
+P04921,GitHub,https://github.com/samuel-lucas6/Kryptor/discussions/75,development context or out of scope
+P04922,GitHub,https://github.com/accel-ppp/accel-ppp/discussions/215,development context or out of scope
+P04923,GitHub,https://github.com/RGB-WG/rgb/discussions/265,development context or out of scope
+P04925,GitHub,https://github.com/open-quantum-safe/liboqs/discussions/1833,core security
+P04928,GitHub,https://github.com/open-quantum-safe/oqs-provider/discussions/500,core security
+P04929,GitHub,https://github.com/AmePelliccia/AmePelliccia/discussions/2,development context or out of scope
+P04930,GitHub,https://github.com/hackerfactor/SEAL/discussions/4,core security
+P04933,GitHub,https://github.com/AmePelliccia/AmePelliccia/discussions/9,development context or out of scope
+P04934,GitHub,https://github.com/cryptomator/cryptomator/discussions/1862,development context or out of scope
+P04936,GitHub,https://github.com/open-quantum-safe/oqs-provider/discussions/433,core security
+P04939,GitHub,https://github.com/RevolutionVA/757-community-site-public/discussions/3,development context or out of scope
+P04942,GitHub,https://github.com/open-quantum-safe/oqs-provider/discussions/484,core security
+P04949,GitHub,https://github.com/community/community/discussions/110316,core security
+P04951,GitHub,https://github.com/cryptomator/cryptomator/discussions/3444,development context or out of scope
+P04954,GitHub,https://github.com/strongswan/strongswan/discussions/1031,core security
+P04955,GitHub,https://github.com/HanSolo/charts/discussions/59,development context or out of scope
+P04960,GitHub,https://github.com/open-quantum-safe/liboqs/discussions/1806,core security
+P04962,GitHub,https://github.com/open-quantum-safe/liboqs/discussions/1828,development context or out of scope
+P04963,GitHub,https://github.com/tutao/tutanota/discussions/6970,development context or out of scope
+P04965,GitHub,https://github.com/strongswan/strongswan/discussions/2344,core security
+P04973,GitHub,https://github.com/yermak/AudioBookConverter/discussions/584,development context or out of scope
+P04976,GitHub,https://github.com/ertuil/blog-discuss/discussions/9,core security
+P04979,GitHub,https://github.com/open-quantum-safe/oqs-provider/discussions/390,core security
+P04981,GitHub,https://github.com/OpenSC/OpenSC/discussions/2797,development context or out of scope
+P04982,GitHub,https://github.com/open-quantum-safe/oqs-provider/discussions/380,core security
+P04985,GitHub,https://github.com/provider-corner/.github/discussions/10,development context or out of scope
+P04993,GitHub,https://github.com/open-quantum-safe/liboqs/discussions/1730,core security
+P04996,GitHub,https://github.com/open-quantum-safe/liboqs/discussions/1803,development context or out of scope
+P05000,GitHub,https://github.com/open-quantum-safe/oqs-provider/discussions/407,core security
+P05004,GitHub,https://github.com/NVIDIA/cuQuantum/discussions/131,development context or out of scope
+P05005,GitHub,https://github.com/Qiskit/qiskit-serverless/discussions/1290,development context or out of scope
+P05006,GitHub,https://github.com/gramineproject/gramine/discussions/1748,core security
+P05007,GitHub,https://github.com/open-quantum-safe/oqs-provider/discussions/383,core security
+P05013,GitHub,https://github.com/pulumi/pulumi-azure-native/discussions/2078,development context or out of scope
+P05015,GitHub,https://github.com/abetlen/llama-cpp-python/discussions/1044,development context or out of scope
+P05016,GitHub,https://github.com/jax-ml/jax/discussions/20491,development context or out of scope
+P05017,GitHub,https://github.com/open-quantum-safe/oqs-provider/discussions/391,core security
+P05018,GitHub,https://github.com/open-quantum-safe/liboqs/discussions/1741,core security
+P05028,GitHub,https://github.com/video-dev/hls.js/discussions/5854,core security
+P05029,GitHub,https://github.com/cryptomator/cryptomator/discussions/2992,development context or out of scope
+P05030,GitHub,https://github.com/Exios66/Mstar-Virtue-Ethics/discussions/7,development context or out of scope
+P05038,GitHub,https://github.com/MolotovCherry/Android-ImageMagick7/discussions/138,development context or out of scope
+P05044,GitHub,https://github.com/fisherstevenk/kyberJCE/discussions/1,core security
+P05062,GitHub,https://github.com/AmePelliccia/AmePelliccia/discussions/9,development context or out of scope
+P05069,GitHub,https://github.com/NVIDIA/cuQuantum/discussions/114,development context or out of scope
+P05091,GitHub,https://github.com/mgg39/qiskit-networks/discussions/12,core security
+P05092,GitHub,https://github.com/mgg39/qiskit-networks/discussions/14,core security
+P05117,GitHub,https://github.com/qutip/qutip/discussions/2543,development context or out of scope
+P05121,GitHub,https://github.com/QuEST-Kit/QuEST/discussions/403,development context or out of scope
+P05147,GitHub,https://github.com/markqvist/Reticulum/discussions/181,core security
+P05154,GitHub,https://github.com/Thorium-Sim/thorium-nova/discussions/242,development context or out of scope
+P05160,GitHub,https://github.com/markqvist/Reticulum/discussions/181,core security
+P00298,QCSE,https://quantumcomputing.stackexchange.com/questions/39605/how-quantum-laws-hold-on-macroscopic-level-in-classical-computers,development context or out of scope
+P03344,QCSE,https://quantumcomputing.stackexchange.com/questions/14491/traveling-salesman-problem-in-qiskit-cannot-find-a-solution-on-simulator,development context or out of scope
+P03377,QCSE,https://quantumcomputing.stackexchange.com/questions/14256/how-to-write-a-classical-version-of-shors-algorithm,development context or out of scope
+P05098,GitHub,https://github.com/mgg39/qiskit-networks/discussions/13,core security

@@ -1,0 +1,71 @@
+{
+ "Qiskit": [
+  "qiskit"
+ ],
+ "Stim": [
+  "stim"
+ ],
+ "Cirq": [
+  "cirq"
+ ],
+ "PennyLane": [
+  "pennylane"
+ ],
+ "QuTiP": [
+  "qutip"
+ ],
+ "liboqs": [
+  "liboqs"
+ ],
+ "PyQuil": [
+  "pyquil"
+ ],
+ "ProjectQ": [
+  "projectq"
+ ],
+ "QDK / Q#": [
+  "\\bqdk\\b|q#|quantum development kit"
+ ],
+ "Open Quantum Safe": [
+  "open quantum safe|oqs[- ]provider|\\boqs\\b"
+ ],
+ "SimulaQron": [
+  "simulaqron"
+ ],
+ "Qulacs": [
+  "qulacs"
+ ],
+ "Quimb": [
+  "quimb"
+ ],
+ "Bouncy Castle": [
+  "bouncy ?castle"
+ ],
+ "PQClean": [
+  "pqclean"
+ ],
+ "QuNetSim": [
+  "qunetsim"
+ ],
+ "Braket": [
+  "braket"
+ ],
+ "OpenQASM": [
+  "openqasm"
+ ],
+ "NetSquid": [
+  "netsquid"
+ ],
+ "OpenSSL": [
+  "openssl"
+ ],
+ "GnuPG/GPG": [
+  "\\bgpg\\b|gnupg"
+ ],
+ "strongSwan": [
+  "strongswan"
+ ],
+ "OpenSSH": [
+  "openssh"
+ ]
+}

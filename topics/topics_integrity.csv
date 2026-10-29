@@ -1,0 +1,8 @@
+label,posts,share_pct,top10_jaccard_stability,label_status,top15_words
+Fault-tolerant gate construction,370,22.8,0.29,provisional,"gate, circuit, measurement, state, noise, perform, apply, clifford, error, measure, operation, magic state, implement, fault tolerant, ancilla"
+Stabilizer formalism and logical operators,321,19.8,0.51,stable,"stabilizer, set, define, operator, logical, pauli, definition, space, matrix, transversal, stabilizer group, group, state, represent, subgroup"
+Decoherence and the path to fault tolerance,226,13.9,0.37,stable,"algorithm, classical, computer, error correction, decoherence, system, quantum computing, model, coherence, number, base, core, provide, measure, gauge group"
+"Channels, fidelity and density matrices",199,12.3,0.33,stable,"state, channel, operator, qutip, fidelity, system, representation, operation, density matrix, map, kraus operator, probability, depolarize channel, calculate, initial"
+Noise modelling in Qiskit,192,11.8,0.68,stable,"circuit, qiskit, add, noise, noise model, backend, support, create, parameter, test, remove, ibm, available, raise, documentation"
+"Surface codes, decoding and thresholds",183,11.3,0.21,provisional,"surface code, logical, stim, measurement, datum, stabilizer, decode, error rate, graph, round, color, type, distance, measure, threshold"
+Syndrome extraction and error correction,133,8.2,0.16,provisional,"error, correct, syndrome, error correction, single, probability, decode, correction, occur, compile, fix, property, exist, diagram, flip"

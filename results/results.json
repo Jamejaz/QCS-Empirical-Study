@@ -1,0 +1,1190 @@
+{
+ "recomputed": {
+  "dataset": {
+   "rows_in_corpus_clean": 5163,
+   "off_platform": 3,
+   "L1": 289,
+   "L2": 1624,
+   "excluded": 3247,
+   "QCS": 1913,
+   "v2_rule_L2": 1626,
+   "v2_rule_L2_now_L1": 2,
+   "sum_check": 5163
+  },
+  "confusion": {
+   "QCS": 0.195,
+   "L1": 0.1557,
+   "L2": 0.202
+  },
+  "tools": [
+   {
+    "tool": "OpenSSL",
+    "QCS": 28,
+    "L1": 28,
+    "L2": 0,
+    "pct_L1": 9.7,
+    "pct_L2": 0.0,
+    "conf_pct": 25.0
+   },
+   {
+    "tool": "Qiskit",
+    "QCS": 346,
+    "L1": 20,
+    "L2": 326,
+    "pct_L1": 6.9,
+    "pct_L2": 20.1,
+    "conf_pct": 16.2
+   },
+   {
+    "tool": "Open Quantum Safe",
+    "QCS": 19,
+    "L1": 19,
+    "L2": 0,
+    "pct_L1": 6.6,
+    "pct_L2": 0.0,
+    "conf_pct": 26.3
+   },
+   {
+    "tool": "liboqs",
+    "QCS": 18,
+    "L1": 18,
+    "L2": 0,
+    "pct_L1": 6.2,
+    "pct_L2": 0.0,
+    "conf_pct": 11.1
+   },
+   {
+    "tool": "OpenSSH",
+    "QCS": 5,
+    "L1": 5,
+    "L2": 0,
+    "pct_L1": 1.7,
+    "pct_L2": 0.0,
+    "conf_pct": 0.0
+   },
+   {
+    "tool": "GnuPG/GPG",
+    "QCS": 4,
+    "L1": 4,
+    "L2": 0,
+    "pct_L1": 1.4,
+    "pct_L2": 0.0,
+    "conf_pct": 0.0
+   },
+   {
+    "tool": "SimulaQron",
+    "QCS": 4,
+    "L1": 3,
+    "L2": 1,
+    "pct_L1": 1.0,
+    "pct_L2": 0.1,
+    "conf_pct": 50.0
+   },
+   {
+    "tool": "strongSwan",
+    "QCS": 3,
+    "L1": 3,
+    "L2": 0,
+    "pct_L1": 1.0,
+    "pct_L2": 0.0,
+    "conf_pct": 0.0
+   },
+   {
+    "tool": "Cirq",
+    "QCS": 27,
+    "L1": 2,
+    "L2": 25,
+    "pct_L1": 0.7,
+    "pct_L2": 1.5,
+    "conf_pct": 11.1
+   },
+   {
+    "tool": "PennyLane",
+    "QCS": 15,
+    "L1": 1,
+    "L2": 14,
+    "pct_L1": 0.3,
+    "pct_L2": 0.9,
+    "conf_pct": 6.7
+   },
+   {
+    "tool": "QuTiP",
+    "QCS": 9,
+    "L1": 1,
+    "L2": 8,
+    "pct_L1": 0.3,
+    "pct_L2": 0.5,
+    "conf_pct": 0.0
+   },
+   {
+    "tool": "Bouncy Castle",
+    "QCS": 1,
+    "L1": 1,
+    "L2": 0,
+    "pct_L1": 0.3,
+    "pct_L2": 0.0,
+    "conf_pct": 0.0
+   },
+   {
+    "tool": "PQClean",
+    "QCS": 1,
+    "L1": 1,
+    "L2": 0,
+    "pct_L1": 0.3,
+    "pct_L2": 0.0,
+    "conf_pct": 0.0
+   },
+   {
+    "tool": "QuNetSim",
+    "QCS": 1,
+    "L1": 1,
+    "L2": 0,
+    "pct_L1": 0.3,
+    "pct_L2": 0.0,
+    "conf_pct": 0.0
+   },
+   {
+    "tool": "Stim",
+    "QCS": 232,
+    "L1": 0,
+    "L2": 232,
+    "pct_L1": 0.0,
+    "pct_L2": 14.3,
+    "conf_pct": 20.3
+   },
+   {
+    "tool": "Braket",
+    "QCS": 5,
+    "L1": 0,
+    "L2": 5,
+    "pct_L1": 0.0,
+    "pct_L2": 0.3,
+    "conf_pct": 0.0
+   },
+   {
+    "tool": "OpenQASM",
+    "QCS": 4,
+    "L1": 0,
+    "L2": 4,
+    "pct_L1": 0.0,
+    "pct_L2": 0.2,
+    "conf_pct": 25.0
+   },
+   {
+    "tool": "PyQuil",
+    "QCS": 3,
+    "L1": 0,
+    "L2": 3,
+    "pct_L1": 0.0,
+    "pct_L2": 0.2,
+    "conf_pct": 0.0
+   }
+  ],
+  "stim_substring": {
+   "substring": 343,
+   "word_boundary": 232
+  },
+  "algorithms": [
+   {
+    "algorithm": "QKD (generic)",
+    "cls": "Quantum",
+    "QCS": 83,
+    "L1": 83,
+    "L2": 0,
+    "pct_L1": 28.7,
+    "pct_L2": 0.0
+   },
+   {
+    "algorithm": "BB84",
+    "cls": "Quantum",
+    "QCS": 63,
+    "L1": 63,
+    "L2": 0,
+    "pct_L1": 21.8,
+    "pct_L2": 0.0
+   },
+   {
+    "algorithm": "RSA",
+    "cls": "Classical",
+    "QCS": 52,
+    "L1": 45,
+    "L2": 7,
+    "pct_L1": 15.6,
+    "pct_L2": 0.4
+   },
+   {
+    "algorithm": "Shor's algorithm",
+    "cls": "Quantum",
+    "QCS": 41,
+    "L1": 25,
+    "L2": 16,
+    "pct_L1": 8.7,
+    "pct_L2": 1.0,
+    "note": "Mentions of the Shor code, Shor's nine-qubit code and the Shor-Preskill proof are not counted as Shor's algorithm."
+   },
+   {
+    "algorithm": "AES",
+    "cls": "Classical",
+    "QCS": 23,
+    "L1": 23,
+    "L2": 0,
+    "pct_L1": 8.0,
+    "pct_L2": 0.0
+   },
+   {
+    "algorithm": "E91",
+    "cls": "Quantum",
+    "QCS": 19,
+    "L1": 18,
+    "L2": 1,
+    "pct_L1": 6.2,
+    "pct_L2": 0.1
+   },
+   {
+    "algorithm": "Grover's algorithm",
+    "cls": "Quantum",
+    "QCS": 33,
+    "L1": 14,
+    "L2": 19,
+    "pct_L1": 4.8,
+    "pct_L2": 1.2
+   },
+   {
+    "algorithm": "CRYSTALS-Kyber",
+    "cls": "Post-quantum",
+    "QCS": 12,
+    "L1": 12,
+    "L2": 0,
+    "pct_L1": 4.2,
+    "pct_L2": 0.0
+   },
+   {
+    "algorithm": "Lattice-based (generic)",
+    "cls": "Post-quantum",
+    "QCS": 12,
+    "L1": 12,
+    "L2": 0,
+    "pct_L1": 4.2,
+    "pct_L2": 0.0
+   },
+   {
+    "algorithm": "SHA-2/SHA-3",
+    "cls": "Classical",
+    "QCS": 12,
+    "L1": 11,
+    "L2": 1,
+    "pct_L1": 3.8,
+    "pct_L2": 0.1
+   },
+   {
+    "algorithm": "ECC / ECDSA",
+    "cls": "Classical",
+    "QCS": 10,
+    "L1": 10,
+    "L2": 0,
+    "pct_L1": 3.5,
+    "pct_L2": 0.0
+   },
+   {
+    "algorithm": "Quantum teleportation",
+    "cls": "Quantum",
+    "QCS": 41,
+    "L1": 9,
+    "L2": 32,
+    "pct_L1": 3.1,
+    "pct_L2": 2.0
+   },
+   {
+    "algorithm": "CRYSTALS-Dilithium",
+    "cls": "Post-quantum",
+    "QCS": 9,
+    "L1": 9,
+    "L2": 0,
+    "pct_L1": 3.1,
+    "pct_L2": 0.0
+   },
+   {
+    "algorithm": "NTRU",
+    "cls": "Post-quantum",
+    "QCS": 7,
+    "L1": 7,
+    "L2": 0,
+    "pct_L1": 2.4,
+    "pct_L2": 0.0
+   },
+   {
+    "algorithm": "Diffie-Hellman",
+    "cls": "Classical",
+    "QCS": 5,
+    "L1": 5,
+    "L2": 0,
+    "pct_L1": 1.7,
+    "pct_L2": 0.0
+   },
+   {
+    "algorithm": "B92",
+    "cls": "Quantum",
+    "QCS": 3,
+    "L1": 3,
+    "L2": 0,
+    "pct_L1": 1.0,
+    "pct_L2": 0.0
+   },
+   {
+    "algorithm": "Classic McEliece",
+    "cls": "Post-quantum",
+    "QCS": 2,
+    "L1": 2,
+    "L2": 0,
+    "pct_L1": 0.7,
+    "pct_L2": 0.0
+   },
+   {
+    "algorithm": "SPHINCS+",
+    "cls": "Post-quantum",
+    "QCS": 2,
+    "L1": 2,
+    "L2": 0,
+    "pct_L1": 0.7,
+    "pct_L2": 0.0
+   },
+   {
+    "algorithm": "Rainbow",
+    "cls": "Post-quantum",
+    "QCS": 2,
+    "L1": 2,
+    "L2": 0,
+    "pct_L1": 0.7,
+    "pct_L2": 0.0
+   },
+   {
+    "algorithm": "QFT",
+    "cls": "Quantum",
+    "QCS": 11,
+    "L1": 1,
+    "L2": 10,
+    "pct_L1": 0.3,
+    "pct_L2": 0.6
+   },
+   {
+    "algorithm": "QPE",
+    "cls": "Quantum",
+    "QCS": 10,
+    "L1": 1,
+    "L2": 9,
+    "pct_L1": 0.3,
+    "pct_L2": 0.6
+   },
+   {
+    "algorithm": "HHL",
+    "cls": "Quantum",
+    "QCS": 5,
+    "L1": 1,
+    "L2": 4,
+    "pct_L1": 0.3,
+    "pct_L2": 0.2
+   },
+   {
+    "algorithm": "Surface code",
+    "cls": "Quantum",
+    "QCS": 206,
+    "L1": 0,
+    "L2": 206,
+    "pct_L1": 0.0,
+    "pct_L2": 12.7
+   },
+   {
+    "algorithm": "Stabilizer codes",
+    "cls": "Quantum",
+    "QCS": 95,
+    "L1": 0,
+    "L2": 95,
+    "pct_L1": 0.0,
+    "pct_L2": 5.8
+   },
+   {
+    "algorithm": "Steane code",
+    "cls": "Quantum",
+    "QCS": 83,
+    "L1": 0,
+    "L2": 83,
+    "pct_L1": 0.0,
+    "pct_L2": 5.1
+   },
+   {
+    "algorithm": "Shor code",
+    "cls": "Quantum",
+    "QCS": 29,
+    "L1": 0,
+    "L2": 29,
+    "pct_L1": 0.0,
+    "pct_L2": 1.8
+   },
+   {
+    "algorithm": "VQE",
+    "cls": "Hybrid",
+    "QCS": 26,
+    "L1": 0,
+    "L2": 26,
+    "pct_L1": 0.0,
+    "pct_L2": 1.6
+   },
+   {
+    "algorithm": "QAOA",
+    "cls": "Hybrid",
+    "QCS": 12,
+    "L1": 0,
+    "L2": 12,
+    "pct_L1": 0.0,
+    "pct_L2": 0.7
+   }
+  ],
+  "unions_L1": {
+   "key_distribution": 112,
+   "classical": 73,
+   "post_quantum": 33,
+   "n": 289
+  },
+  "platforms": [
+   {
+    "platform": "QCSE",
+    "QCS": 1717,
+    "L1": 171,
+    "L2": 1546,
+    "share": 89.8,
+    "med_views": 156.5,
+    "med_votes": 2.0,
+    "pct_no_answer": 47.6,
+    "conf_pct": 20.4
+   },
+   {
+    "platform": "GitHub",
+    "QCS": 84,
+    "L1": 47,
+    "L2": 37,
+    "share": 4.4,
+    "med_views": null,
+    "med_votes": 1.0,
+    "pct_no_answer": null,
+    "conf_pct": 7.1
+   },
+   {
+    "platform": "SES",
+    "QCS": 43,
+    "L1": 43,
+    "L2": 0,
+    "share": 2.2,
+    "med_views": 328.5,
+    "med_votes": 2.0,
+    "pct_no_answer": 11.6,
+    "conf_pct": 7.0
+   },
+   {
+    "platform": "Reddit",
+    "QCS": 41,
+    "L1": 16,
+    "L2": 25,
+    "share": 2.1,
+    "med_views": null,
+    "med_votes": 7.0,
+    "pct_no_answer": 7.3,
+    "conf_pct": 19.5
+   },
+   {
+    "platform": "SO",
+    "QCS": 19,
+    "L1": 8,
+    "L2": 11,
+    "share": 1.0,
+    "med_views": 228.0,
+    "med_votes": 0.0,
+    "pct_no_answer": 26.3,
+    "conf_pct": 15.8
+   },
+   {
+    "platform": "MSE",
+    "QCS": 9,
+    "L1": 4,
+    "L2": 5,
+    "share": 0.5,
+    "med_views": 43.5,
+    "med_votes": 0.0,
+    "pct_no_answer": 88.9,
+    "conf_pct": 22.2
+   }
+  ],
+  "challenges": {
+   "C2": {
+    "n": 62,
+    "pct": 21.5
+   },
+   "C0": {
+    "n": 56,
+    "pct": 19.4
+   },
+   "C3": {
+    "n": 55,
+    "pct": 19.0
+   },
+   "C1": {
+    "n": 43,
+    "pct": 14.9
+   },
+   "C6": {
+    "n": 42,
+    "pct": 14.5
+   },
+   "C4": {
+    "n": 27,
+    "pct": 9.3
+   },
+   "C5": {
+    "n": 4,
+    "pct": 1.4
+   }
+  },
+  "challenge_sum": 289,
+  "challenge_sources": {
+   "single coder, own split": 120,
+   "majority of the coders": 118,
+   "adjudicated against the codebook": 28,
+   "codebook rule, subject beats residual C4": 19,
+   "adjudicated, no coder reached it": 3,
+   "adjudicated against the codebook (added after frame-gap coding)": 1
+  },
+  "challenges_excl_adjudicated": {
+   "C2": {
+    "n": 62,
+    "pct": 24.1
+   },
+   "C3": {
+    "n": 51,
+    "pct": 19.8
+   },
+   "C0": {
+    "n": 41,
+    "pct": 16.0
+   },
+   "C6": {
+    "n": 37,
+    "pct": 14.4
+   },
+   "C1": {
+    "n": 35,
+    "pct": 13.6
+   },
+   "C4": {
+    "n": 27,
+    "pct": 10.5
+   },
+   "C5": {
+    "n": 4,
+    "pct": 1.6
+   }
+  },
+  "challenges_excl_n": 257
+ },
+ "tests": {
+  "topics_L1": {
+   "base": 0.156,
+   "rows": [
+    {
+     "g": 3,
+     "n": 17,
+     "rate": 0.353,
+     "lift": 2.27,
+     "p": 0.0492,
+     "p_adj": 0.1721
+    },
+    {
+     "g": 4,
+     "n": 27,
+     "rate": 0.185,
+     "lift": 1.19,
+     "p": 0.869,
+     "p_adj": 1.0
+    },
+    {
+     "g": 6,
+     "n": 27,
+     "rate": 0.185,
+     "lift": 1.19,
+     "p": 0.869,
+     "p_adj": 1.0
+    },
+    {
+     "g": 1,
+     "n": 64,
+     "rate": 0.172,
+     "lift": 1.1,
+     "p": 0.8345,
+     "p_adj": 1.0
+    },
+    {
+     "g": 7,
+     "n": 53,
+     "rate": 0.17,
+     "lift": 1.09,
+     "p": 0.9174,
+     "p_adj": 1.0
+    },
+    {
+     "g": 5,
+     "n": 27,
+     "rate": 0.148,
+     "lift": 0.95,
+     "p": 1.0,
+     "p_adj": 1.0
+    },
+    {
+     "g": 2,
+     "n": 74,
+     "rate": 0.068,
+     "lift": 0.43,
+     "p": 0.0252,
+     "p_adj": 0.1721
+    }
+   ],
+   "sizes": {
+    "2": 74,
+    "1": 64,
+    "7": 53,
+    "6": 27,
+    "5": 27,
+    "4": 27,
+    "3": 17
+   }
+  },
+  "topics_L2": {
+   "base": 0.202,
+   "rows": [
+    {
+     "g": 5,
+     "n": 183,
+     "rate": 0.306,
+     "lift": 1.52,
+     "p": 0.0003,
+     "p_adj": 0.002
+    },
+    {
+     "g": 6,
+     "n": 370,
+     "rate": 0.216,
+     "lift": 1.07,
+     "p": 0.482,
+     "p_adj": 0.8435
+    },
+    {
+     "g": 1,
+     "n": 321,
+     "rate": 0.209,
+     "lift": 1.03,
+     "p": 0.7958,
+     "p_adj": 0.9284
+    },
+    {
+     "g": 7,
+     "n": 133,
+     "rate": 0.195,
+     "lift": 0.97,
+     "p": 0.935,
+     "p_adj": 0.935
+    },
+    {
+     "g": 4,
+     "n": 199,
+     "rate": 0.191,
+     "lift": 0.95,
+     "p": 0.7498,
+     "p_adj": 0.9284
+    },
+    {
+     "g": 2,
+     "n": 192,
+     "rate": 0.177,
+     "lift": 0.88,
+     "p": 0.4128,
+     "p_adj": 0.8435
+    },
+    {
+     "g": 3,
+     "n": 226,
+     "rate": 0.119,
+     "lift": 0.59,
+     "p": 0.0012,
+     "p_adj": 0.0042
+    }
+   ],
+   "sizes": {
+    "6": 370,
+    "1": 321,
+    "3": 226,
+    "4": 199,
+    "2": 192,
+    "5": 183,
+    "7": 133
+   }
+  },
+  "platforms": {
+   "base": 0.195,
+   "rows": [
+    {
+     "g": "QCSE",
+     "n": 1717,
+     "rate": 0.204,
+     "lift": 1.05,
+     "p": 0.0028,
+     "p_adj": 0.0135
+    },
+    {
+     "g": "Reddit",
+     "n": 41,
+     "rate": 0.195,
+     "lift": 1.0,
+     "p": 1.0,
+     "p_adj": 1.0
+    },
+    {
+     "g": "SO",
+     "n": 19,
+     "rate": 0.158,
+     "lift": 0.81,
+     "p": 1.0,
+     "p_adj": 1.0
+    },
+    {
+     "g": "GitHub",
+     "n": 84,
+     "rate": 0.071,
+     "lift": 0.37,
+     "p": 0.0054,
+     "p_adj": 0.0135
+    },
+    {
+     "g": "SES",
+     "n": 43,
+     "rate": 0.07,
+     "lift": 0.36,
+     "p": 0.0324,
+     "p_adj": 0.0541
+    }
+   ]
+  },
+  "keyword_robust": {
+   "n": 428,
+   "rate": 0.2547,
+   "ci": [
+    0.216,
+    0.298
+   ],
+   "base": 0.202,
+   "lift": 1.26,
+   "chi2": 9.58,
+   "p": 0.002
+  },
+  "cross_layer": {
+   "A_n": 428,
+   "A_rate": 0.255,
+   "B_n": 74,
+   "B_rate": 0.068,
+   "chi2": 11.54,
+   "p": 0.00068,
+   "ratio": 3.77
+  },
+  "C0": {
+   "c0_n": 56,
+   "c0_rate": 0.054,
+   "oth_rate": 0.18,
+   "chi2": 4.59,
+   "p": 0.0322
+  },
+  "challenge_family": [
+   {
+    "g": "C6",
+    "n": 42,
+    "rate": 0.238,
+    "lift": 1.53,
+    "p": 0.173,
+    "p_adj": 0.346
+   },
+   {
+    "g": "C2",
+    "n": 62,
+    "rate": 0.226,
+    "lift": 1.45,
+    "p": 0.1285,
+    "p_adj": 0.346
+   },
+   {
+    "g": "C4",
+    "n": 27,
+    "rate": 0.185,
+    "lift": 1.19,
+    "p": 0.869,
+    "p_adj": 0.929
+   },
+   {
+    "g": "C1",
+    "n": 43,
+    "rate": 0.14,
+    "lift": 0.9,
+    "p": 0.929,
+    "p_adj": 0.929
+   },
+   {
+    "g": "C3",
+    "n": 55,
+    "rate": 0.127,
+    "lift": 0.82,
+    "p": 0.6601,
+    "p_adj": 0.929
+   },
+   {
+    "g": "C0",
+    "n": 56,
+    "rate": 0.054,
+    "lift": 0.34,
+    "p": 0.0222,
+    "p_adj": 0.1334
+   }
+  ]
+ },
+ "integrity_results": {
+  "validation": {
+   "n": 300,
+   "agree": 0.82,
+   "kappa": 0.79,
+   "disagreements": 54,
+   "routes": {
+    "both coders": 246,
+    "majority (one coder and the assigned label)": 52,
+    "adjudicated against the codebook": 2
+   },
+   "kappa_assigned_A": 0.81,
+   "kappa_assigned_B": 0.88,
+   "both_agree_n": 246,
+   "assigned_acc_on_agreed": 0.947,
+   "scope_both": 14,
+   "scope_A": 34,
+   "scope_B": 17,
+   "assigned_acc_ci": [
+    0.912,
+    0.969
+   ]
+  },
+  "precision_by_category": {
+   "I0": {
+    "n": 25,
+    "k": 25,
+    "precision": 1.0,
+    "ci": [
+     0.87,
+     1.0
+    ]
+   },
+   "I1": {
+    "n": 55,
+    "k": 55,
+    "precision": 1.0,
+    "ci": [
+     0.93,
+     1.0
+    ]
+   },
+   "I2": {
+    "n": 42,
+    "k": 41,
+    "precision": 0.98,
+    "ci": [
+     0.88,
+     1.0
+    ]
+   },
+   "I3": {
+    "n": 25,
+    "k": 21,
+    "precision": 0.84,
+    "ci": [
+     0.65,
+     0.94
+    ]
+   },
+   "I4": {
+    "n": 38,
+    "k": 36,
+    "precision": 0.95,
+    "ci": [
+     0.83,
+     0.99
+    ]
+   },
+   "I5": {
+    "n": 31,
+    "k": 28,
+    "precision": 0.9,
+    "ci": [
+     0.75,
+     0.97
+    ]
+   },
+   "I6": {
+    "n": 56,
+    "k": 54,
+    "precision": 0.96,
+    "ci": [
+     0.88,
+     0.99
+    ]
+   },
+   "I7": {
+    "n": 28,
+    "k": 26,
+    "precision": 0.93,
+    "ci": [
+     0.77,
+     0.98
+    ]
+   }
+  },
+  "distribution": [
+   {
+    "code": "I6",
+    "name": "Simulators and QEC software",
+    "n": 406,
+    "pct": 25.0,
+    "ci": [
+     23.0,
+     27.2
+    ],
+    "strat_est_pct": 25.7
+   },
+   {
+    "code": "I1",
+    "name": "Code construction and properties",
+    "n": 307,
+    "pct": 18.9,
+    "ci": [
+     17.1,
+     20.9
+    ],
+    "strat_est_pct": 19.4
+   },
+   {
+    "code": "I2",
+    "name": "Fault-tolerant logical operations",
+    "n": 226,
+    "pct": 13.9,
+    "ci": [
+     12.3,
+     15.7
+    ],
+    "strat_est_pct": 13.6
+   },
+   {
+    "code": "I4",
+    "name": "Noise channels and their mathematics",
+    "n": 204,
+    "pct": 12.6,
+    "ci": [
+     11.0,
+     14.3
+    ],
+    "strat_est_pct": 12.3
+   },
+   {
+    "code": "I5",
+    "name": "Hardware noise: characterisation and mitigation",
+    "n": 167,
+    "pct": 10.3,
+    "ci": [
+     8.9,
+     11.9
+    ],
+    "strat_est_pct": 10.7
+   },
+   {
+    "code": "I7",
+    "name": "Conceptual foundations",
+    "n": 154,
+    "pct": 9.5,
+    "ci": [
+     8.2,
+     11.0
+    ],
+    "strat_est_pct": 8.9
+   },
+   {
+    "code": "I3",
+    "name": "Decoding, thresholds and logical error rates",
+    "n": 111,
+    "pct": 6.8,
+    "ci": [
+     5.7,
+     8.2
+    ],
+    "strat_est_pct": 5.9
+   },
+   {
+    "code": "I0",
+    "name": "No difficulty reported",
+    "n": 49,
+    "pct": 3.0,
+    "ci": [
+     2.3,
+     4.0
+    ],
+    "strat_est_pct": 3.4
+   }
+  ],
+  "n": 1624,
+  "sources": {
+   "assigned, not in a validation sample": 1243,
+   "validation: both coders": 246,
+   "pilot, reviewed by an author": 81,
+   "validation: majority (one coder and the assigned label)": 52,
+   "validation: adjudicated against the codebook": 2
+  },
+  "conf_by_challenge": {
+   "base": 0.202,
+   "rows": [
+    {
+     "code": "I2",
+     "n": 226,
+     "rate": 0.292,
+     "lift": 1.45,
+     "p": 0.0004,
+     "p_adj": 0.001
+    },
+    {
+     "code": "I3",
+     "n": 111,
+     "rate": 0.279,
+     "lift": 1.38,
+     "p": 0.0478,
+     "p_adj": 0.0955
+    },
+    {
+     "code": "I4",
+     "n": 204,
+     "rate": 0.235,
+     "lift": 1.16,
+     "p": 0.2402,
+     "p_adj": 0.3202
+    },
+    {
+     "code": "I1",
+     "n": 307,
+     "rate": 0.221,
+     "lift": 1.1,
+     "p": 0.3857,
+     "p_adj": 0.4408
+    },
+    {
+     "code": "I7",
+     "n": 154,
+     "rate": 0.182,
+     "lift": 0.9,
+     "p": 0.5828,
+     "p_adj": 0.5828
+    },
+    {
+     "code": "I6",
+     "n": 406,
+     "rate": 0.175,
+     "lift": 0.87,
+     "p": 0.1339,
+     "p_adj": 0.2143
+    },
+    {
+     "code": "I5",
+     "n": 167,
+     "rate": 0.09,
+     "lift": 0.44,
+     "p": 0.0002,
+     "p_adj": 0.001
+    },
+    {
+     "code": "I0",
+     "n": 49,
+     "rate": 0.02,
+     "lift": 0.1,
+     "p": 0.0004,
+     "p_adj": 0.001
+    }
+   ]
+  },
+  "tools_x_challenge": [
+   {
+    "tool": "Qiskit",
+    "n": 326,
+    "top": "I6",
+    "k": 213,
+    "rate": 0.653,
+    "layer_share": 0.25,
+    "lift": 2.61,
+    "ci": [
+     2.4,
+     2.81
+    ],
+    "p": 2.247185446503766e-78,
+    "dist": {
+     "I6": 213,
+     "I5": 68,
+     "I1": 10,
+     "I4": 9,
+     "I0": 9,
+     "I7": 8,
+     "I2": 5,
+     "I3": 4
+    },
+    "p_adj": 6.741556339511298e-78
+   },
+   {
+    "tool": "Stim",
+    "n": 232,
+    "top": "I6",
+    "k": 159,
+    "rate": 0.685,
+    "layer_share": 0.25,
+    "lift": 2.74,
+    "ci": [
+     2.49,
+     2.97
+    ],
+    "p": 7.26757814005472e-61,
+    "dist": {
+     "I6": 159,
+     "I3": 49,
+     "I1": 11,
+     "I2": 9,
+     "I0": 2,
+     "I7": 1,
+     "I4": 1
+    },
+    "p_adj": 1.090136721008208e-60
+   },
+   {
+    "tool": "Cirq",
+    "n": 25,
+    "top": "I6",
+    "k": 14,
+    "rate": 0.56,
+    "layer_share": 0.25,
+    "lift": 2.24,
+    "ci": [
+     1.48,
+     2.93
+    ],
+    "p": 0.0007389416397056743,
+    "dist": {
+     "I6": 14,
+     "I5": 5,
+     "I0": 3,
+     "I2": 2,
+     "I7": 1
+    },
+    "p_adj": 0.0007389416397056743
+   }
+  ]
+ }
+}

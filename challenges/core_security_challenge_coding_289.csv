@@ -1,0 +1,290 @@
+post_id,platform,coder_1,coder_2,coder_3,final_category,settled_by
+P00084,QCSE,Tooling and implementation,Tooling and implementation,Algorithm and protocol design,Tooling and implementation,coders agreed
+P00239,QCSE,Attacks on quantum systems,Quantum communication and QKD,Attacks on quantum systems,Attacks on quantum systems,coders agreed
+P00265,QCSE,Algorithm and protocol design,Algorithm and protocol design,Conceptual and knowledge gaps,Algorithm and protocol design,coders agreed
+P00371,QCSE,not assigned to this coder,Algorithm and protocol design,Conceptual and knowledge gaps,Algorithm and protocol design,tie resolved by codebook rule
+P00374,QCSE,Algorithm and protocol design,not assigned to this coder,not assigned to this coder,Algorithm and protocol design,one coder
+P00375,QCSE,not assigned to this coder,Algorithm and protocol design,Algorithm and protocol design,Algorithm and protocol design,coders agreed
+P00493,QCSE,Algorithm and protocol design,not assigned to this coder,not assigned to this coder,Algorithm and protocol design,one coder
+P00505,QCSE,not assigned to this coder,Quantum communication and QKD,Quantum communication and QKD,Quantum communication and QKD,coders agreed
+P00510,QCSE,Algorithm and protocol design,Algorithm and protocol design,Algorithm and protocol design,Algorithm and protocol design,coders agreed
+P00535,QCSE,not assigned to this coder,Quantum communication and QKD,Quantum communication and QKD,Quantum communication and QKD,coders agreed
+P00548,QCSE,"Information sought, no obstacle reported",not assigned to this coder,Quantum communication and QKD,"Information sought, no obstacle reported",decided by adjudication
+P00575,QCSE,Tooling and implementation,Quantum communication and QKD,Quantum communication and QKD,Quantum communication and QKD,coders agreed
+P00607,QCSE,"Information sought, no obstacle reported",not assigned to this coder,not assigned to this coder,"Information sought, no obstacle reported",one coder
+P00616,QCSE,not assigned to this coder,Quantum communication and QKD,Quantum communication and QKD,Quantum communication and QKD,coders agreed
+P00625,QCSE,Quantum communication and QKD,not assigned to this coder,not assigned to this coder,Quantum communication and QKD,one coder
+P00629,QCSE,not assigned to this coder,not assigned to this coder,Quantum communication and QKD,Quantum communication and QKD,one coder
+P00630,QCSE,"Information sought, no obstacle reported",not assigned to this coder,not assigned to this coder,"Information sought, no obstacle reported",one coder
+P00638,QCSE,not assigned to this coder,Quantum communication and QKD,Quantum communication and QKD,Quantum communication and QKD,coders agreed
+P00659,QCSE,Algorithm and protocol design,not assigned to this coder,not assigned to this coder,Algorithm and protocol design,one coder
+P00722,QCSE,not assigned to this coder,not assigned to this coder,not assigned to this coder,"Information sought, no obstacle reported",decided by adjudication
+P00789,QCSE,Conceptual and knowledge gaps,not assigned to this coder,not assigned to this coder,Conceptual and knowledge gaps,one coder
+P00795,QCSE,not assigned to this coder,Algorithm and protocol design,Conceptual and knowledge gaps,Algorithm and protocol design,tie resolved by codebook rule
+P00801,QCSE,Algorithm and protocol design,not assigned to this coder,not assigned to this coder,Algorithm and protocol design,one coder
+P00804,QCSE,not assigned to this coder,Quantum communication and QKD,Conceptual and knowledge gaps,Quantum communication and QKD,tie resolved by codebook rule
+P00857,QCSE,"Information sought, no obstacle reported",not assigned to this coder,Conceptual and knowledge gaps,"Information sought, no obstacle reported",decided by adjudication
+P00866,QCSE,"Information sought, no obstacle reported",not assigned to this coder,Algorithm and protocol design,"Information sought, no obstacle reported",decided by adjudication
+P00880,QCSE,Conceptual and knowledge gaps,Quantum communication and QKD,Quantum communication and QKD,Quantum communication and QKD,coders agreed
+P00888,QCSE,not assigned to this coder,Conceptual and knowledge gaps,Conceptual and knowledge gaps,Conceptual and knowledge gaps,coders agreed
+P00913,QCSE,Quantum communication and QKD,not assigned to this coder,not assigned to this coder,Quantum communication and QKD,one coder
+P00938,QCSE,not assigned to this coder,not assigned to this coder,not assigned to this coder,"Information sought, no obstacle reported",decided by adjudication
+P01003,QCSE,Algorithm and protocol design,not assigned to this coder,not assigned to this coder,Algorithm and protocol design,one coder
+P01005,QCSE,not assigned to this coder,Quantum communication and QKD,Quantum communication and QKD,Quantum communication and QKD,coders agreed
+P01017,QCSE,Quantum communication and QKD,not assigned to this coder,not assigned to this coder,Quantum communication and QKD,one coder
+P01023,QCSE,Tooling and implementation,Tooling and implementation,Tooling and implementation,Tooling and implementation,coders agreed
+P01101,QCSE,"Information sought, no obstacle reported",not assigned to this coder,not assigned to this coder,"Information sought, no obstacle reported",one coder
+P01140,QCSE,not assigned to this coder,Quantum communication and QKD,Quantum communication and QKD,Quantum communication and QKD,coders agreed
+P01148,QCSE,Quantum communication and QKD,not assigned to this coder,not assigned to this coder,Quantum communication and QKD,one coder
+P01160,QCSE,Tooling and implementation,Tooling and implementation,Tooling and implementation,Tooling and implementation,coders agreed
+P01229,QCSE,"Information sought, no obstacle reported",not assigned to this coder,not assigned to this coder,"Information sought, no obstacle reported",one coder
+P01241,QCSE,not assigned to this coder,not assigned to this coder,Quantum communication and QKD,Quantum communication and QKD,one coder
+P01249,QCSE,Algorithm and protocol design,not assigned to this coder,not assigned to this coder,Algorithm and protocol design,one coder
+P01268,QCSE,Conceptual and knowledge gaps,Algorithm and protocol design,Conceptual and knowledge gaps,Conceptual and knowledge gaps,coders agreed
+P01283,QCSE,Quantum communication and QKD,not assigned to this coder,not assigned to this coder,Quantum communication and QKD,one coder
+P01347,QCSE,not assigned to this coder,NEW: Quantum randomness (QRNG),Conceptual and knowledge gaps,Algorithm and protocol design,tie resolved by codebook rule
+P01377,QCSE,Quantum communication and QKD,Quantum communication and QKD,Conceptual and knowledge gaps,Quantum communication and QKD,coders agreed
+P01400,QCSE,not assigned to this coder,NEW: Quantum randomness (QRNG),Conceptual and knowledge gaps,Algorithm and protocol design,tie resolved by codebook rule
+P01464,QCSE,Tooling and implementation,not assigned to this coder,not assigned to this coder,Tooling and implementation,one coder
+P01507,QCSE,not assigned to this coder,NEW: Quantum randomness (QRNG),Conceptual and knowledge gaps,Algorithm and protocol design,tie resolved by codebook rule
+P01508,QCSE,Tooling and implementation,not assigned to this coder,not assigned to this coder,Tooling and implementation,one coder
+P01514,QCSE,Algorithm and protocol design,Algorithm and protocol design,Conceptual and knowledge gaps,Algorithm and protocol design,coders agreed
+P01522,QCSE,Quantum communication and QKD,Quantum communication and QKD,Conceptual and knowledge gaps,Quantum communication and QKD,coders agreed
+P01528,QCSE,not assigned to this coder,Algorithm and protocol design,Conceptual and knowledge gaps,Algorithm and protocol design,tie resolved by codebook rule
+P01539,QCSE,Quantum communication and QKD,Algorithm and protocol design,Conceptual and knowledge gaps,Algorithm and protocol design,decided by adjudication
+P01569,QCSE,not assigned to this coder,Quantum communication and QKD,Conceptual and knowledge gaps,Quantum communication and QKD,tie resolved by codebook rule
+P01572,QCSE,"Information sought, no obstacle reported",Quantum communication and QKD,Quantum communication and QKD,Quantum communication and QKD,coders agreed
+P01575,QCSE,not assigned to this coder,Quantum communication and QKD,Quantum communication and QKD,Quantum communication and QKD,coders agreed
+P01588,QCSE,Cryptographic transition and post-quantum threats,Cryptographic transition and post-quantum threats,Cryptographic transition and post-quantum threats,Cryptographic transition and post-quantum threats,coders agreed
+P01612,QCSE,not assigned to this coder,Attacks on quantum systems,Attacks on quantum systems,Attacks on quantum systems,coders agreed
+P01764,QCSE,Algorithm and protocol design,not assigned to this coder,not assigned to this coder,Algorithm and protocol design,one coder
+P01773,QCSE,"Information sought, no obstacle reported",Quantum communication and QKD,Conceptual and knowledge gaps,Algorithm and protocol design,decided by adjudication
+P01817,QCSE,Algorithm and protocol design,not assigned to this coder,not assigned to this coder,Algorithm and protocol design,one coder
+P01833,QCSE,not assigned to this coder,Quantum communication and QKD,Conceptual and knowledge gaps,Quantum communication and QKD,tie resolved by codebook rule
+P01844,QCSE,Quantum communication and QKD,Quantum communication and QKD,Quantum communication and QKD,Quantum communication and QKD,coders agreed
+P01871,QCSE,"Information sought, no obstacle reported",Quantum communication and QKD,Quantum communication and QKD,Quantum communication and QKD,coders agreed
+P01935,QCSE,Conceptual and knowledge gaps,not assigned to this coder,not assigned to this coder,Conceptual and knowledge gaps,one coder
+P01957,QCSE,not assigned to this coder,Quantum communication and QKD,Conceptual and knowledge gaps,Quantum communication and QKD,tie resolved by codebook rule
+P01964,QCSE,Quantum communication and QKD,Quantum communication and QKD,Quantum communication and QKD,Quantum communication and QKD,coders agreed
+P01993,QCSE,not assigned to this coder,Algorithm and protocol design,Cryptographic transition and post-quantum threats,Algorithm and protocol design,decided by adjudication
+P02011,QCSE,Algorithm and protocol design,not assigned to this coder,not assigned to this coder,Algorithm and protocol design,one coder
+P02015,QCSE,"Information sought, no obstacle reported",not assigned to this coder,NEW: General question,"Information sought, no obstacle reported",coders agreed
+P02044,QCSE,Quantum communication and QKD,not assigned to this coder,not assigned to this coder,Quantum communication and QKD,one coder
+P02094,QCSE,not assigned to this coder,Quantum communication and QKD,Tooling and implementation,Tooling and implementation,decided by adjudication
+P02109,QCSE,"Information sought, no obstacle reported",not assigned to this coder,Conceptual and knowledge gaps,"Information sought, no obstacle reported",decided by adjudication
+P02134,QCSE,not assigned to this coder,Quantum communication and QKD,NEW: Documentation & guidance,Quantum communication and QKD,tie resolved by codebook rule
+P02168,QCSE,Quantum communication and QKD,not assigned to this coder,not assigned to this coder,Quantum communication and QKD,one coder
+P02192,QCSE,not assigned to this coder,Quantum communication and QKD,Quantum communication and QKD,Quantum communication and QKD,coders agreed
+P02220,QCSE,Cryptographic transition and post-quantum threats,not assigned to this coder,not assigned to this coder,Cryptographic transition and post-quantum threats,one coder
+P02247,QCSE,"Information sought, no obstacle reported",not assigned to this coder,Conceptual and knowledge gaps,"Information sought, no obstacle reported",decided by adjudication
+P02326,QCSE,Attacks on quantum systems,not assigned to this coder,not assigned to this coder,Attacks on quantum systems,one coder
+P02332,QCSE,not assigned to this coder,Cryptographic transition and post-quantum threats,Cryptographic transition and post-quantum threats,Cryptographic transition and post-quantum threats,coders agreed
+P02334,QCSE,Cryptographic transition and post-quantum threats,not assigned to this coder,not assigned to this coder,Cryptographic transition and post-quantum threats,one coder
+P02336,QCSE,not assigned to this coder,not assigned to this coder,NEW: General question,"Information sought, no obstacle reported",one coder
+P02363,QCSE,Algorithm and protocol design,not assigned to this coder,not assigned to this coder,Algorithm and protocol design,one coder
+P02364,QCSE,not assigned to this coder,Quantum communication and QKD,Conceptual and knowledge gaps,Quantum communication and QKD,tie resolved by codebook rule
+P02401,QCSE,Algorithm and protocol design,not assigned to this coder,not assigned to this coder,Algorithm and protocol design,one coder
+P02425,QCSE,not assigned to this coder,not assigned to this coder,Quantum communication and QKD,Quantum communication and QKD,one coder
+P02549,QCSE,Quantum communication and QKD,not assigned to this coder,not assigned to this coder,Quantum communication and QKD,one coder
+P02563,QCSE,not assigned to this coder,Conceptual and knowledge gaps,Conceptual and knowledge gaps,Conceptual and knowledge gaps,coders agreed
+P02564,QCSE,Quantum communication and QKD,not assigned to this coder,not assigned to this coder,Quantum communication and QKD,one coder
+P02598,QCSE,not assigned to this coder,not assigned to this coder,NEW: General question,"Information sought, no obstacle reported",one coder
+P02601,QCSE,Quantum communication and QKD,not assigned to this coder,not assigned to this coder,Quantum communication and QKD,one coder
+P02626,QCSE,not assigned to this coder,not assigned to this coder,Conceptual and knowledge gaps,Conceptual and knowledge gaps,one coder
+P02628,QCSE,Quantum communication and QKD,not assigned to this coder,not assigned to this coder,Quantum communication and QKD,one coder
+P02651,QCSE,not assigned to this coder,not assigned to this coder,NEW: General question,"Information sought, no obstacle reported",one coder
+P02653,QCSE,Algorithm and protocol design,not assigned to this coder,not assigned to this coder,Algorithm and protocol design,one coder
+P02666,QCSE,Algorithm and protocol design,Algorithm and protocol design,Conceptual and knowledge gaps,Algorithm and protocol design,coders agreed
+P02711,QCSE,Quantum communication and QKD,Algorithm and protocol design,NEW: Documentation & guidance,Algorithm and protocol design,coders agreed
+P02747,QCSE,Algorithm and protocol design,Algorithm and protocol design,Algorithm and protocol design,Algorithm and protocol design,coders agreed
+P02816,QCSE,Conceptual and knowledge gaps,not assigned to this coder,not assigned to this coder,Conceptual and knowledge gaps,one coder
+P02832,QCSE,not assigned to this coder,Algorithm and protocol design,Algorithm and protocol design,Algorithm and protocol design,coders agreed
+P02848,QCSE,Quantum communication and QKD,not assigned to this coder,not assigned to this coder,Quantum communication and QKD,one coder
+P02865,QCSE,Algorithm and protocol design,Algorithm and protocol design,Algorithm and protocol design,Algorithm and protocol design,coders agreed
+P02888,QCSE,Tooling and implementation,not assigned to this coder,not assigned to this coder,Tooling and implementation,one coder
+P02927,QCSE,"Information sought, no obstacle reported",not assigned to this coder,NEW: Documentation & guidance,"Information sought, no obstacle reported",coders agreed
+P02953,QCSE,Algorithm and protocol design,not assigned to this coder,not assigned to this coder,Algorithm and protocol design,one coder
+P02962,QCSE,Quantum communication and QKD,Quantum communication and QKD,Conceptual and knowledge gaps,Quantum communication and QKD,coders agreed
+P03007,QCSE,Quantum communication and QKD,Quantum communication and QKD,Quantum communication and QKD,Quantum communication and QKD,coders agreed
+P03033,QCSE,not assigned to this coder,Algorithm and protocol design,Conceptual and knowledge gaps,Algorithm and protocol design,tie resolved by codebook rule
+P03102,QCSE,"Information sought, no obstacle reported",not assigned to this coder,not assigned to this coder,"Information sought, no obstacle reported",one coder
+P03107,QCSE,Cryptographic transition and post-quantum threats,Conceptual and knowledge gaps,"Information sought, no obstacle reported","Information sought, no obstacle reported",decided by adjudication
+P03165,QCSE,Conceptual and knowledge gaps,not assigned to this coder,not assigned to this coder,Conceptual and knowledge gaps,one coder
+P03183,QCSE,"Information sought, no obstacle reported",Cryptographic transition and post-quantum threats,Algorithm and protocol design,Cryptographic transition and post-quantum threats,decided by adjudication
+P03197,QCSE,Quantum communication and QKD,Quantum communication and QKD,Quantum communication and QKD,Quantum communication and QKD,coders agreed
+P03220,QCSE,not assigned to this coder,not assigned to this coder,NEW: General question,"Information sought, no obstacle reported",one coder
+P03246,QCSE,Conceptual and knowledge gaps,not assigned to this coder,not assigned to this coder,Conceptual and knowledge gaps,one coder
+P03254,QCSE,not assigned to this coder,not assigned to this coder,Cryptographic transition and post-quantum threats,Cryptographic transition and post-quantum threats,one coder
+P03265,QCSE,Quantum communication and QKD,not assigned to this coder,not assigned to this coder,Quantum communication and QKD,one coder
+P03320,QCSE,not assigned to this coder,Quantum communication and QKD,Quantum communication and QKD,Quantum communication and QKD,coders agreed
+P03348,QCSE,Algorithm and protocol design,Algorithm and protocol design,Conceptual and knowledge gaps,Algorithm and protocol design,coders agreed
+P03385,QCSE,not assigned to this coder,Conceptual and knowledge gaps,Conceptual and knowledge gaps,Conceptual and knowledge gaps,coders agreed
+P03410,QCSE,"Information sought, no obstacle reported",not assigned to this coder,not assigned to this coder,"Information sought, no obstacle reported",one coder
+P03433,QCSE,Quantum communication and QKD,Quantum communication and QKD,Quantum communication and QKD,Quantum communication and QKD,coders agreed
+P03518,QCSE,Tooling and implementation,not assigned to this coder,not assigned to this coder,Tooling and implementation,one coder
+P03545,QCSE,Quantum communication and QKD,Quantum communication and QKD,Quantum communication and QKD,Quantum communication and QKD,coders agreed
+P03556,QCSE,Quantum communication and QKD,Quantum communication and QKD,Quantum communication and QKD,Quantum communication and QKD,coders agreed
+P03578,QCSE,not assigned to this coder,not assigned to this coder,NEW: General question,"Information sought, no obstacle reported",one coder
+P03622,QCSE,Cryptographic transition and post-quantum threats,not assigned to this coder,not assigned to this coder,Cryptographic transition and post-quantum threats,one coder
+P03654,QCSE,"Information sought, no obstacle reported",NEW: Research & career guidance,none ,"Information sought, no obstacle reported",coders agreed
+P03655,QCSE,Algorithm and protocol design,Algorithm and protocol design,Algorithm and protocol design,Algorithm and protocol design,coders agreed
+P03659,QCSE,not assigned to this coder,Quantum communication and QKD,Conceptual and knowledge gaps,Quantum communication and QKD,tie resolved by codebook rule
+P03673,QCSE,"Information sought, no obstacle reported",not assigned to this coder,NEW: General question,"Information sought, no obstacle reported",coders agreed
+P03678,QCSE,not assigned to this coder,Quantum communication and QKD,NEW: Documentation & guidance,Quantum communication and QKD,tie resolved by codebook rule
+P03703,QCSE,"Information sought, no obstacle reported",not assigned to this coder,not assigned to this coder,"Information sought, no obstacle reported",one coder
+P03716,QCSE,Quantum communication and QKD,Quantum communication and QKD,Quantum communication and QKD,Quantum communication and QKD,coders agreed
+P03767,QCSE,Tooling and implementation,not assigned to this coder,not assigned to this coder,Tooling and implementation,one coder
+P03784,QCSE,not assigned to this coder,Quantum communication and QKD,Quantum communication and QKD,Quantum communication and QKD,coders agreed
+P03794,QCSE,Quantum communication and QKD,not assigned to this coder,not assigned to this coder,Quantum communication and QKD,one coder
+P03814,QCSE,not assigned to this coder,not assigned to this coder,NEW: General question,"Information sought, no obstacle reported",one coder
+P03838,QCSE,Quantum communication and QKD,not assigned to this coder,not assigned to this coder,Quantum communication and QKD,one coder
+P03839,QCSE,Conceptual and knowledge gaps,Cryptographic transition and post-quantum threats,Cryptographic transition and post-quantum threats,Cryptographic transition and post-quantum threats,coders agreed
+P03886,QCSE,Quantum communication and QKD,Quantum communication and QKD,Quantum communication and QKD,Quantum communication and QKD,coders agreed
+P03896,QCSE,not assigned to this coder,not assigned to this coder,NEW: General question,"Information sought, no obstacle reported",one coder
+P03928,QCSE,Quantum communication and QKD,not assigned to this coder,not assigned to this coder,Quantum communication and QKD,one coder
+P03939,QCSE,Quantum communication and QKD,Quantum communication and QKD,Quantum communication and QKD,Quantum communication and QKD,coders agreed
+P03955,QCSE,"Information sought, no obstacle reported",not assigned to this coder,not assigned to this coder,"Information sought, no obstacle reported",one coder
+P03961,QCSE,Attacks on quantum systems,Attacks on quantum systems,Attacks on quantum systems,Attacks on quantum systems,coders agreed
+P03995,QCSE,"Information sought, no obstacle reported",not assigned to this coder,not assigned to this coder,"Information sought, no obstacle reported",one coder
+P04037,QCSE,not assigned to this coder,not assigned to this coder,Tooling and implementation,Tooling and implementation,one coder
+P04062,QCSE,Algorithm and protocol design,not assigned to this coder,not assigned to this coder,Algorithm and protocol design,one coder
+P04066,QCSE,not assigned to this coder,not assigned to this coder,NEW: General question,"Information sought, no obstacle reported",one coder
+P04076,QCSE,Cryptographic transition and post-quantum threats,Cryptographic transition and post-quantum threats,Cryptographic transition and post-quantum threats,Cryptographic transition and post-quantum threats,coders agreed
+P04090,QCSE,not assigned to this coder,Conceptual and knowledge gaps,Conceptual and knowledge gaps,Conceptual and knowledge gaps,coders agreed
+P04144,QCSE,Conceptual and knowledge gaps,not assigned to this coder,not assigned to this coder,Conceptual and knowledge gaps,one coder
+P04183,QCSE,Quantum communication and QKD,Quantum communication and QKD,Quantum communication and QKD,Quantum communication and QKD,coders agreed
+P04203,QCSE,"Information sought, no obstacle reported",not assigned to this coder,Algorithm and protocol design,Algorithm and protocol design,decided by adjudication
+P04216,QCSE,not assigned to this coder,Cryptographic transition and post-quantum threats,Conceptual and knowledge gaps,Cryptographic transition and post-quantum threats,tie resolved by codebook rule
+P04220,QCSE,Algorithm and protocol design,not assigned to this coder,not assigned to this coder,Algorithm and protocol design,one coder
+P04234,QCSE,Algorithm and protocol design,Algorithm and protocol design,Conceptual and knowledge gaps,Algorithm and protocol design,coders agreed
+P04269,QCSE,Conceptual and knowledge gaps,not assigned to this coder,not assigned to this coder,Conceptual and knowledge gaps,one coder
+P04282,QCSE,not assigned to this coder,not assigned to this coder,NEW: General question,"Information sought, no obstacle reported",one coder
+P04293,QCSE,"Information sought, no obstacle reported",not assigned to this coder,not assigned to this coder,"Information sought, no obstacle reported",one coder
+P04328,QCSE,not assigned to this coder,not assigned to this coder,Quantum communication and QKD,Quantum communication and QKD,one coder
+P04335,QCSE,Quantum communication and QKD,Quantum communication and QKD,Quantum communication and QKD,Quantum communication and QKD,coders agreed
+P04343,QCSE,Algorithm and protocol design,Cryptographic transition and post-quantum threats,Cryptographic transition and post-quantum threats,Cryptographic transition and post-quantum threats,coders agreed
+P04348,QCSE,"Information sought, no obstacle reported",not assigned to this coder,Algorithm and protocol design,Algorithm and protocol design,decided by adjudication
+P04354,QCSE,not assigned to this coder,Quantum communication and QKD,Quantum communication and QKD,Quantum communication and QKD,coders agreed
+P04368,QCSE,Tooling and implementation,not assigned to this coder,not assigned to this coder,Tooling and implementation,one coder
+P04371,QCSE,Conceptual and knowledge gaps,Conceptual and knowledge gaps,NEW: General question,Conceptual and knowledge gaps,coders agreed
+P04376,QCSE,"Information sought, no obstacle reported",not assigned to this coder,not assigned to this coder,"Information sought, no obstacle reported",one coder
+P04389,QCSE,not assigned to this coder,Quantum communication and QKD,Quantum communication and QKD,Quantum communication and QKD,coders agreed
+P04393,QCSE,"Information sought, no obstacle reported",Algorithm and protocol design,Algorithm and protocol design,Algorithm and protocol design,coders agreed
+P04408,Reddit,not assigned to this coder,Cryptographic transition and post-quantum threats,NEW: General question,"Information sought, no obstacle reported",decided by adjudication
+P04409,Reddit,Cryptographic transition and post-quantum threats,Cryptographic transition and post-quantum threats,NEW: General question,Cryptographic transition and post-quantum threats,coders agreed
+P04415,Reddit,not assigned to this coder,Conceptual and knowledge gaps,Conceptual and knowledge gaps,Conceptual and knowledge gaps,coders agreed
+P04417,Reddit,"Information sought, no obstacle reported",not assigned to this coder,NEW: General question,"Information sought, no obstacle reported",coders agreed
+P04428,Reddit,Cryptographic transition and post-quantum threats,Cryptographic transition and post-quantum threats,Cryptographic transition and post-quantum threats,Cryptographic transition and post-quantum threats,coders agreed
+P04431,Reddit,Tooling and implementation,not assigned to this coder,not assigned to this coder,Tooling and implementation,one coder
+P04435,Reddit,Conceptual and knowledge gaps,Cryptographic transition and post-quantum threats,NEW: General question,Cryptographic transition and post-quantum threats,decided by adjudication
+P04438,Reddit,"Information sought, no obstacle reported",not assigned to this coder,Quantum communication and QKD,"Information sought, no obstacle reported",decided by adjudication
+P04448,Reddit,not assigned to this coder,Conceptual and knowledge gaps,NEW: General question,"Information sought, no obstacle reported",decided by adjudication
+P04475,Reddit,Quantum communication and QKD,Quantum communication and QKD,Quantum communication and QKD,Quantum communication and QKD,coders agreed
+P04477,Reddit,not assigned to this coder,Quantum communication and QKD,Conceptual and knowledge gaps,Quantum communication and QKD,tie resolved by codebook rule
+P04478,Reddit,"Information sought, no obstacle reported",not assigned to this coder,not assigned to this coder,"Information sought, no obstacle reported",one coder
+P04482,Reddit,Cryptographic transition and post-quantum threats,Cryptographic transition and post-quantum threats,Cryptographic transition and post-quantum threats,Cryptographic transition and post-quantum threats,coders agreed
+P04491,Reddit,Conceptual and knowledge gaps,not assigned to this coder,not assigned to this coder,Conceptual and knowledge gaps,one coder
+P04494,Reddit,not assigned to this coder,not assigned to this coder,Conceptual and knowledge gaps,Conceptual and knowledge gaps,one coder
+P04501,Reddit,"Information sought, no obstacle reported",not assigned to this coder,not assigned to this coder,"Information sought, no obstacle reported",one coder
+P04514,SO,not assigned to this coder,not assigned to this coder,Conceptual and knowledge gaps,Conceptual and knowledge gaps,one coder
+P04515,SO,Tooling and implementation,Tooling and implementation,Tooling and implementation,Tooling and implementation,coders agreed
+P04519,SO,not assigned to this coder,Tooling and implementation,Tooling and implementation,Tooling and implementation,coders agreed
+P04520,SO,Tooling and implementation,not assigned to this coder,not assigned to this coder,Tooling and implementation,one coder
+P04607,SO,not assigned to this coder,Tooling and implementation,Tooling and implementation,Tooling and implementation,coders agreed
+P04627,SO,Conceptual and knowledge gaps,not assigned to this coder,not assigned to this coder,Conceptual and knowledge gaps,one coder
+P04628,SO,not assigned to this coder,Conceptual and knowledge gaps,Conceptual and knowledge gaps,Conceptual and knowledge gaps,coders agreed
+P04631,SO,"Information sought, no obstacle reported",not assigned to this coder,not assigned to this coder,"Information sought, no obstacle reported",one coder
+P04653,MSE,Quantum communication and QKD,Quantum communication and QKD,Quantum communication and QKD,Quantum communication and QKD,coders agreed
+P04659,MSE,Conceptual and knowledge gaps,Conceptual and knowledge gaps,Conceptual and knowledge gaps,Conceptual and knowledge gaps,coders agreed
+P04675,MSE,not assigned to this coder,Conceptual and knowledge gaps,Conceptual and knowledge gaps,Conceptual and knowledge gaps,coders agreed
+P04681,MSE,"Information sought, no obstacle reported",not assigned to this coder,not assigned to this coder,"Information sought, no obstacle reported",one coder
+P04744,SES,Conceptual and knowledge gaps,Cryptographic transition and post-quantum threats,Cryptographic transition and post-quantum threats,Cryptographic transition and post-quantum threats,coders agreed
+P04745,SES,"Information sought, no obstacle reported",not assigned to this coder,not assigned to this coder,"Information sought, no obstacle reported",one coder
+P04746,SES,Tooling and implementation,Tooling and implementation,Tooling and implementation,Tooling and implementation,coders agreed
+P04747,SES,Cryptographic transition and post-quantum threats,not assigned to this coder,not assigned to this coder,Cryptographic transition and post-quantum threats,one coder
+P04748,SES,not assigned to this coder,Algorithm and protocol design,Algorithm and protocol design,Algorithm and protocol design,coders agreed
+P04749,SES,Cryptographic transition and post-quantum threats,not assigned to this coder,not assigned to this coder,Cryptographic transition and post-quantum threats,one coder
+P04750,SES,not assigned to this coder,not assigned to this coder,NEW: General question,"Information sought, no obstacle reported",one coder
+P04751,SES,"Information sought, no obstacle reported",not assigned to this coder,not assigned to this coder,"Information sought, no obstacle reported",one coder
+P04752,SES,Cryptographic transition and post-quantum threats,Cryptographic transition and post-quantum threats,Cryptographic transition and post-quantum threats,Cryptographic transition and post-quantum threats,coders agreed
+P04753,SES,Cryptographic transition and post-quantum threats,not assigned to this coder,not assigned to this coder,Cryptographic transition and post-quantum threats,one coder
+P04754,SES,not assigned to this coder,Conceptual and knowledge gaps,Conceptual and knowledge gaps,Conceptual and knowledge gaps,coders agreed
+P04755,SES,"Information sought, no obstacle reported",not assigned to this coder,not assigned to this coder,"Information sought, no obstacle reported",one coder
+P04756,SES,"Information sought, no obstacle reported",not assigned to this coder,NEW: General question,"Information sought, no obstacle reported",coders agreed
+P04757,SES,"Information sought, no obstacle reported",Cryptographic transition and post-quantum threats,Conceptual and knowledge gaps,Cryptographic transition and post-quantum threats,decided by adjudication
+P04758,SES,not assigned to this coder,Cryptographic transition and post-quantum threats,Algorithm and protocol design,Cryptographic transition and post-quantum threats,decided by adjudication
+P04759,SES,Conceptual and knowledge gaps,not assigned to this coder,not assigned to this coder,Conceptual and knowledge gaps,one coder
+P04762,SES,not assigned to this coder,Cryptographic transition and post-quantum threats,Algorithm and protocol design,Cryptographic transition and post-quantum threats,decided by adjudication
+P04763,SES,Cryptographic transition and post-quantum threats,not assigned to this coder,not assigned to this coder,Cryptographic transition and post-quantum threats,one coder
+P04764,SES,not assigned to this coder,Cryptographic transition and post-quantum threats,Cryptographic transition and post-quantum threats,Cryptographic transition and post-quantum threats,coders agreed
+P04766,SES,Tooling and implementation,not assigned to this coder,not assigned to this coder,Tooling and implementation,one coder
+P04767,SES,not assigned to this coder,Tooling and implementation,Tooling and implementation,Tooling and implementation,coders agreed
+P04768,SES,Cryptographic transition and post-quantum threats,not assigned to this coder,NEW: General question,"Information sought, no obstacle reported",decided by adjudication
+P04770,SES,Cryptographic transition and post-quantum threats,Cryptographic transition and post-quantum threats,Algorithm and protocol design,Cryptographic transition and post-quantum threats,coders agreed
+P04771,SES,Conceptual and knowledge gaps,not assigned to this coder,not assigned to this coder,Conceptual and knowledge gaps,one coder
+P04772,SES,"Information sought, no obstacle reported",Conceptual and knowledge gaps,NEW: General question,"Information sought, no obstacle reported",coders agreed
+P04773,SES,Conceptual and knowledge gaps,not assigned to this coder,not assigned to this coder,Conceptual and knowledge gaps,one coder
+P04774,SES,Cryptographic transition and post-quantum threats,Cryptographic transition and post-quantum threats,Conceptual and knowledge gaps,Cryptographic transition and post-quantum threats,coders agreed
+P04775,SES,"Information sought, no obstacle reported",not assigned to this coder,not assigned to this coder,"Information sought, no obstacle reported",one coder
+P04780,SES,not assigned to this coder,not assigned to this coder,NEW: General question,"Information sought, no obstacle reported",one coder
+P04781,SES,"Information sought, no obstacle reported",not assigned to this coder,Conceptual and knowledge gaps,"Information sought, no obstacle reported",decided by adjudication
+P04785,SES,not assigned to this coder,Cryptographic transition and post-quantum threats,Conceptual and knowledge gaps,Cryptographic transition and post-quantum threats,tie resolved by codebook rule
+P04786,SES,Cryptographic transition and post-quantum threats,not assigned to this coder,not assigned to this coder,Cryptographic transition and post-quantum threats,one coder
+P04787,SES,not assigned to this coder,Cryptographic transition and post-quantum threats,Cryptographic transition and post-quantum threats,Cryptographic transition and post-quantum threats,coders agreed
+P04788,SES,Cryptographic transition and post-quantum threats,not assigned to this coder,not assigned to this coder,Cryptographic transition and post-quantum threats,one coder
+P04790,SES,Cryptographic transition and post-quantum threats,Cryptographic transition and post-quantum threats,Cryptographic transition and post-quantum threats,Cryptographic transition and post-quantum threats,coders agreed
+P04792,SES,Cryptographic transition and post-quantum threats,Cryptographic transition and post-quantum threats,Cryptographic transition and post-quantum threats,Cryptographic transition and post-quantum threats,coders agreed
+P04793,SES,"Information sought, no obstacle reported",not assigned to this coder,Cryptographic transition and post-quantum threats,"Information sought, no obstacle reported",decided by adjudication
+P04794,SES,"Information sought, no obstacle reported",not assigned to this coder,not assigned to this coder,"Information sought, no obstacle reported",one coder
+P04795,SES,not assigned to this coder,Tooling and implementation,Tooling and implementation,Tooling and implementation,coders agreed
+P04796,SES,"Information sought, no obstacle reported",not assigned to this coder,not assigned to this coder,"Information sought, no obstacle reported",one coder
+P04798,SES,Cryptographic transition and post-quantum threats,Cryptographic transition and post-quantum threats,Algorithm and protocol design,Cryptographic transition and post-quantum threats,coders agreed
+P04799,SES,Algorithm and protocol design,not assigned to this coder,not assigned to this coder,Algorithm and protocol design,one coder
+P04800,SES,Cryptographic transition and post-quantum threats,Cryptographic transition and post-quantum threats,Cryptographic transition and post-quantum threats,Cryptographic transition and post-quantum threats,coders agreed
+P04804,GitHub,Tooling and implementation,not assigned to this coder,not assigned to this coder,Tooling and implementation,one coder
+P04813,GitHub,not assigned to this coder,Tooling and implementation,Conceptual and knowledge gaps,Tooling and implementation,tie resolved by codebook rule
+P04829,GitHub,Tooling and implementation,not assigned to this coder,not assigned to this coder,Tooling and implementation,one coder
+P04835,GitHub,not assigned to this coder,Tooling and implementation,Tooling and implementation,Tooling and implementation,coders agreed
+P04839,GitHub,Tooling and implementation,Tooling and implementation,Tooling and implementation,Tooling and implementation,coders agreed
+P04845,GitHub,Tooling and implementation,Tooling and implementation,Tooling and implementation,Tooling and implementation,coders agreed
+P04855,GitHub,Tooling and implementation,not assigned to this coder,not assigned to this coder,Tooling and implementation,one coder
+P04856,GitHub,not assigned to this coder,not assigned to this coder,not assigned to this coder,Cryptographic transition and post-quantum threats,decided by adjudication
+P04858,GitHub,Cryptographic transition and post-quantum threats,Tooling and implementation,Conceptual and knowledge gaps,Cryptographic transition and post-quantum threats,decided by adjudication
+P04860,GitHub,Tooling and implementation,Tooling and implementation,NEW: Documentation & guidance,Tooling and implementation,coders agreed
+P04862,GitHub,Tooling and implementation,not assigned to this coder,not assigned to this coder,Tooling and implementation,one coder
+P04863,GitHub,not assigned to this coder,Tooling and implementation,NEW: General question,Cryptographic transition and post-quantum threats,decided by adjudication
+P04865,GitHub,Tooling and implementation,Tooling and implementation,Tooling and implementation,Tooling and implementation,coders agreed
+P04868,GitHub,Cryptographic transition and post-quantum threats,Cryptographic transition and post-quantum threats,Cryptographic transition and post-quantum threats,Cryptographic transition and post-quantum threats,coders agreed
+P04874,GitHub,Tooling and implementation,not assigned to this coder,not assigned to this coder,Tooling and implementation,one coder
+P04883,GitHub,Tooling and implementation,Tooling and implementation,Tooling and implementation,Tooling and implementation,coders agreed
+P04884,GitHub,Tooling and implementation,Tooling and implementation,Tooling and implementation,Tooling and implementation,coders agreed
+P04888,GitHub,not assigned to this coder,Tooling and implementation,NEW: General question,"Information sought, no obstacle reported",decided by adjudication
+P04892,GitHub,Tooling and implementation,not assigned to this coder,not assigned to this coder,Tooling and implementation,one coder
+P04906,GitHub,Tooling and implementation,Tooling and implementation,Tooling and implementation,Tooling and implementation,coders agreed
+P04913,GitHub,Tooling and implementation,not assigned to this coder,not assigned to this coder,Tooling and implementation,one coder
+P04918,GitHub,not assigned to this coder,Tooling and implementation,Tooling and implementation,Tooling and implementation,coders agreed
+P04925,GitHub,Tooling and implementation,not assigned to this coder,not assigned to this coder,Tooling and implementation,one coder
+P04928,GitHub,not assigned to this coder,Tooling and implementation,Tooling and implementation,Tooling and implementation,coders agreed
+P04930,GitHub,Cryptographic transition and post-quantum threats,Cryptographic transition and post-quantum threats,Algorithm and protocol design,Cryptographic transition and post-quantum threats,coders agreed
+P04936,GitHub,not assigned to this coder,Tooling and implementation,Tooling and implementation,Tooling and implementation,coders agreed
+P04942,GitHub,Tooling and implementation,Tooling and implementation,Tooling and implementation,Tooling and implementation,coders agreed
+P04949,GitHub,Conceptual and knowledge gaps,Quantum communication and QKD,Conceptual and knowledge gaps,Conceptual and knowledge gaps,coders agreed
+P04954,GitHub,Tooling and implementation,Tooling and implementation,Tooling and implementation,Tooling and implementation,coders agreed
+P04960,GitHub,not assigned to this coder,Tooling and implementation,Tooling and implementation,Tooling and implementation,coders agreed
+P04965,GitHub,Tooling and implementation,not assigned to this coder,not assigned to this coder,Tooling and implementation,one coder
+P04976,GitHub,not assigned to this coder,not assigned to this coder,none,"Information sought, no obstacle reported",one coder
+P04979,GitHub,Tooling and implementation,not assigned to this coder,not assigned to this coder,Tooling and implementation,one coder
+P04982,GitHub,Tooling and implementation,Tooling and implementation,Tooling and implementation,Tooling and implementation,coders agreed
+P04993,GitHub,Tooling and implementation,not assigned to this coder,none,Tooling and implementation,decided by adjudication
+P05000,GitHub,Tooling and implementation,Tooling and implementation,Tooling and implementation,Tooling and implementation,coders agreed
+P05006,GitHub,"Information sought, no obstacle reported",not assigned to this coder,not assigned to this coder,"Information sought, no obstacle reported",one coder
+P05007,GitHub,not assigned to this coder,Tooling and implementation,Tooling and implementation,Tooling and implementation,coders agreed
+P05017,GitHub,Tooling and implementation,not assigned to this coder,not assigned to this coder,Tooling and implementation,one coder
+P05018,GitHub,not assigned to this coder,Tooling and implementation,Tooling and implementation,Tooling and implementation,coders agreed
+P05028,GitHub,Cryptographic transition and post-quantum threats,not assigned to this coder,not assigned to this coder,Cryptographic transition and post-quantum threats,one coder
+P05044,GitHub,Tooling and implementation,Tooling and implementation,Tooling and implementation,Tooling and implementation,coders agreed
+P05091,GitHub,Tooling and implementation,not assigned to this coder,none,Tooling and implementation,decided by adjudication
+P05092,GitHub,not assigned to this coder,not assigned to this coder,Tooling and implementation,Tooling and implementation,one coder
+P05147,GitHub,Cryptographic transition and post-quantum threats,not assigned to this coder,not assigned to this coder,Cryptographic transition and post-quantum threats,one coder
+P05160,GitHub,not assigned to this coder,Cryptographic transition and post-quantum threats,Cryptographic transition and post-quantum threats,Cryptographic transition and post-quantum threats,coders agreed
+P05098,GitHub,not assigned to this coder,not assigned to this coder,not assigned to this coder,Tooling and implementation,decided by adjudication

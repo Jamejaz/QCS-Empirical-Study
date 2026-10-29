@@ -1,0 +1,8 @@
+label,posts,share_pct,top10_jaccard_stability,label_status,top15_words
+Quantum threat to deployed cryptography,74,25.6,0.49,stable,"encryption, computer, key, algorithm, encrypt, rsa, break, cryptography, datum, quantum computing, year, attack, aes, decrypt, security"
+Security proofs and protocol analysis,64,22.1,0.26,provisional,"protocol, security, circuit, proof, number, classical, gate, state, qkd, equation, prove, computer, possible, entropy, key"
+QKD mechanics and eavesdropping,53,18.3,0.74,stable,"eve, qubit, bob, basis, state, alice bob, measure, alice, protocol, probability, measurement, bit, send, channel, key"
+Migration of production systems,27,9.3,0.31,stable,"enable, algorithm, rsa, computer, key, certificate, large, encryption, ibm, hardware, classical, library, openssl, pqc, test"
+Post-quantum library engineering,27,9.3,0.47,stable,"test, openssl, release, liboqs, build, add, support, fix, include, kyber, oqs provider, base, oqs, signature, documentation"
+QKD authentication and key management,27,9.3,0.43,stable,"key, key distribution, attack, qkd, qubit, classical, scheme, state, authentication, bit, channel, section, protocol, require, public key"
+Reconciliation and encoding for QKD,17,5.9,0.34,stable,"bit, photon, correct, base, basis, error, bob, measure, number, protocol, lattice, alice, choose, error correction, message"
