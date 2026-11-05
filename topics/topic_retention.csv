@@ -1,0 +1,11 @@
+layer,seed,share_keeping_topic
+core security,100,1.0
+core security,1,0.488
+core security,2,0.374
+core security,3,0.512
+core security,4,0.471
+integrity,100,1.0
+integrity,1,0.359
+integrity,2,0.392
+integrity,3,0.433
+integrity,4,0.441

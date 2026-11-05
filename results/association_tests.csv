@@ -1,0 +1,550 @@
+layer,analysis,group,category,k,n,rate,lift,p,p_adj
+core security,tool,Qiskit,Algorithm and protocol design,3,20,0.15,1.032142857142857,1.0,1.0
+core security,tool,Qiskit,Attacks on quantum systems,0,20,0.0,0.0,1.0,1.0
+core security,tool,Qiskit,Conceptual and knowledge gaps,1,20,0.05,0.5351851851851852,0.7053752604543164,1.0
+core security,tool,Qiskit,Cryptographic transition and post-quantum threats,1,20,0.05,0.336046511627907,0.3279860914172865,1.0
+core security,tool,Qiskit,"Information sought, no obstacle reported",1,20,0.05,0.2580357142857143,0.1391608831570687,0.7173276550439179
+core security,tool,Qiskit,Quantum communication and QKD,2,20,0.1,0.4661290322580645,0.2646171644889741,0.9261600757114093
+core security,tool,Qiskit,Tooling and implementation,12,20,0.6,3.1527272727272724,5.556145951282711e-06,0.00013612557580642643
+core security,tool,Cirq,Algorithm and protocol design,0,2,0.0,0.0,1.0,1.0
+core security,tool,Cirq,Attacks on quantum systems,0,2,0.0,0.0,1.0,1.0
+core security,tool,Cirq,Conceptual and knowledge gaps,1,2,0.5,5.351851851851852,0.17841695501730104,0.7173276550439179
+core security,tool,Cirq,Cryptographic transition and post-quantum threats,0,2,0.0,0.0,1.0,1.0
+core security,tool,Cirq,"Information sought, no obstacle reported",0,2,0.0,0.0,1.0,1.0
+core security,tool,Cirq,Quantum communication and QKD,0,2,0.0,0.0,1.0,1.0
+core security,tool,Cirq,Tooling and implementation,1,2,0.5,2.6272727272727274,0.344939446366782,1.0
+core security,tool,PennyLane,Algorithm and protocol design,0,1,0.0,0.0,1.0,1.0
+core security,tool,PennyLane,Attacks on quantum systems,0,1,0.0,0.0,1.0,1.0
+core security,tool,PennyLane,Conceptual and knowledge gaps,0,1,0.0,0.0,1.0,1.0
+core security,tool,PennyLane,Cryptographic transition and post-quantum threats,0,1,0.0,0.0,1.0,1.0
+core security,tool,PennyLane,"Information sought, no obstacle reported",0,1,0.0,0.0,1.0,1.0
+core security,tool,PennyLane,Quantum communication and QKD,0,1,0.0,0.0,1.0,1.0
+core security,tool,PennyLane,Tooling and implementation,1,1,1.0,5.254545454545455,0.1903114186851211,0.7173276550439179
+core security,tool,QuTiP,Algorithm and protocol design,0,1,0.0,0.0,1.0,1.0
+core security,tool,QuTiP,Attacks on quantum systems,0,1,0.0,0.0,1.0,1.0
+core security,tool,QuTiP,Conceptual and knowledge gaps,0,1,0.0,0.0,1.0,1.0
+core security,tool,QuTiP,Cryptographic transition and post-quantum threats,0,1,0.0,0.0,1.0,1.0
+core security,tool,QuTiP,"Information sought, no obstacle reported",0,1,0.0,0.0,1.0,1.0
+core security,tool,QuTiP,Quantum communication and QKD,0,1,0.0,0.0,1.0,1.0
+core security,tool,QuTiP,Tooling and implementation,1,1,1.0,5.254545454545455,0.1903114186851211,0.7173276550439179
+core security,tool,liboqs,Algorithm and protocol design,0,18,0.0,0.0,0.08556715837032308,0.5411383685890595
+core security,tool,liboqs,Attacks on quantum systems,0,18,0.0,0.0,1.0,1.0
+core security,tool,liboqs,Conceptual and knowledge gaps,0,18,0.0,0.0,0.39135576622257945,1.0
+core security,tool,liboqs,Cryptographic transition and post-quantum threats,2,18,0.1111111111111111,0.7467700258397932,1.0,1.0
+core security,tool,liboqs,"Information sought, no obstacle reported",0,18,0.0,0.0,0.029011877700532977,0.24756274549694016
+core security,tool,liboqs,Quantum communication and QKD,0,18,0.0,0.0,0.016468538000857336,0.18498218891818805
+core security,tool,liboqs,Tooling and implementation,16,18,0.8888888888888888,4.670707070707071,4.5967353440439724e-11,1.5016002123876978e-09
+core security,tool,Open Quantum Safe,Algorithm and protocol design,0,19,0.0,0.0,0.08679064995546981,0.5411383685890595
+core security,tool,Open Quantum Safe,Attacks on quantum systems,0,19,0.0,0.0,1.0,1.0
+core security,tool,Open Quantum Safe,Conceptual and knowledge gaps,0,19,0.0,0.0,0.23354023226233978,0.847664546729974
+core security,tool,Open Quantum Safe,Cryptographic transition and post-quantum threats,2,19,0.10526315789473684,0.7074663402692778,0.7488588784215646,1.0
+core security,tool,Open Quantum Safe,"Information sought, no obstacle reported",0,19,0.0,0.0,0.030313805571053894,0.24756274549694016
+core security,tool,Open Quantum Safe,Quantum communication and QKD,0,19,0.0,0.0,0.016988160206772372,0.18498218891818805
+core security,tool,Open Quantum Safe,Tooling and implementation,17,19,0.8947368421052632,4.701435406698565,7.38190748742382e-12,3.6171346688376717e-10
+core security,tool,SimulaQron,Algorithm and protocol design,0,3,0.0,0.0,1.0,1.0
+core security,tool,SimulaQron,Attacks on quantum systems,0,3,0.0,0.0,1.0,1.0
+core security,tool,SimulaQron,Conceptual and knowledge gaps,0,3,0.0,0.0,1.0,1.0
+core security,tool,SimulaQron,Cryptographic transition and post-quantum threats,0,3,0.0,0.0,1.0,1.0
+core security,tool,SimulaQron,"Information sought, no obstacle reported",1,3,0.3333333333333333,1.7202380952380951,0.4772624975384703,1.0
+core security,tool,SimulaQron,Quantum communication and QKD,0,3,0.0,0.0,1.0,1.0
+core security,tool,SimulaQron,Tooling and implementation,2,3,0.6666666666666666,3.503030303030303,0.0938709414899389,0.5411383685890595
+core security,tool,Bouncy Castle,Algorithm and protocol design,0,1,0.0,0.0,1.0,1.0
+core security,tool,Bouncy Castle,Attacks on quantum systems,0,1,0.0,0.0,1.0,1.0
+core security,tool,Bouncy Castle,Conceptual and knowledge gaps,0,1,0.0,0.0,1.0,1.0
+core security,tool,Bouncy Castle,Cryptographic transition and post-quantum threats,0,1,0.0,0.0,1.0,1.0
+core security,tool,Bouncy Castle,"Information sought, no obstacle reported",0,1,0.0,0.0,1.0,1.0
+core security,tool,Bouncy Castle,Quantum communication and QKD,0,1,0.0,0.0,1.0,1.0
+core security,tool,Bouncy Castle,Tooling and implementation,1,1,1.0,5.254545454545455,0.1903114186851211,0.7173276550439179
+core security,tool,PQClean,Algorithm and protocol design,0,1,0.0,0.0,1.0,1.0
+core security,tool,PQClean,Attacks on quantum systems,0,1,0.0,0.0,1.0,1.0
+core security,tool,PQClean,Conceptual and knowledge gaps,0,1,0.0,0.0,1.0,1.0
+core security,tool,PQClean,Cryptographic transition and post-quantum threats,0,1,0.0,0.0,1.0,1.0
+core security,tool,PQClean,"Information sought, no obstacle reported",0,1,0.0,0.0,1.0,1.0
+core security,tool,PQClean,Quantum communication and QKD,0,1,0.0,0.0,1.0,1.0
+core security,tool,PQClean,Tooling and implementation,1,1,1.0,5.254545454545455,0.1903114186851211,0.7173276550439179
+core security,tool,QuNetSim,Algorithm and protocol design,0,1,0.0,0.0,1.0,1.0
+core security,tool,QuNetSim,Attacks on quantum systems,0,1,0.0,0.0,1.0,1.0
+core security,tool,QuNetSim,Conceptual and knowledge gaps,0,1,0.0,0.0,1.0,1.0
+core security,tool,QuNetSim,Cryptographic transition and post-quantum threats,0,1,0.0,0.0,1.0,1.0
+core security,tool,QuNetSim,"Information sought, no obstacle reported",0,1,0.0,0.0,1.0,1.0
+core security,tool,QuNetSim,Quantum communication and QKD,0,1,0.0,0.0,1.0,1.0
+core security,tool,QuNetSim,Tooling and implementation,1,1,1.0,5.254545454545455,0.1903114186851211,0.7173276550439179
+core security,tool,OpenSSL,Algorithm and protocol design,0,28,0.0,0.0,0.020005656199750487,0.19605543075755477
+core security,tool,OpenSSL,Attacks on quantum systems,0,28,0.0,0.0,1.0,1.0
+core security,tool,OpenSSL,Conceptual and knowledge gaps,0,28,0.0,0.0,0.08895764597060382,0.5411383685890595
+core security,tool,OpenSSL,Cryptographic transition and post-quantum threats,2,28,0.07142857142857142,0.48006644518272423,0.3984746582239006,1.0
+core security,tool,OpenSSL,"Information sought, no obstacle reported",0,28,0.0,0.0,0.0022559022304614743,0.036846403097537415
+core security,tool,OpenSSL,Quantum communication and QKD,0,28,0.0,0.0,0.0011799318572478692,0.023126664402058236
+core security,tool,OpenSSL,Tooling and implementation,26,28,0.9285714285714286,4.87922077922078,1.4356024282170095e-19,1.4068903796526693e-17
+core security,tool,GnuPG/GPG,Algorithm and protocol design,0,4,0.0,0.0,1.0,1.0
+core security,tool,GnuPG/GPG,Attacks on quantum systems,0,4,0.0,0.0,1.0,1.0
+core security,tool,GnuPG/GPG,Conceptual and knowledge gaps,0,4,0.0,0.0,1.0,1.0
+core security,tool,GnuPG/GPG,Cryptographic transition and post-quantum threats,1,4,0.25,1.6802325581395348,0.4769309410312872,1.0
+core security,tool,GnuPG/GPG,"Information sought, no obstacle reported",1,4,0.25,1.2901785714285714,0.5796166938246438,1.0
+core security,tool,GnuPG/GPG,Quantum communication and QKD,0,4,0.0,0.0,0.5809843587082173,1.0
+core security,tool,GnuPG/GPG,Tooling and implementation,2,4,0.5,2.6272727272727274,0.16497775580820565,0.7173276550439179
+core security,tool,strongSwan,Algorithm and protocol design,0,3,0.0,0.0,1.0,1.0
+core security,tool,strongSwan,Attacks on quantum systems,0,3,0.0,0.0,1.0,1.0
+core security,tool,strongSwan,Conceptual and knowledge gaps,0,3,0.0,0.0,1.0,1.0
+core security,tool,strongSwan,Cryptographic transition and post-quantum threats,0,3,0.0,0.0,1.0,1.0
+core security,tool,strongSwan,"Information sought, no obstacle reported",0,3,0.0,0.0,1.0,1.0
+core security,tool,strongSwan,Quantum communication and QKD,0,3,0.0,0.0,1.0,1.0
+core security,tool,strongSwan,Tooling and implementation,3,3,1.0,5.254545454545455,0.006589615760220874,0.09225462064309224
+core security,tool,OpenSSH,Algorithm and protocol design,0,5,0.0,0.0,1.0,1.0
+core security,tool,OpenSSH,Attacks on quantum systems,0,5,0.0,0.0,1.0,1.0
+core security,tool,OpenSSH,Conceptual and knowledge gaps,0,5,0.0,0.0,1.0,1.0
+core security,tool,OpenSSH,Cryptographic transition and post-quantum threats,2,5,0.4,2.688372093023256,0.16125417561859015,0.7173276550439179
+core security,tool,OpenSSH,"Information sought, no obstacle reported",0,5,0.0,0.0,0.5869918395470186,1.0
+core security,tool,OpenSSH,Quantum communication and QKD,0,5,0.0,0.0,0.5883355103098274,1.0
+core security,tool,OpenSSH,Tooling and implementation,3,5,0.6,3.1527272727272724,0.04921087214618535,0.3709742669481665
+core security,algorithm,Shor's algorithm,Algorithm and protocol design,2,26,0.07692307692307693,0.5293040293040293,0.39329218228214935,0.9929015749418196
+core security,algorithm,Shor's algorithm,Attacks on quantum systems,0,26,0.0,0.0,1.0,1.0
+core security,algorithm,Shor's algorithm,Conceptual and knowledge gaps,3,26,0.11538461538461539,1.235042735042735,0.7209340498000553,1.0
+core security,algorithm,Shor's algorithm,Cryptographic transition and post-quantum threats,9,26,0.34615384615384615,2.3264758497316635,0.0074623342374379375,0.07182496703534014
+core security,algorithm,Shor's algorithm,"Information sought, no obstacle reported",10,26,0.38461538461538464,1.98489010989011,0.020298786121135774,0.17366739236971718
+core security,algorithm,Shor's algorithm,Quantum communication and QKD,0,26,0.0,0.0,0.0020198555788274505,0.022866134369162707
+core security,algorithm,Shor's algorithm,Tooling and implementation,2,26,0.07692307692307693,0.4041958041958042,0.18770084100121542,0.6782006920415226
+core security,algorithm,Grover's algorithm,Algorithm and protocol design,4,14,0.2857142857142857,1.9659863945578229,0.12922870639041867,0.5075385174049486
+core security,algorithm,Grover's algorithm,Attacks on quantum systems,0,14,0.0,0.0,1.0,1.0
+core security,algorithm,Grover's algorithm,Conceptual and knowledge gaps,3,14,0.21428571428571427,2.2936507936507935,0.13182818633894766,0.5075385174049486
+core security,algorithm,Grover's algorithm,Cryptographic transition and post-quantum threats,5,14,0.35714285714285715,2.4003322259136213,0.0627824203858124,0.3718651053621196
+core security,algorithm,Grover's algorithm,"Information sought, no obstacle reported",2,14,0.14285714285714285,0.7372448979591837,1.0,1.0
+core security,algorithm,Grover's algorithm,Quantum communication and QKD,0,14,0.0,0.0,0.045821093903551366,0.2940186858811213
+core security,algorithm,Grover's algorithm,Tooling and implementation,0,14,0.0,0.0,0.07971058417259236,0.42329068836480077
+core security,algorithm,QKD (generic),Algorithm and protocol design,12,83,0.14457831325301204,0.9948364888123924,1.0,1.0
+core security,algorithm,QKD (generic),Attacks on quantum systems,2,83,0.024096385542168676,1.7409638554216869,0.3253682591917886,0.911031125737008
+core security,algorithm,QKD (generic),Conceptual and knowledge gaps,1,83,0.012048192771084338,0.12896028558679162,0.0013370809283307597,0.01871913299663064
+core security,algorithm,QKD (generic),Cryptographic transition and post-quantum threats,1,83,0.012048192771084338,0.08097506304286915,4.8443579601959404e-06,0.0001865077814675437
+core security,algorithm,QKD (generic),"Information sought, no obstacle reported",20,83,0.24096385542168675,1.2435456110154905,0.26104038266935775,0.773081133290021
+core security,algorithm,QKD (generic),Quantum communication and QKD,41,83,0.4939759036144578,2.3025650991061015,6.603514015636873e-13,1.0169411584080784e-10
+core security,algorithm,QKD (generic),Tooling and implementation,6,83,0.07228915662650602,0.3798466593647316,0.002078739488105701,0.022866134369162707
+core security,algorithm,BB84,Algorithm and protocol design,8,63,0.12698412698412698,0.8737717309145879,0.790955564986431,1.0
+core security,algorithm,BB84,Attacks on quantum systems,1,63,0.015873015873015872,1.1468253968253967,1.0,1.0
+core security,algorithm,BB84,Conceptual and knowledge gaps,2,63,0.031746031746031744,0.33980011757789536,0.08316447543902505,0.42390354742778347
+core security,algorithm,BB84,Cryptographic transition and post-quantum threats,0,63,0.0,0.0,1.2814771591663029e-05,0.00039469496502322134
+core security,algorithm,BB84,"Information sought, no obstacle reported",13,63,0.20634920634920634,1.064909297052154,0.9160644718923026,1.0
+core security,algorithm,BB84,Quantum communication and QKD,34,63,0.5396825396825397,2.515616999487967,4.035327580296902e-12,3.107202236828614e-10
+core security,algorithm,BB84,Tooling and implementation,5,63,0.07936507936507936,0.417027417027417,0.018506138876110037,0.1676438462894674
+core security,algorithm,E91,Algorithm and protocol design,1,18,0.05555555555555555,0.3822751322751322,0.48705770520911373,1.0
+core security,algorithm,E91,Attacks on quantum systems,0,18,0.0,0.0,1.0,1.0
+core security,algorithm,E91,Conceptual and knowledge gaps,0,18,0.0,0.0,0.39135576622257945,0.9929015749418196
+core security,algorithm,E91,Cryptographic transition and post-quantum threats,0,18,0.0,0.0,0.08533123357312525,0.42390354742778347
+core security,algorithm,E91,"Information sought, no obstacle reported",4,18,0.2222222222222222,1.1468253968253967,0.759222216443147,1.0
+core security,algorithm,E91,Quantum communication and QKD,11,18,0.6111111111111112,2.848566308243728,8.27698156294444e-05,0.0021244252678224063
+core security,algorithm,E91,Tooling and implementation,2,18,0.1111111111111111,0.5838383838383838,0.540694745988289,1.0
+core security,algorithm,B92,Algorithm and protocol design,0,3,0.0,0.0,1.0,1.0
+core security,algorithm,B92,Attacks on quantum systems,0,3,0.0,0.0,1.0,1.0
+core security,algorithm,B92,Conceptual and knowledge gaps,0,3,0.0,0.0,1.0,1.0
+core security,algorithm,B92,Cryptographic transition and post-quantum threats,0,3,0.0,0.0,1.0,1.0
+core security,algorithm,B92,"Information sought, no obstacle reported",1,3,0.3333333333333333,1.7202380952380951,0.4772624975384703,1.0
+core security,algorithm,B92,Quantum communication and QKD,2,3,0.6666666666666666,3.1075268817204296,0.11731877112394454,0.5075385174049486
+core security,algorithm,B92,Tooling and implementation,0,3,0.0,0.0,1.0,1.0
+core security,algorithm,Quantum teleportation,Algorithm and protocol design,3,9,0.3333333333333333,2.2936507936507935,0.1279296935899364,0.5075385174049486
+core security,algorithm,Quantum teleportation,Attacks on quantum systems,1,9,0.1111111111111111,8.027777777777777,0.11946111530464641,0.5075385174049486
+core security,algorithm,Quantum teleportation,Conceptual and knowledge gaps,1,9,0.1111111111111111,1.1893004115226335,0.5917386397831489,1.0
+core security,algorithm,Quantum teleportation,Cryptographic transition and post-quantum threats,0,9,0.0,0.0,0.3646646915165571,0.9554468736300887
+core security,algorithm,Quantum teleportation,"Information sought, no obstacle reported",1,9,0.1111111111111111,0.5734126984126984,1.0,1.0
+core security,algorithm,Quantum teleportation,Quantum communication and QKD,3,9,0.3333333333333333,1.5537634408602148,0.40935871634339477,1.0
+core security,algorithm,Quantum teleportation,Tooling and implementation,0,9,0.0,0.0,0.2154109466467087,0.6879921429231873
+core security,algorithm,QFT,Algorithm and protocol design,0,1,0.0,0.0,1.0,1.0
+core security,algorithm,QFT,Attacks on quantum systems,0,1,0.0,0.0,1.0,1.0
+core security,algorithm,QFT,Conceptual and knowledge gaps,0,1,0.0,0.0,1.0,1.0
+core security,algorithm,QFT,Cryptographic transition and post-quantum threats,0,1,0.0,0.0,1.0,1.0
+core security,algorithm,QFT,"Information sought, no obstacle reported",0,1,0.0,0.0,1.0,1.0
+core security,algorithm,QFT,Quantum communication and QKD,0,1,0.0,0.0,1.0,1.0
+core security,algorithm,QFT,Tooling and implementation,1,1,1.0,5.254545454545455,0.1903114186851211,0.6782006920415226
+core security,algorithm,QPE,Algorithm and protocol design,0,1,0.0,0.0,1.0,1.0
+core security,algorithm,QPE,Attacks on quantum systems,0,1,0.0,0.0,1.0,1.0
+core security,algorithm,QPE,Conceptual and knowledge gaps,0,1,0.0,0.0,1.0,1.0
+core security,algorithm,QPE,Cryptographic transition and post-quantum threats,0,1,0.0,0.0,1.0,1.0
+core security,algorithm,QPE,"Information sought, no obstacle reported",1,1,1.0,5.160714285714286,0.19377162629757785,0.6782006920415226
+core security,algorithm,QPE,Quantum communication and QKD,0,1,0.0,0.0,1.0,1.0
+core security,algorithm,QPE,Tooling and implementation,0,1,0.0,0.0,1.0,1.0
+core security,algorithm,HHL,Algorithm and protocol design,1,1,1.0,6.8809523809523805,0.1453287197231834,0.5458688496919571
+core security,algorithm,HHL,Attacks on quantum systems,0,1,0.0,0.0,1.0,1.0
+core security,algorithm,HHL,Conceptual and knowledge gaps,0,1,0.0,0.0,1.0,1.0
+core security,algorithm,HHL,Cryptographic transition and post-quantum threats,0,1,0.0,0.0,1.0,1.0
+core security,algorithm,HHL,"Information sought, no obstacle reported",0,1,0.0,0.0,1.0,1.0
+core security,algorithm,HHL,Quantum communication and QKD,0,1,0.0,0.0,1.0,1.0
+core security,algorithm,HHL,Tooling and implementation,0,1,0.0,0.0,1.0,1.0
+core security,algorithm,RSA,Algorithm and protocol design,2,45,0.044444444444444446,0.3058201058201058,0.03776998260527816,0.26438987823694715
+core security,algorithm,RSA,Attacks on quantum systems,0,45,0.0,0.0,1.0,1.0
+core security,algorithm,RSA,Conceptual and knowledge gaps,4,45,0.08888888888888889,0.9514403292181071,1.0,1.0
+core security,algorithm,RSA,Cryptographic transition and post-quantum threats,19,45,0.4222222222222222,2.8377260981912142,7.3928751572855e-08,3.7950092474065566e-06
+core security,algorithm,RSA,"Information sought, no obstacle reported",9,45,0.2,1.0321428571428573,1.0,1.0
+core security,algorithm,RSA,Quantum communication and QKD,1,45,0.022222222222222223,0.103584229390681,0.00023448157104796936,0.00451377024267341
+core security,algorithm,RSA,Tooling and implementation,10,45,0.2222222222222222,1.1676767676767676,0.6988783734461383,1.0
+core security,algorithm,AES,Algorithm and protocol design,1,23,0.043478260869565216,0.2991718426501035,0.21890659093010506,0.6879921429231873
+core security,algorithm,AES,Attacks on quantum systems,0,23,0.0,0.0,1.0,1.0
+core security,algorithm,AES,Conceptual and knowledge gaps,3,23,0.13043478260869565,1.396135265700483,0.46111779264153285,1.0
+core security,algorithm,AES,Cryptographic transition and post-quantum threats,10,23,0.43478260869565216,2.922143579373104,0.00020574893756549476,0.00451377024267341
+core security,algorithm,AES,"Information sought, no obstacle reported",5,23,0.21739130434782608,1.1218944099378882,0.9810250193193137,1.0
+core security,algorithm,AES,Quantum communication and QKD,0,23,0.0,0.0,0.00604178348504736,0.062028977113152896
+core security,algorithm,AES,Tooling and implementation,4,23,0.17391304347826086,0.9138339920948616,1.0,1.0
+core security,algorithm,ECC / ECDSA,Algorithm and protocol design,2,10,0.2,1.3761904761904762,0.6428227980715093,1.0
+core security,algorithm,ECC / ECDSA,Attacks on quantum systems,0,10,0.0,0.0,1.0,1.0
+core security,algorithm,ECC / ECDSA,Conceptual and knowledge gaps,0,10,0.0,0.0,0.6063194026480365,1.0
+core security,algorithm,ECC / ECDSA,Cryptographic transition and post-quantum threats,4,10,0.4,2.688372093023256,0.04562035441363163,0.2940186858811213
+core security,algorithm,ECC / ECDSA,"Information sought, no obstacle reported",1,10,0.1,0.5160714285714286,0.6929209260420435,1.0
+core security,algorithm,ECC / ECDSA,Quantum communication and QKD,0,10,0.0,0.0,0.12607444393019326,0.5075385174049486
+core security,algorithm,ECC / ECDSA,Tooling and implementation,3,10,0.3,1.5763636363636362,0.40826134199694647,1.0
+core security,algorithm,Diffie-Hellman,Algorithm and protocol design,0,5,0.0,0.0,1.0,1.0
+core security,algorithm,Diffie-Hellman,Attacks on quantum systems,0,5,0.0,0.0,1.0,1.0
+core security,algorithm,Diffie-Hellman,Conceptual and knowledge gaps,0,5,0.0,0.0,1.0,1.0
+core security,algorithm,Diffie-Hellman,Cryptographic transition and post-quantum threats,3,5,0.6,4.032558139534883,0.02485063500816551,0.2014209363819731
+core security,algorithm,Diffie-Hellman,"Information sought, no obstacle reported",1,5,0.2,1.0321428571428573,1.0,1.0
+core security,algorithm,Diffie-Hellman,Quantum communication and QKD,0,5,0.0,0.0,0.5883355103098274,1.0
+core security,algorithm,Diffie-Hellman,Tooling and implementation,1,5,0.2,1.050909090909091,1.0,1.0
+core security,algorithm,SHA-2/SHA-3,Algorithm and protocol design,2,11,0.18181818181818182,1.251082251082251,0.6648423244986423,1.0
+core security,algorithm,SHA-2/SHA-3,Attacks on quantum systems,0,11,0.0,0.0,1.0,1.0
+core security,algorithm,SHA-2/SHA-3,Conceptual and knowledge gaps,1,11,0.09090909090909091,0.9730639730639731,1.0,1.0
+core security,algorithm,SHA-2/SHA-3,Cryptographic transition and post-quantum threats,3,11,0.2727272727272727,1.8329809725158561,0.21474348813406302,0.6879921429231873
+core security,algorithm,SHA-2/SHA-3,"Information sought, no obstacle reported",0,11,0.0,0.0,0.13063904760626088,0.5075385174049486
+core security,algorithm,SHA-2/SHA-3,Quantum communication and QKD,0,11,0.0,0.0,0.12860533426745285,0.5075385174049486
+core security,algorithm,SHA-2/SHA-3,Tooling and implementation,5,11,0.45454545454545453,2.3884297520661155,0.05947280804281693,0.3663524975437523
+core security,algorithm,CRYSTALS-Kyber,Algorithm and protocol design,0,12,0.0,0.0,0.22556806105677701,0.6947496280548732
+core security,algorithm,CRYSTALS-Kyber,Attacks on quantum systems,0,12,0.0,0.0,1.0,1.0
+core security,algorithm,CRYSTALS-Kyber,Conceptual and knowledge gaps,1,12,0.08333333333333333,0.8919753086419753,1.0,1.0
+core security,algorithm,CRYSTALS-Kyber,Cryptographic transition and post-quantum threats,2,12,0.16666666666666666,1.12015503875969,0.6950873127008912,1.0
+core security,algorithm,CRYSTALS-Kyber,"Information sought, no obstacle reported",1,12,0.08333333333333333,0.4300595238095238,0.47216701296930497,1.0
+core security,algorithm,CRYSTALS-Kyber,Quantum communication and QKD,0,12,0.0,0.0,0.07607752834975173,0.4184264059236345
+core security,algorithm,CRYSTALS-Kyber,Tooling and implementation,8,12,0.6666666666666666,3.503030303030303,0.00028896806091531014,0.0049445645978841955
+core security,algorithm,CRYSTALS-Dilithium,Algorithm and protocol design,0,9,0.0,0.0,0.3660478282089301,0.9554468736300887
+core security,algorithm,CRYSTALS-Dilithium,Attacks on quantum systems,0,9,0.0,0.0,1.0,1.0
+core security,algorithm,CRYSTALS-Dilithium,Conceptual and knowledge gaps,1,9,0.1111111111111111,1.1893004115226335,0.5917386397831489,1.0
+core security,algorithm,CRYSTALS-Dilithium,Cryptographic transition and post-quantum threats,2,9,0.2222222222222222,1.4935400516795865,0.6269161210625482,1.0
+core security,algorithm,CRYSTALS-Dilithium,"Information sought, no obstacle reported",0,9,0.0,0.0,0.21403533230925048,0.6879921429231873
+core security,algorithm,CRYSTALS-Dilithium,Quantum communication and QKD,0,9,0.0,0.0,0.21260116592884465,0.6879921429231873
+core security,algorithm,CRYSTALS-Dilithium,Tooling and implementation,6,9,0.6666666666666666,3.503030303030303,0.0019588354714405285,0.022866134369162707
+core security,algorithm,NTRU,Algorithm and protocol design,0,7,0.0,0.0,0.5987001059261287,1.0
+core security,algorithm,NTRU,Attacks on quantum systems,0,7,0.0,0.0,1.0,1.0
+core security,algorithm,NTRU,Conceptual and knowledge gaps,0,7,0.0,0.0,1.0,1.0
+core security,algorithm,NTRU,Cryptographic transition and post-quantum threats,5,7,0.7142857142857143,4.8006644518272426,0.0009835794215880829,0.015147123092456477
+core security,algorithm,NTRU,"Information sought, no obstacle reported",0,7,0.0,0.0,0.3525444982978928,0.9524886445241314
+core security,algorithm,NTRU,Quantum communication and QKD,0,7,0.0,0.0,0.3523706049256569,0.9524886445241314
+core security,algorithm,NTRU,Tooling and implementation,2,7,0.2857142857142857,1.5012987012987011,0.6213762128814013,1.0
+core security,algorithm,Classic McEliece,Algorithm and protocol design,0,2,0.0,0.0,1.0,1.0
+core security,algorithm,Classic McEliece,Attacks on quantum systems,0,2,0.0,0.0,1.0,1.0
+core security,algorithm,Classic McEliece,Conceptual and knowledge gaps,0,2,0.0,0.0,1.0,1.0
+core security,algorithm,Classic McEliece,Cryptographic transition and post-quantum threats,0,2,0.0,0.0,1.0,1.0
+core security,algorithm,Classic McEliece,"Information sought, no obstacle reported",0,2,0.0,0.0,1.0,1.0
+core security,algorithm,Classic McEliece,Quantum communication and QKD,0,2,0.0,0.0,1.0,1.0
+core security,algorithm,Classic McEliece,Tooling and implementation,2,2,1.0,5.254545454545455,0.035683391003460206,0.2616782006920415
+core security,algorithm,SPHINCS+,Algorithm and protocol design,0,2,0.0,0.0,1.0,1.0
+core security,algorithm,SPHINCS+,Attacks on quantum systems,0,2,0.0,0.0,1.0,1.0
+core security,algorithm,SPHINCS+,Conceptual and knowledge gaps,0,2,0.0,0.0,1.0,1.0
+core security,algorithm,SPHINCS+,Cryptographic transition and post-quantum threats,0,2,0.0,0.0,1.0,1.0
+core security,algorithm,SPHINCS+,"Information sought, no obstacle reported",0,2,0.0,0.0,1.0,1.0
+core security,algorithm,SPHINCS+,Quantum communication and QKD,0,2,0.0,0.0,1.0,1.0
+core security,algorithm,SPHINCS+,Tooling and implementation,2,2,1.0,5.254545454545455,0.035683391003460206,0.2616782006920415
+core security,algorithm,Rainbow,Algorithm and protocol design,1,2,0.5,3.4404761904761902,0.2699682814302191,0.7844361384953537
+core security,algorithm,Rainbow,Attacks on quantum systems,0,2,0.0,0.0,1.0,1.0
+core security,algorithm,Rainbow,Conceptual and knowledge gaps,0,2,0.0,0.0,1.0,1.0
+core security,algorithm,Rainbow,Cryptographic transition and post-quantum threats,1,2,0.5,3.3604651162790695,0.27587946943483277,0.7867673757956342
+core security,algorithm,Rainbow,"Information sought, no obstacle reported",0,2,0.0,0.0,1.0,1.0
+core security,algorithm,Rainbow,Quantum communication and QKD,0,2,0.0,0.0,1.0,1.0
+core security,algorithm,Rainbow,Tooling and implementation,0,2,0.0,0.0,1.0,1.0
+core security,algorithm,Lattice-based (generic),Algorithm and protocol design,2,12,0.16666666666666666,1.1468253968253967,0.6882967857665592,1.0
+core security,algorithm,Lattice-based (generic),Attacks on quantum systems,0,12,0.0,0.0,1.0,1.0
+core security,algorithm,Lattice-based (generic),Conceptual and knowledge gaps,3,12,0.25,2.675925925925926,0.09047982726453957,0.43543416871059665
+core security,algorithm,Lattice-based (generic),Cryptographic transition and post-quantum threats,2,12,0.16666666666666666,1.12015503875969,0.6950873127008912,1.0
+core security,algorithm,Lattice-based (generic),"Information sought, no obstacle reported",4,12,0.3333333333333333,1.7202380952380951,0.25642105627053,0.773081133290021
+core security,algorithm,Lattice-based (generic),Quantum communication and QKD,0,12,0.0,0.0,0.07607752834975173,0.4184264059236345
+core security,algorithm,Lattice-based (generic),Tooling and implementation,1,12,0.08333333333333333,0.43787878787878787,0.47371616919008086,1.0
+core security,topic,Migration of production systems,Algorithm and protocol design,3,27,0.1111111111111111,0.7645502645502644,0.777878824294769,0.9529015597610919
+core security,topic,Migration of production systems,Attacks on quantum systems,0,27,0.0,0.0,1.0,1.0
+core security,topic,Migration of production systems,Conceptual and knowledge gaps,2,27,0.07407407407407407,0.7928669410150891,1.0,1.0
+core security,topic,Migration of production systems,Cryptographic transition and post-quantum threats,9,27,0.3333333333333333,2.24031007751938,0.010897684508424389,0.04471209521615318
+core security,topic,Migration of production systems,"Information sought, no obstacle reported",2,27,0.07407407407407407,0.38227513227513227,0.1258383398788137,0.25868351428511316
+core security,topic,Migration of production systems,Quantum communication and QKD,0,27,0.0,0.0,0.002104819637521004,0.01289202027981615
+core security,topic,Migration of production systems,Tooling and implementation,11,27,0.4074074074074074,2.1407407407407404,0.005767820826294352,0.03140258005426925
+core security,topic,Post-quantum library engineering,Algorithm and protocol design,1,27,0.037037037037037035,0.2548500881834215,0.14684886633093014,0.2614839345237174
+core security,topic,Post-quantum library engineering,Attacks on quantum systems,0,27,0.0,0.0,1.0,1.0
+core security,topic,Post-quantum library engineering,Conceptual and knowledge gaps,1,27,0.037037037037037035,0.39643347050754457,0.4885134956867632,0.6649211469069832
+core security,topic,Post-quantum library engineering,Cryptographic transition and post-quantum threats,1,27,0.037037037037037035,0.24892334194659774,0.14941939115640993,0.2614839345237174
+core security,topic,Post-quantum library engineering,"Information sought, no obstacle reported",1,27,0.037037037037037035,0.19113756613756613,0.03725045578180412,0.09606696491096853
+core security,topic,Post-quantum library engineering,Quantum communication and QKD,1,27,0.037037037037037035,0.17264038231780165,0.013788156969462582,0.04774193432707256
+core security,topic,Post-quantum library engineering,Tooling and implementation,22,27,0.8148148148148148,4.281481481481481,3.6191134836609035e-17,8.866828034969214e-16
+core security,topic,QKD authentication and key management,Algorithm and protocol design,10,27,0.37037037037037035,2.5485008818342147,0.0013840151760040624,0.009688106232028437
+core security,topic,QKD authentication and key management,Attacks on quantum systems,1,27,0.037037037037037035,2.6759259259259256,0.32597399857295206,0.4951411218679791
+core security,topic,QKD authentication and key management,Conceptual and knowledge gaps,1,27,0.037037037037037035,0.39643347050754457,0.4885134956867632,0.6649211469069832
+core security,topic,QKD authentication and key management,Cryptographic transition and post-quantum threats,1,27,0.037037037037037035,0.24892334194659774,0.14941939115640993,0.2614839345237174
+core security,topic,QKD authentication and key management,"Information sought, no obstacle reported",5,27,0.18518518518518517,0.9556878306878306,1.0,1.0
+core security,topic,QKD authentication and key management,Quantum communication and QKD,7,27,0.25925925925925924,1.2084826762246115,0.7275260760234163,0.9381257296091422
+core security,topic,QKD authentication and key management,Tooling and implementation,2,27,0.07407407407407407,0.3892255892255892,0.1267021294457697,0.25868351428511316
+core security,topic,QKD mechanics and eavesdropping,Algorithm and protocol design,6,53,0.11320754716981132,0.7789757412398922,0.6040362444505593,0.7999398912993894
+core security,topic,QKD mechanics and eavesdropping,Attacks on quantum systems,0,53,0.0,0.0,1.0,1.0
+core security,topic,QKD mechanics and eavesdropping,Conceptual and knowledge gaps,2,53,0.03773584905660377,0.4039133473095737,0.188820115107143,0.31904088414655196
+core security,topic,QKD mechanics and eavesdropping,Cryptographic transition and post-quantum threats,0,53,0.0,0.0,0.00014799777822404117,0.0014503782265956034
+core security,topic,QKD mechanics and eavesdropping,"Information sought, no obstacle reported",5,53,0.09433962264150944,0.4868598382749327,0.06659730881480724,0.1553937205678836
+core security,topic,QKD mechanics and eavesdropping,Quantum communication and QKD,38,53,0.7169811320754716,3.3420572124163113,3.8271155497542528e-22,1.875286619379584e-20
+core security,topic,QKD mechanics and eavesdropping,Tooling and implementation,2,53,0.03773584905660377,0.19828473413379072,0.0008188139199026086,0.006686980345871303
+core security,topic,Quantum threat to deployed cryptography,Algorithm and protocol design,4,74,0.05405405405405406,0.37194337194337196,0.00762114661097829,0.03734361839379362
+core security,topic,Quantum threat to deployed cryptography,Attacks on quantum systems,2,74,0.02702702702702703,1.9527027027027029,0.2712857057422,0.4288064381086387
+core security,topic,Quantum threat to deployed cryptography,Conceptual and knowledge gaps,12,74,0.16216216216216217,1.7357357357357357,0.03366747582431846,0.09165035085508914
+core security,topic,Quantum threat to deployed cryptography,Cryptographic transition and post-quantum threats,27,74,0.36486486486486486,2.4522313010685104,4.4612202355274024e-09,5.4649947885210684e-08
+core security,topic,Quantum threat to deployed cryptography,"Information sought, no obstacle reported",22,74,0.2972972972972973,1.5342664092664093,0.014614877855226294,0.04774193432707256
+core security,topic,Quantum threat to deployed cryptography,Quantum communication and QKD,0,74,0.0,0.0,1.1538223037182304e-09,1.884576429406443e-08
+core security,topic,Quantum threat to deployed cryptography,Tooling and implementation,7,74,0.0945945945945946,0.49705159705159707,0.023808081217488383,0.07291224872855818
+core security,topic,Reconciliation and encoding for QKD,Algorithm and protocol design,2,17,0.11764705882352941,0.8095238095238094,1.0,1.0
+core security,topic,Reconciliation and encoding for QKD,Attacks on quantum systems,0,17,0.0,0.0,1.0,1.0
+core security,topic,Reconciliation and encoding for QKD,Conceptual and knowledge gaps,4,17,0.23529411764705882,2.5185185185185186,0.0617085524445875,0.15118595348923936
+core security,topic,Reconciliation and encoding for QKD,Cryptographic transition and post-quantum threats,1,17,0.058823529411764705,0.3953488372093023,0.48326393802598666,0.6649211469069832
+core security,topic,Reconciliation and encoding for QKD,"Information sought, no obstacle reported",1,17,0.058823529411764705,0.30357142857142855,0.20998396735843644,0.34297381335211286
+core security,topic,Reconciliation and encoding for QKD,Quantum communication and QKD,7,17,0.4117647058823529,1.9193548387096773,0.08230101282398092,0.1833068012897757
+core security,topic,Reconciliation and encoding for QKD,Tooling and implementation,2,17,0.11764705882352941,0.6181818181818182,0.7491344797365754,0.9412202437715947
+core security,topic,Security proofs and protocol analysis,Algorithm and protocol design,16,64,0.25,1.7202380952380951,0.012710130976099868,0.04774193432707256
+core security,topic,Security proofs and protocol analysis,Attacks on quantum systems,1,64,0.015625,1.12890625,1.0,1.0
+core security,topic,Security proofs and protocol analysis,Conceptual and knowledge gaps,5,64,0.078125,0.8362268518518519,0.8155408955285155,0.9746708263633478
+core security,topic,Security proofs and protocol analysis,Cryptographic transition and post-quantum threats,4,64,0.0625,0.4200581395348837,0.028399216656452723,0.08185656565683432
+core security,topic,Security proofs and protocol analysis,"Information sought, no obstacle reported",20,64,0.3125,1.6127232142857142,0.010949900869262003,0.04471209521615318
+core security,topic,Security proofs and protocol analysis,Quantum communication and QKD,9,64,0.140625,0.6554939516129031,0.14433173254391599,0.2614839345237174
+core security,topic,Security proofs and protocol analysis,Tooling and implementation,9,64,0.140625,0.7389204545454545,0.33346238819680224,0.4951411218679791
+integrity,tool,Qiskit,Code construction and properties,10,326,0.03067484662576687,0.1622669411082912,5.992710937727022e-16,1.078687968790864e-14
+integrity,tool,Qiskit,Conceptual foundations,8,326,0.024539877300613498,0.2587841606246514,2.1428437885529224e-06,1.186805790583157e-05
+integrity,tool,Qiskit,"Decoding, thresholds and logical error rates",4,326,0.012269938650306749,0.17951694025313658,4.4890714811934106e-07,2.6934428887160466e-06
+integrity,tool,Qiskit,Fault-tolerant logical operations,5,326,0.015337423312883436,0.1102122807970031,9.627276482698039e-13,1.1552731779237647e-11
+integrity,tool,Qiskit,Hardware noise: characterisation and mitigation,68,326,0.2085889570552147,2.028433929686639,4.212407349414141e-12,3.791166614472727e-11
+integrity,tool,Qiskit,No difficulty reported,9,326,0.027607361963190184,0.9149868536371604,0.9030898595167081,1.0
+integrity,tool,Qiskit,Noise channels and their mathematics,9,326,0.027607361963190184,0.21977625405990614,4.1271766498870265e-09,2.971567187918659e-08
+integrity,tool,Qiskit,Simulators and QEC software,213,326,0.6533742331288344,2.6134969325153374,2.247185446503766e-78,1.6179735214827118e-76
+integrity,tool,Stim,Code construction and properties,11,232,0.04741379310344827,0.250814332247557,4.618939488375648e-09,3.023305846936787e-08
+integrity,tool,Stim,Conceptual foundations,1,232,0.004310344827586207,0.045454545454545456,6.742705193441653e-10,5.394164154753323e-09
+integrity,tool,Stim,"Decoding, thresholds and logical error rates",49,232,0.21120689655172414,3.09009009009009,4.590216474669458e-20,1.1016519539206699e-18
+integrity,tool,Stim,Fault-tolerant logical operations,9,232,0.03879310344827586,0.27876106194690264,3.03519389623496e-06,1.5609568609208365e-05
+integrity,tool,Stim,Hardware noise: characterisation and mitigation,0,232,0.0,0.0,2.4768167803168287e-12,2.5475829740401665e-11
+integrity,tool,Stim,No difficulty reported,2,232,0.008620689655172414,0.2857142857142857,0.03675903998295727,0.1117185742279117
+integrity,tool,Stim,Noise channels and their mathematics,1,232,0.004310344827586207,0.034313725490196074,1.4859653732152065e-13,2.1397901374298974e-12
+integrity,tool,Stim,Simulators and QEC software,159,232,0.6853448275862069,2.7413793103448274,7.26757814005472e-61,2.6163281304196996e-59
+integrity,tool,Cirq,Code construction and properties,0,25,0.0,0.0,0.00836021474254119,0.031680813761208716
+integrity,tool,Cirq,Conceptual foundations,1,25,0.04,0.42181818181818187,0.5046515259757287,1.0
+integrity,tool,Cirq,"Decoding, thresholds and logical error rates",0,25,0.0,0.0,0.40944133155619966,0.893326541577163
+integrity,tool,Cirq,Fault-tolerant logical operations,2,25,0.08,0.5748672566371682,0.5635855810792748,1.0
+integrity,tool,Cirq,Hardware noise: characterisation and mitigation,5,25,0.2,1.9449101796407187,0.20048171204034246,0.5155244023894521
+integrity,tool,Cirq,No difficulty reported,3,25,0.12,3.977142857142857,0.03723952474263723,0.1117185742279117
+integrity,tool,Cirq,Noise channels and their mathematics,0,25,0.0,0.0,0.06327354790585327,0.18222781796885743
+integrity,tool,Cirq,Simulators and QEC software,14,25,0.56,2.24,0.0007389416397056743,0.0031296351799299147
+integrity,tool,PennyLane,Code construction and properties,0,14,0.0,0.0,0.08598200639590431,0.238104017711735
+integrity,tool,PennyLane,Conceptual foundations,0,14,0.0,0.0,0.3866411472854725,0.8699425813923132
+integrity,tool,PennyLane,"Decoding, thresholds and logical error rates",0,14,0.0,0.0,0.6170829329709491,1.0
+integrity,tool,PennyLane,Fault-tolerant logical operations,2,14,0.14285714285714285,1.0265486725663717,1.0,1.0
+integrity,tool,PennyLane,Hardware noise: characterisation and mitigation,0,14,0.0,0.0,0.38493299228021344,0.8699425813923132
+integrity,tool,PennyLane,No difficulty reported,4,14,0.2857142857142857,9.46938775510204,0.0005869369489168007,0.0026412162701256034
+integrity,tool,PennyLane,Noise channels and their mathematics,0,14,0.0,0.0,0.23918865831392389,0.5740527799534173
+integrity,tool,PennyLane,Simulators and QEC software,8,14,0.5714285714285714,2.2857142857142856,0.013154293226501863,0.0473554556154067
+integrity,tool,QuTiP,Code construction and properties,1,8,0.125,0.6612377850162866,1.0,1.0
+integrity,tool,QuTiP,Conceptual foundations,0,8,0.0,0.0,1.0,1.0
+integrity,tool,QuTiP,"Decoding, thresholds and logical error rates",0,8,0.0,0.0,1.0,1.0
+integrity,tool,QuTiP,Fault-tolerant logical operations,0,8,0.0,0.0,0.6091357543740836,1.0
+integrity,tool,QuTiP,Hardware noise: characterisation and mitigation,1,8,0.125,1.215568862275449,0.5810837936238714,1.0
+integrity,tool,QuTiP,No difficulty reported,1,8,0.125,4.142857142857142,0.21779141183509032,0.5407235052457414
+integrity,tool,QuTiP,Noise channels and their mathematics,0,8,0.0,0.0,0.6063436438968801,1.0
+integrity,tool,QuTiP,Simulators and QEC software,5,8,0.625,2.5,0.02697833445611492,0.08829273094728518
+integrity,tool,PyQuil,Code construction and properties,0,3,0.0,0.0,1.0,1.0
+integrity,tool,PyQuil,Conceptual foundations,0,3,0.0,0.0,1.0,1.0
+integrity,tool,PyQuil,"Decoding, thresholds and logical error rates",0,3,0.0,0.0,1.0,1.0
+integrity,tool,PyQuil,Fault-tolerant logical operations,0,3,0.0,0.0,1.0,1.0
+integrity,tool,PyQuil,Hardware noise: characterisation and mitigation,0,3,0.0,0.0,1.0,1.0
+integrity,tool,PyQuil,No difficulty reported,0,3,0.0,0.0,1.0,1.0
+integrity,tool,PyQuil,Noise channels and their mathematics,0,3,0.0,0.0,1.0,1.0
+integrity,tool,PyQuil,Simulators and QEC software,3,3,1.0,4.0,0.015538426123245304,0.053274603851126756
+integrity,tool,SimulaQron,Code construction and properties,0,1,0.0,0.0,1.0,1.0
+integrity,tool,SimulaQron,Conceptual foundations,0,1,0.0,0.0,1.0,1.0
+integrity,tool,SimulaQron,"Decoding, thresholds and logical error rates",0,1,0.0,0.0,1.0,1.0
+integrity,tool,SimulaQron,Fault-tolerant logical operations,0,1,0.0,0.0,1.0,1.0
+integrity,tool,SimulaQron,Hardware noise: characterisation and mitigation,0,1,0.0,0.0,1.0,1.0
+integrity,tool,SimulaQron,No difficulty reported,0,1,0.0,0.0,1.0,1.0
+integrity,tool,SimulaQron,Noise channels and their mathematics,1,1,1.0,7.9607843137254894,0.12561576354679801,0.33497536945812806
+integrity,tool,SimulaQron,Simulators and QEC software,0,1,0.0,0.0,1.0,1.0
+integrity,tool,Braket,Code construction and properties,0,5,0.0,0.0,0.5905341016901942,1.0
+integrity,tool,Braket,Conceptual foundations,0,5,0.0,0.0,1.0,1.0
+integrity,tool,Braket,"Decoding, thresholds and logical error rates",0,5,0.0,0.0,1.0,1.0
+integrity,tool,Braket,Fault-tolerant logical operations,0,5,0.0,0.0,1.0,1.0
+integrity,tool,Braket,Hardware noise: characterisation and mitigation,0,5,0.0,0.0,1.0,1.0
+integrity,tool,Braket,No difficulty reported,3,5,0.6,19.885714285714283,0.000247686858766478,0.0011888969220790943
+integrity,tool,Braket,Noise channels and their mathematics,0,5,0.0,0.0,1.0,1.0
+integrity,tool,Braket,Simulators and QEC software,2,5,0.4,1.6,0.6040044247018952,1.0
+integrity,tool,OpenQASM,Code construction and properties,0,4,0.0,0.0,1.0,1.0
+integrity,tool,OpenQASM,Conceptual foundations,0,4,0.0,0.0,1.0,1.0
+integrity,tool,OpenQASM,"Decoding, thresholds and logical error rates",0,4,0.0,0.0,1.0,1.0
+integrity,tool,OpenQASM,Fault-tolerant logical operations,0,4,0.0,0.0,1.0,1.0
+integrity,tool,OpenQASM,Hardware noise: characterisation and mitigation,0,4,0.0,0.0,1.0,1.0
+integrity,tool,OpenQASM,No difficulty reported,0,4,0.0,0.0,1.0,1.0
+integrity,tool,OpenQASM,Noise channels and their mathematics,0,4,0.0,0.0,1.0,1.0
+integrity,tool,OpenQASM,Simulators and QEC software,4,4,1.0,4.0,0.003863038696895655,0.01545215478758262
+integrity,algorithm,Shor's algorithm,Code construction and properties,40,94,0.425531914893617,2.2510222468639545,3.688983722665196e-09,8.85356093439647e-08
+integrity,algorithm,Shor's algorithm,Conceptual foundations,16,94,0.1702127659574468,1.7949709864603483,0.016901996755357855,0.06338248783259195
+integrity,algorithm,Shor's algorithm,"Decoding, thresholds and logical error rates",9,94,0.09574468085106383,1.4008050603795286,0.38220495843828917,0.6909786816741541
+integrity,algorithm,Shor's algorithm,Fault-tolerant logical operations,11,94,0.11702127659574468,0.8408962530596875,0.6273364979884665,0.9293874044273577
+integrity,algorithm,Shor's algorithm,Hardware noise: characterisation and mitigation,2,94,0.02127659574468085,0.2069053382596509,0.004343487257347487,0.020848738835267937
+integrity,algorithm,Shor's algorithm,No difficulty reported,2,94,0.02127659574468085,0.7051671732522796,1.0,1.0
+integrity,algorithm,Shor's algorithm,Noise channels and their mathematics,9,94,0.09574468085106383,0.7622027534418022,0.45930828943927315,0.7550273251056545
+integrity,algorithm,Shor's algorithm,Simulators and QEC software,5,94,0.05319148936170213,0.2127659574468085,9.994925864611817e-06,9.994925864611816e-05
+integrity,algorithm,Grover's algorithm,Code construction and properties,0,19,0.0,0.0,0.034434514034051136,0.1180611909738896
+integrity,algorithm,Grover's algorithm,Conceptual foundations,9,19,0.47368421052631576,4.9952153110047846,1.319996817914311e-07,1.979995226871467e-06
+integrity,algorithm,Grover's algorithm,"Decoding, thresholds and logical error rates",0,19,0.0,0.0,0.6353644515397971,0.9298016363997031
+integrity,algorithm,Grover's algorithm,Fault-tolerant logical operations,0,19,0.0,0.0,0.09514099046512883,0.2429131671450098
+integrity,algorithm,Grover's algorithm,Hardware noise: characterisation and mitigation,3,19,0.15789473684210525,1.5354554049795146,0.4352971408652773,0.7357134775187786
+integrity,algorithm,Grover's algorithm,No difficulty reported,1,19,0.05263157894736842,1.744360902255639,0.44311903442541,0.73853172404235
+integrity,algorithm,Grover's algorithm,Noise channels and their mathematics,1,19,0.05263157894736842,0.4189886480908152,0.4976769550908155,0.8070437109580791
+integrity,algorithm,Grover's algorithm,Simulators and QEC software,5,19,0.2631578947368421,1.0526315789473684,1.0,1.0
+integrity,algorithm,E91,Code construction and properties,0,1,0.0,0.0,1.0,1.0
+integrity,algorithm,E91,Conceptual foundations,0,1,0.0,0.0,1.0,1.0
+integrity,algorithm,E91,"Decoding, thresholds and logical error rates",0,1,0.0,0.0,1.0,1.0
+integrity,algorithm,E91,Fault-tolerant logical operations,0,1,0.0,0.0,1.0,1.0
+integrity,algorithm,E91,Hardware noise: characterisation and mitigation,0,1,0.0,0.0,1.0,1.0
+integrity,algorithm,E91,No difficulty reported,0,1,0.0,0.0,1.0,1.0
+integrity,algorithm,E91,Noise channels and their mathematics,1,1,1.0,7.9607843137254894,0.12561576354679801,0.3047138132360731
+integrity,algorithm,E91,Simulators and QEC software,0,1,0.0,0.0,1.0,1.0
+integrity,algorithm,Quantum teleportation,Code construction and properties,0,32,0.0,0.0,0.0021168035683325507,0.01209602039047172
+integrity,algorithm,Quantum teleportation,Conceptual foundations,8,32,0.25,2.6363636363636367,0.006501482634949926,0.028745783178650057
+integrity,algorithm,Quantum teleportation,"Decoding, thresholds and logical error rates",0,32,0.0,0.0,0.16374696480372575,0.3778776110855209
+integrity,algorithm,Quantum teleportation,Fault-tolerant logical operations,17,32,0.53125,3.817477876106195,5.153457632837947e-10,1.546037289851384e-08
+integrity,algorithm,Quantum teleportation,Hardware noise: characterisation and mitigation,0,32,0.0,0.0,0.06921367084599109,0.1931544302678821
+integrity,algorithm,Quantum teleportation,No difficulty reported,0,32,0.0,0.0,0.6226518797637095,0.9293874044273577
+integrity,algorithm,Quantum teleportation,Noise channels and their mathematics,4,32,0.125,0.9950980392156862,1.0,1.0
+integrity,algorithm,Quantum teleportation,Simulators and QEC software,3,32,0.09375,0.375,0.03909767220606261,0.12987024555385807
+integrity,algorithm,QFT,Code construction and properties,0,10,0.0,0.0,0.2239521255901954,0.4714781591372535
+integrity,algorithm,QFT,Conceptual foundations,3,10,0.3,3.1636363636363636,0.06099709991692463,0.18461613213572925
+integrity,algorithm,QFT,"Decoding, thresholds and logical error rates",0,10,0.0,0.0,1.0,1.0
+integrity,algorithm,QFT,Fault-tolerant logical operations,1,10,0.1,0.7185840707964603,1.0,1.0
+integrity,algorithm,QFT,Hardware noise: characterisation and mitigation,3,10,0.3,2.9173652694610777,0.07456025725416457,0.20051158469352315
+integrity,algorithm,QFT,No difficulty reported,2,10,0.2,6.628571428571429,0.03439211471298088,0.1180611909738896
+integrity,algorithm,QFT,Noise channels and their mathematics,1,10,0.1,0.796078431372549,1.0,1.0
+integrity,algorithm,QFT,Simulators and QEC software,0,10,0.0,0.0,0.07519184426007118,0.20051158469352315
+integrity,algorithm,QPE,Code construction and properties,0,9,0.0,0.0,0.22222697845376116,0.4714781591372535
+integrity,algorithm,QPE,Conceptual foundations,4,9,0.4444444444444444,4.686868686868687,0.00670734940835168,0.028745783178650057
+integrity,algorithm,QPE,"Decoding, thresholds and logical error rates",0,9,0.0,0.0,1.0,1.0
+integrity,algorithm,QPE,Fault-tolerant logical operations,0,9,0.0,0.0,0.6215014316993466,0.9293874044273577
+integrity,algorithm,QPE,Hardware noise: characterisation and mitigation,1,9,0.1111111111111111,1.0805056553559547,1.0,1.0
+integrity,algorithm,QPE,No difficulty reported,1,9,0.1111111111111111,3.6825396825396823,0.24150937026335811,0.4996745591655685
+integrity,algorithm,QPE,Noise channels and their mathematics,0,9,0.0,0.0,0.6127685735950359,0.9293874044273577
+integrity,algorithm,QPE,Simulators and QEC software,3,9,0.3333333333333333,1.3333333333333333,0.6989190913683414,0.9984558448119164
+integrity,algorithm,HHL,Code construction and properties,0,4,0.0,0.0,1.0,1.0
+integrity,algorithm,HHL,Conceptual foundations,1,4,0.25,2.6363636363636367,0.328946894537704,0.6366714087826528
+integrity,algorithm,HHL,"Decoding, thresholds and logical error rates",0,4,0.0,0.0,1.0,1.0
+integrity,algorithm,HHL,Fault-tolerant logical operations,0,4,0.0,0.0,1.0,1.0
+integrity,algorithm,HHL,Hardware noise: characterisation and mitigation,0,4,0.0,0.0,1.0,1.0
+integrity,algorithm,HHL,No difficulty reported,1,4,0.25,8.285714285714285,0.115438280072908,0.28859570018227
+integrity,algorithm,HHL,Noise channels and their mathematics,0,4,0.0,0.0,1.0,1.0
+integrity,algorithm,HHL,Simulators and QEC software,2,4,0.5,2.0,0.26158854629141587,0.5146004189339329
+integrity,algorithm,VQE,Code construction and properties,0,26,0.0,0.0,0.008847803918499571,0.036282384340143706
+integrity,algorithm,VQE,Conceptual foundations,10,26,0.38461538461538464,4.055944055944057,2.0647953095544173e-06,2.7530604127392232e-05
+integrity,algorithm,VQE,"Decoding, thresholds and logical error rates",0,26,0.0,0.0,0.25279488867645705,0.5055897773529141
+integrity,algorithm,VQE,Fault-tolerant logical operations,0,26,0.0,0.0,0.04004332571243957,0.12987024555385807
+integrity,algorithm,VQE,Hardware noise: characterisation and mitigation,3,26,0.11538461538461539,1.1220635651773376,0.7446376039925667,1.0
+integrity,algorithm,VQE,No difficulty reported,0,26,0.0,0.0,1.0,1.0
+integrity,algorithm,VQE,Noise channels and their mathematics,0,26,0.0,0.0,0.06560233925992207,0.18743525502834876
+integrity,algorithm,VQE,Simulators and QEC software,13,26,0.5,2.0,0.006153594953759894,0.028401207478891816
+integrity,algorithm,QAOA,Code construction and properties,0,12,0.0,0.0,0.13833431679365638,0.3254925101027209
+integrity,algorithm,QAOA,Conceptual foundations,5,12,0.4166666666666667,4.3939393939393945,0.000884140773940203,0.005584046993306545
+integrity,algorithm,QAOA,"Decoding, thresholds and logical error rates",0,12,0.0,0.0,1.0,1.0
+integrity,algorithm,QAOA,Fault-tolerant logical operations,0,12,0.0,0.0,0.39155458628202067,0.6909786816741541
+integrity,algorithm,QAOA,Hardware noise: characterisation and mitigation,1,12,0.08333333333333333,0.810379241516966,1.0,1.0
+integrity,algorithm,QAOA,No difficulty reported,0,12,0.0,0.0,1.0,1.0
+integrity,algorithm,QAOA,Noise channels and their mathematics,0,12,0.0,0.0,0.38186985875747437,0.6909786816741541
+integrity,algorithm,QAOA,Simulators and QEC software,6,12,0.5,2.0,0.09435512794640152,0.2429131671450098
+integrity,algorithm,RSA,Code construction and properties,0,7,0.0,0.0,0.35924796096837575,0.6761538891453814
+integrity,algorithm,RSA,Conceptual foundations,0,7,0.0,0.0,1.0,1.0
+integrity,algorithm,RSA,"Decoding, thresholds and logical error rates",0,7,0.0,0.0,1.0,1.0
+integrity,algorithm,RSA,Fault-tolerant logical operations,4,7,0.5714285714285714,4.106194690265487,0.009070596085035926,0.036282384340143706
+integrity,algorithm,RSA,Hardware noise: characterisation and mitigation,1,7,0.14285714285714285,1.3892215568862274,0.5328362029584827,0.8525379247335723
+integrity,algorithm,RSA,No difficulty reported,1,7,0.14285714285714285,4.73469387755102,0.19334739345493693,0.42390347725191485
+integrity,algorithm,RSA,Noise channels and their mathematics,0,7,0.0,0.0,0.6061000446666183,0.9293874044273577
+integrity,algorithm,RSA,Simulators and QEC software,1,7,0.14285714285714285,0.5714285714285714,0.6878322978105942,0.9944563341839916
+integrity,algorithm,SHA-2/SHA-3,Code construction and properties,0,1,0.0,0.0,1.0,1.0
+integrity,algorithm,SHA-2/SHA-3,Conceptual foundations,0,1,0.0,0.0,1.0,1.0
+integrity,algorithm,SHA-2/SHA-3,"Decoding, thresholds and logical error rates",0,1,0.0,0.0,1.0,1.0
+integrity,algorithm,SHA-2/SHA-3,Fault-tolerant logical operations,0,1,0.0,0.0,1.0,1.0
+integrity,algorithm,SHA-2/SHA-3,Hardware noise: characterisation and mitigation,0,1,0.0,0.0,1.0,1.0
+integrity,algorithm,SHA-2/SHA-3,No difficulty reported,0,1,0.0,0.0,1.0,1.0
+integrity,algorithm,SHA-2/SHA-3,Noise channels and their mathematics,0,1,0.0,0.0,1.0,1.0
+integrity,algorithm,SHA-2/SHA-3,Simulators and QEC software,1,1,1.0,4.0,0.25,0.5055897773529141
+integrity,algorithm,Surface code,Code construction and properties,53,206,0.25728155339805825,1.360994275955852,0.009826200966909178,0.03803690696868069
+integrity,algorithm,Surface code,Conceptual foundations,5,206,0.024271844660194174,0.2559576345984113,0.00035456326781453234,0.002363755118763549
+integrity,algorithm,Surface code,"Decoding, thresholds and logical error rates",37,206,0.1796116504854369,2.627831715210356,3.481411284578629e-11,2.0888467707471775e-09
+integrity,algorithm,Surface code,Fault-tolerant logical operations,55,206,0.2669902912621359,1.918549703582782,2.6213347669704958e-08,4.4937167433779927e-07
+integrity,algorithm,Surface code,Hardware noise: characterisation and mitigation,2,206,0.009708737864077669,0.09441311551653973,2.5204958699653178e-08,4.4937167433779927e-07
+integrity,algorithm,Surface code,No difficulty reported,3,206,0.014563106796116505,0.4826629680998613,0.19428909374046097,0.42390347725191485
+integrity,algorithm,Surface code,Noise channels and their mathematics,5,206,0.024271844660194174,0.19322292023605556,4.5523343937929645e-06,4.966182975046871e-05
+integrity,algorithm,Surface code,Simulators and QEC software,46,206,0.22330097087378642,0.8932038834951457,0.3892516877366531,0.6909786816741541
+integrity,algorithm,Steane code,Code construction and properties,29,83,0.3493975903614458,1.8482791099250422,0.00022734198905860093,0.0016047669815901244
+integrity,algorithm,Steane code,Conceptual foundations,1,83,0.012048192771084338,0.12705366922234393,0.0034307071560761675,0.017899341683875657
+integrity,algorithm,Steane code,"Decoding, thresholds and logical error rates",8,83,0.0963855421686747,1.4101812656029524,0.4146085815574997,0.7122177880252141
+integrity,algorithm,Steane code,Fault-tolerant logical operations,32,83,0.3855421686746988,2.770444610299606,8.316641764724984e-11,3.3266567058899937e-09
+integrity,algorithm,Steane code,Hardware noise: characterisation and mitigation,1,83,0.012048192771084338,0.11716326383377823,0.00232233893068626,0.012667303258288692
+integrity,algorithm,Steane code,No difficulty reported,0,83,0.0,0.0,0.1744341722096319,0.3949452955689779
+integrity,algorithm,Steane code,Noise channels and their mathematics,0,83,0.0,0.0,2.1152966138093105e-05,0.00018131113832651233
+integrity,algorithm,Steane code,Simulators and QEC software,12,83,0.14457831325301204,0.5783132530120482,0.03180354905246893,0.1156492692817052
+integrity,algorithm,Shor code,Code construction and properties,15,29,0.5172413793103449,2.7361563517915313,1.5917150622090392e-05,0.0001469275442039113
+integrity,algorithm,Shor code,Conceptual foundations,2,29,0.06896551724137931,0.7272727272727273,1.0,1.0
+integrity,algorithm,Shor code,"Decoding, thresholds and logical error rates",5,29,0.1724137931034483,2.5225225225225225,0.06153871071190974,0.18461613213572925
+integrity,algorithm,Shor code,Fault-tolerant logical operations,2,29,0.06896551724137931,0.49557522123893805,0.41546037634804156,0.7122177880252141
+integrity,algorithm,Shor code,Hardware noise: characterisation and mitigation,0,29,0.0,0.0,0.06543742503846699,0.18743525502834876
+integrity,algorithm,Shor code,No difficulty reported,1,29,0.034482758620689655,1.1428571428571428,0.5919410201868616,0.9293874044273577
+integrity,algorithm,Shor code,Noise channels and their mathematics,3,29,0.10344827586206896,0.8235294117647057,1.0,1.0
+integrity,algorithm,Shor code,Simulators and QEC software,1,29,0.034482758620689655,0.13793103448275862,0.004005948007218235,0.020029740036091176
+integrity,algorithm,Stabilizer codes,Code construction and properties,47,95,0.49473684210526314,2.6171095491170924,1.2811083889476865e-14,1.537330066737224e-12
+integrity,algorithm,Stabilizer codes,Conceptual foundations,1,95,0.010526315789473684,0.11100478468899522,0.0016136754933267655,0.009682052959960594
+integrity,algorithm,Stabilizer codes,"Decoding, thresholds and logical error rates",2,95,0.021052631578947368,0.3080132764343291,0.05914793243448203,0.18461613213572925
+integrity,algorithm,Stabilizer codes,Fault-tolerant logical operations,27,95,0.28421052631578947,2.0422915696320447,4.973838202864703e-05,0.0003730378652148527
+integrity,algorithm,Stabilizer codes,Hardware noise: characterisation and mitigation,0,95,0.0,0.0,3.642515905674679e-05,0.0002914012724539743
+integrity,algorithm,Stabilizer codes,No difficulty reported,1,95,0.010526315789473684,0.3488721804511278,0.3606154075442034,0.6761538891453814
+integrity,algorithm,Stabilizer codes,Noise channels and their mathematics,0,95,0.0,0.0,3.3041751743861653e-06,3.9650102092633983e-05
+integrity,algorithm,Stabilizer codes,Simulators and QEC software,17,95,0.17894736842105263,0.7157894736842105,0.1269640888483638,0.3047138132360731
+integrity,topic,"Channels, fidelity and density matrices",Code construction and properties,13,199,0.06532663316582915,0.34557150573715484,3.136877946754439e-06,7.984780228102209e-06
+integrity,topic,"Channels, fidelity and density matrices",Conceptual foundations,11,199,0.05527638190954774,0.5829145728643217,0.056928902229204534,0.0838952243377751
+integrity,topic,"Channels, fidelity and density matrices","Decoding, thresholds and logical error rates",1,199,0.005025125628140704,0.07352075693784237,7.922637250100798e-06,1.848615358356853e-05
+integrity,topic,"Channels, fidelity and density matrices",Fault-tolerant logical operations,8,199,0.04020100502512563,0.28887801841063726,2.710620798945029e-05,5.838260182343139e-05
+integrity,topic,"Channels, fidelity and density matrices",Hardware noise: characterisation and mitigation,16,199,0.08040201005025126,0.7818734390515452,0.3233781573490307,0.3695750369703208
+integrity,topic,"Channels, fidelity and density matrices",No difficulty reported,2,199,0.010050251256281407,0.3330940416367552,0.07872013362184405,0.10752018250788456
+integrity,topic,"Channels, fidelity and density matrices",Noise channels and their mathematics,123,199,0.6180904522613065,4.920484776825303,8.271335146431191e-110,4.6319476820014676e-108
+integrity,topic,"Channels, fidelity and density matrices",Simulators and QEC software,25,199,0.12562814070351758,0.5025125628140703,2.2542966160608243e-05,5.049624419976246e-05
+integrity,topic,Decoherence and the path to fault tolerance,Code construction and properties,16,226,0.07079646017699115,0.374506356115419,1.5736807330005584e-06,4.196481954668156e-06
+integrity,topic,Decoherence and the path to fault tolerance,Conceptual foundations,71,226,0.3141592920353982,3.3129525341914725,3.238017501648607e-33,3.6265796018464397e-32
+integrity,topic,Decoherence and the path to fault tolerance,"Decoding, thresholds and logical error rates",6,226,0.02654867256637168,0.38842382205214065,0.011023065443502535,0.01929036452612944
+integrity,topic,Decoherence and the path to fault tolerance,Fault-tolerant logical operations,13,226,0.05752212389380531,0.4133448194846895,0.0002005589520912976,0.0003872862523142298
+integrity,topic,Decoherence and the path to fault tolerance,Hardware noise: characterisation and mitigation,51,226,0.22566371681415928,2.194478300037094,1.2397819547365824e-10,5.340599189634508e-10
+integrity,topic,Decoherence and the path to fault tolerance,No difficulty reported,22,226,0.09734513274336283,3.2262958280657394,7.601275606370156e-10,3.0405102425480626e-09
+integrity,topic,Decoherence and the path to fault tolerance,Noise channels and their mathematics,23,226,0.10176991150442478,0.8101683151136561,0.2902100624590126,0.3385784062021814
+integrity,topic,Decoherence and the path to fault tolerance,Simulators and QEC software,24,226,0.10619469026548672,0.4247787610619469,1.1690139523958322e-07,4.091548833385413e-07
+integrity,topic,Fault-tolerant gate construction,Code construction and properties,29,370,0.07837837837837838,0.4146139624966987,9.88744715287182e-10,3.691313603738813e-09
+integrity,topic,Fault-tolerant gate construction,Conceptual foundations,40,370,0.10810810810810811,1.1400491400491402,0.37276996083606795,0.4175023561363961
+integrity,topic,Fault-tolerant gate construction,"Decoding, thresholds and logical error rates",19,370,0.051351351351351354,0.7513026540053568,0.17467913114890915,0.2126528553117155
+integrity,topic,Fault-tolerant gate construction,Fault-tolerant logical operations,111,370,0.3,2.1557522123893804,6.330506160878083e-24,5.908472416819545e-23
+integrity,topic,Fault-tolerant gate construction,Hardware noise: characterisation and mitigation,43,370,0.11621621621621622,1.1301505097912283,0.3858604408811216,0.42368989586946687
+integrity,topic,Fault-tolerant gate construction,No difficulty reported,6,370,0.016216216216216217,0.5374517374517375,0.10674773827012869,0.13902031030528386
+integrity,topic,Fault-tolerant gate construction,Noise channels and their mathematics,18,370,0.04864864864864865,0.3872813990461049,5.901581425832889e-07,1.8360475547035653e-06
+integrity,topic,Fault-tolerant gate construction,Simulators and QEC software,104,370,0.2810810810810811,1.1243243243243244,0.13286006094745426,0.1690946230240327
+integrity,topic,Noise modelling in Qiskit,Code construction and properties,1,192,0.005208333333333333,0.02755157437567861,1.3094122218303118e-17,1.0475297774642494e-16
+integrity,topic,Noise modelling in Qiskit,Conceptual foundations,4,192,0.020833333333333332,0.2196969696969697,3.382266463802133e-05,7.015071184182202e-05
+integrity,topic,Noise modelling in Qiskit,"Decoding, thresholds and logical error rates",0,192,0.0,0.0,8.661964861998553e-07,2.553000169852205e-06
+integrity,topic,Noise modelling in Qiskit,Fault-tolerant logical operations,0,192,0.0,0.0,7.096173543129386e-14,4.4153968712805067e-13
+integrity,topic,Noise modelling in Qiskit,Hardware noise: characterisation and mitigation,36,192,0.1875,1.8233532934131738,6.698397988837121e-05,0.00013396795977674243
+integrity,topic,Noise modelling in Qiskit,No difficulty reported,9,192,0.046875,1.5535714285714286,0.22392447000165716,0.2668036238317617
+integrity,topic,Noise modelling in Qiskit,Noise channels and their mathematics,1,192,0.005208333333333333,0.041462418300653586,6.550964937409821e-11,3.05711697079125e-10
+integrity,topic,Noise modelling in Qiskit,Simulators and QEC software,141,192,0.734375,2.9375,1.429102671975276e-60,2.6676583210205154e-59
+integrity,topic,Stabilizer formalism and logical operators,Code construction and properties,176,321,0.5482866043613707,2.9003825585761107,1.3643985348878361e-74,3.820315897685941e-73
+integrity,topic,Stabilizer formalism and logical operators,Conceptual foundations,17,321,0.0529595015576324,0.5584820164259416,0.005922156576415229,0.010698089299330736
+integrity,topic,Stabilizer formalism and logical operators,"Decoding, thresholds and logical error rates",8,321,0.024922118380062305,0.3646263085515422,0.000904044072642882,0.0016875489356000463
+integrity,topic,Stabilizer formalism and logical operators,Fault-tolerant logical operations,55,321,0.17133956386292834,1.2312188128911312,0.07681235759085893,0.10752018250788456
+integrity,topic,Stabilizer formalism and logical operators,Hardware noise: characterisation and mitigation,1,321,0.003115264797507788,0.030294551084746393,7.210352278950492e-16,5.047246595265344e-15
+integrity,topic,Stabilizer formalism and logical operators,No difficulty reported,4,321,0.012461059190031152,0.4129951045838896,0.04329675393687783,0.06553022217473402
+integrity,topic,Stabilizer formalism and logical operators,Noise channels and their mathematics,29,321,0.09034267912772585,0.7191985828599351,0.041867535923662075,0.06512727810347434
+integrity,topic,Stabilizer formalism and logical operators,Simulators and QEC software,31,321,0.09657320872274143,0.3862928348909657,2.2956149121179607e-12,1.2855443507860579e-11
+integrity,topic,"Surface codes, decoding and thresholds",Code construction and properties,37,183,0.20218579234972678,1.0695430839607696,0.702480485157999,0.7152528576154172
+integrity,topic,"Surface codes, decoding and thresholds",Conceptual foundations,1,183,0.00546448087431694,0.057625434674615006,1.4086705424664355e-07,4.6403264928306113e-07
+integrity,topic,"Surface codes, decoding and thresholds","Decoding, thresholds and logical error rates",54,183,0.29508196721311475,4.31723526805494,3.2014109407977325e-37,4.481975317116826e-36
+integrity,topic,"Surface codes, decoding and thresholds",Fault-tolerant logical operations,28,183,0.15300546448087432,1.0994728952076986,0.6447956993785804,0.6686770215777871
+integrity,topic,"Surface codes, decoding and thresholds",Hardware noise: characterisation and mitigation,3,183,0.01639344262295082,0.15941886718366546,3.486525848890286e-06,8.488932501645914e-06
+integrity,topic,"Surface codes, decoding and thresholds",No difficulty reported,2,183,0.01092896174863388,0.36221701795472283,0.1631697662620053,0.20305570912605103
+integrity,topic,"Surface codes, decoding and thresholds",Noise channels and their mathematics,0,183,0.0,0.0,7.508883083464475e-12,3.822704115218279e-11
+integrity,topic,"Surface codes, decoding and thresholds",Simulators and QEC software,58,183,0.31693989071038253,1.2677595628415301,0.0332149154926873,0.05470691963501438
+integrity,topic,Syndrome extraction and error correction,Code construction and properties,35,133,0.2631578947368421,1.3920795474027086,0.03055357770282803,0.05184849549570817
+integrity,topic,Syndrome extraction and error correction,Conceptual foundations,10,133,0.07518796992481203,0.7928913192071086,0.5141533271559044,0.5432563456741633
+integrity,topic,Syndrome extraction and error correction,"Decoding, thresholds and logical error rates",23,133,0.17293233082706766,2.5301090564248456,1.5176543591162564e-06,4.196481954668156e-06
+integrity,topic,Syndrome extraction and error correction,Fault-tolerant logical operations,11,133,0.08270676691729323,0.5943176525384257,0.06687999980786491,0.09603282023693423
+integrity,topic,Syndrome extraction and error correction,Hardware noise: characterisation and mitigation,17,133,0.12781954887218044,1.2429877087929404,0.4002571270958194,0.4310461368724209
+integrity,topic,Syndrome extraction and error correction,No difficulty reported,4,133,0.03007518796992481,0.9967776584317937,1.0,1.0
+integrity,topic,Syndrome extraction and error correction,Noise channels and their mathematics,10,133,0.07518796992481203,0.5985552115583075,0.09010508016297408,0.12014010688396544
+integrity,topic,Syndrome extraction and error correction,Simulators and QEC software,23,133,0.17293233082706766,0.6917293233082706,0.04158365140637183,0.06512727810347434

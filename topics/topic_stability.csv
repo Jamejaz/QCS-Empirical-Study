@@ -1,0 +1,15 @@
+layer,topic,top10_jaccard_stability
+core security,Security proofs and protocol analysis,0.26
+core security,Quantum threat to deployed cryptography,0.49
+core security,Reconciliation and encoding for QKD,0.34
+core security,Migration of production systems,0.31
+core security,Post-quantum library engineering,0.47
+core security,QKD authentication and key management,0.43
+core security,QKD mechanics and eavesdropping,0.74
+integrity,Stabilizer formalism and logical operators,0.51
+integrity,Noise modelling in Qiskit,0.68
+integrity,Decoherence and the path to fault tolerance,0.37
+integrity,"Channels, fidelity and density matrices",0.37
+integrity,"Surface codes, decoding and thresholds",0.27
+integrity,Fault-tolerant gate construction,0.29
+integrity,Syndrome extraction and error correction,0.26

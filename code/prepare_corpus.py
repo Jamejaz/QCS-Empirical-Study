@@ -4,7 +4,8 @@ from gensim.models.phrases import Phrases, Phraser
 from clean_text import clean
 from spacy.lang.en.stop_words import STOP_WORDS
 
-SRC = sys.argv[1] if len(sys.argv) > 1 else "Final_Data_File.csv"
+SRC = sys.argv[1] if len(sys.argv) > 1 else "../data/QCS_dataset_5163.csv"
+NO_TITLE = "(no title, GitHub thread)"  # placeholder used in the released dataset for GitHub threads
 P = {"quantumcomputing.stackexchange.com": "QCSE", "stackoverflow.com": "SO", "github.com": "GitHub",
      "reddit.com": "Reddit", "math.stackexchange.com": "MSE", "security.stackexchange.com": "SES"}
 
@@ -25,7 +26,11 @@ STOP = set(STOP_WORDS) | {
     'recent_call','call_last','tick','tick_tick','thank_advance','make_sense','like_know','let_say','file_line','line_line'}
 
 def main():
-    d = pd.read_csv(SRC)
+    d = pd.read_csv(SRC, keep_default_na=False)
+    # the released dataset names the columns title/body and marks GitHub threads without a title;
+    # the analysed corpus had an empty title there, so the placeholder is removed before cleaning
+    d = d.rename(columns={"title": "question_title", "body": "Question_body"})
+    d["question_title"] = d["question_title"].replace(NO_TITLE, "")
     d["post_id"] = [f"P{i:05d}" for i in range(len(d))]
     d["platform"] = d.url.astype(str).str.extract(r"https?://(?:www\.)?([^/]+)")[0].map(P).fillna("Other")
     stats = collections.OrderedDict()

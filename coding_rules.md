@@ -16,15 +16,15 @@ This document describes how the posts were collected, filtered and labelled. The
 | GitHub | 1,114 | 360 |
 | **Total** | **15,353** | **5,163** |
 
-The data were retrieved on 5 February 2025. GitHub items are issue threads and discussion threads, each counted as one post.
+The data were retrieved on 5 February 2025. GitHub items are issue threads and discussion threads, each counted as one post. In `data/QCS_dataset_5163.csv` the platform of a post is taken from its URL, so the retained posts there are 102 Reddit, 361 GitHub and 3 on other sites (news or preprint links, removed before classification); the other platforms are as above. Reddit posts come from r/QuantumComputing and r/Qiskit; the Reddit API returns a limited number of the most recent posts of a listing, so 87 of the 102 Reddit posts date from 2024 or 2025.
 
 ### 1.2 Search query
 
 The following query was used on every platform:
 
 ```
-(Quantum) AND (Computing OR Computing Security OR Post Quantum Computing OR Crypto
-OR Information OR Algorithm OR Gates OR Error OR encryption) OR (Qiskit)
+((Quantum) AND (Computing OR Computing Security OR Post Quantum Computing OR Crypto
+OR Information OR Algorithm OR Gates OR Error OR encryption)) OR (Qiskit)
 ```
 
 Reddit posts were collected through the Reddit API (PRAW), Stack Overflow and the Stack Exchange sites with BeautifulSoup, and GitHub threads with Selenium.
@@ -64,6 +64,10 @@ Each post is assigned to one layer according to the main concern of the person a
 8. "Quantum" used in an unrelated sense (for example, a time quantum in scheduling) is out of scope.
 9. Classical cryptography is core security only if the post asks about it in light of quantum computing, for example whether RSA-2048 is safe against quantum computers.
 
+## Use of an LLM in labelling
+
+In rounds 1 and 2 of the layer validation, initial labels were drafted by an LLM, Claude Opus 5.5, from the written codebook and the text of each post. The first and third authors reviewed these drafts against the codebook, and the second author adjudicated disagreements. Because reviewing a draft can bias the reviewer towards it, round 3 re-coded 100 posts from the post text alone, without access to any label. Rounds 3 and 4 were coded without LLM assistance, and their labels were finalised by the second author. Agreement in these rounds is reported in Table 3 of the paper (kappa = 0.83, 0.88 and 0.84). All 289 core-security posts were verified individually, while integrity-layer assignments outside the core-security candidates were retained from the published rules and evaluated through independent sampling (round 4). For the integrity challenge taxonomy, an author reviewed the LLM-drafted labels for all 1,624 posts, and these labels were then validated independently on a sample of 300 posts. The LLM did not determine any final label used in the analysis.
+
 ## 3. Keyword rules for layer assignment
 
 The keyword rules assign a layer to every post automatically. All core-security posts were then checked by hand, and the integrity layer was validated on samples (see `validation/`). The final rules are in `code/layer_rules_final.py`, and the first version is in `code/layer_rules_first_version.py`.
@@ -73,7 +77,7 @@ The keyword rules assign a layer to every post automatically. All core-security 
 | Quantum context (required) | qubit, quantum, qiskit, cirq, qkd, shor, grover, qpu, nisq, ibmq, stim, pennylane, qutip |
 | Core security, strong terms | qkd, bb84, e91, b92, quantum key distribution, key distribution, post-quantum, pqc, quantum-safe, quantum-resistant, kyber, ml-kem, dilithium, ml-dsa, sphincs, mceliece, ntru, liboqs, oqs-provider, pqclean, open quantum safe, eavesdropping, cryptanalysis, side channel, fault injection, trojan, quantum money, blind quantum, delegated quantum, verifiable quantum, one-time pad, quantum cryptography, harvest now |
 | Core security, context terms | crypto, encryption, decryption, cipher, rsa, aes, elliptic curve, ecdsa, ecdh, diffie, digital signature, authentication, key length, key size, attack, adversary, secure, security, insecure, vulnerability, brute force, confidentiality, privacy, tampering, malicious, threat |
-| Not core security | parameterized quantum circuit, pqc used for machine-learning models, time quantum, send_quantum, firefox quantum, imagemagick |
+| Exclusion terms (development context) | parameterized quantum circuit, pqc used for machine-learning models, time quantum, send_quantum, firefox quantum, imagemagick |
 | Integrity, strong terms | error correction, qec, surface code, color code, toric code, steane, shor code, repetition code, stabilizer, fault tolerance, logical qubit, syndrome, decoder, decoding, mwpm, bposd, decoherence, dephasing, error mitigation, zero-noise extrapolation, magic state, distillation, threshold theorem, lattice surgery, transversal, kraus, depolarizing, amplitude damping, crosstalk, readout error, noise model, noise channel, t1, t2, coherence time, randomized benchmarking, quantum channel |
 | Integrity, weak terms | noise, noisy, error rate, fidelity, calibration, bit flip, phase flip, leakage |
 | Ignored for integrity | text of error messages and stack traces |
@@ -81,12 +85,13 @@ The keyword rules assign a layer to every post automatically. All core-security 
 The rules are applied in this order:
 
 1. Out of scope if the post is not from one of the six platforms, is shorter than 30 characters, or contains no quantum-context term.
-2. Development context if a "not core security" term is present and no strong core-security term.
-3. Core security if there is a strong core-security term, or if context terms are prominent (in the title and repeated, or three or more in the post).
-4. Integrity if, after removing error-message text, there is an integrity term in the title, two strong integrity terms, or one strong and one weak term.
-5. Otherwise development context.
+2. Development context if an exclusion term is present and no strong core-security term. Because this rule applies before rule 4, a post containing an exclusion term is not assigned to the integrity layer.
+3. Core security if there is a strong core-security term, or if context terms are prominent (one in the title and at least two in the post, or three or more in the post).
+4. Integrity if, after removing error-message text, there is a strong integrity term in the title, two strong integrity terms, one strong and one weak term, or a weak term in the title and at least two weak terms in the post.
+5. Core security if a context term appears in the title.
+6. Otherwise development context.
 
-Names of quantum frameworks (Qiskit, Cirq, Stim, PennyLane, QuTiP) only show that a post concerns quantum computing and do not decide its layer. Names of post-quantum libraries (liboqs, Open Quantum Safe, PQClean) count as core-security evidence.
+Names of quantum frameworks (Qiskit, Cirq, Stim, PennyLane, QuTiP) only show that a post concerns quantum computing and do not decide its layer. Names of post-quantum libraries (liboqs, Open Quantum Safe, PQClean) count as core-security evidence. Running the final rules without the library names changes the core-security nomination of none of the 5,160 classified posts (`code/library_names_check.py`).
 
 ## 4. Challenge categories: core security
 
@@ -119,7 +124,7 @@ Each post receives one category, the main difficulty it reports. A subject categ
 
 ## 6. Topics
 
-Each layer was modelled separately with LDA (seven topics, five random seeds). Two authors labelled each topic independently from its fifteen most probable words and its representative posts, and settled differences by discussion. A label is marked provisional when the topic's top ten words overlap by less than 0.3 (mean Jaccard) across seeds.
+Each layer was modelled separately with LDA (seven topics, five random seeds). Two authors labelled each topic independently from its fifteen most probable words and its representative posts, and settled differences by discussion. Stability is the Jaccard overlap between the top ten words of a topic in the reference fit (seed 100) and those of its best-matching topic in each of four refits (seeds 1 to 4), averaged over the refits. A label is marked provisional when this value is below 0.3. `code/topic_robustness.py` computes the stability, the share of posts that keep their topic under reseeding, Table 11 in every refit and the rank of each topic by stated non-understanding in every refit.
 
 ## 7. Stated non-understanding
 
@@ -131,6 +136,8 @@ A post is flagged when its author states explicitly that they do not understand 
 - Statements of understanding and reported speech ("he said he was confused") are not counted.
 
 Against the 200 manually coded posts in `validation/non_understanding_coded_200.csv`, the marker list has a precision of 0.86 and a recall of 0.84.
+
+The keyword-defined check of the surface-code and decoding result counts an integrity post as surface-code or decoding work if its title or body, in lower case, contains any of: surface code, detector error model, threshold, decoding, decode, logical error rate (substring match). It does not use the topic model and matches 428 integrity posts, 109 of which state non-understanding (`code/decoding_check.py`).
 
 ## 8. Tools and algorithms
 

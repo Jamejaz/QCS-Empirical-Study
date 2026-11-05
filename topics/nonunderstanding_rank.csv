@@ -1,0 +1,71 @@
+layer,topic,seed,rank
+core security,Migration of production systems,100,2
+core security,Post-quantum library engineering,100,6
+core security,QKD authentication and key management,100,2
+core security,QKD mechanics and eavesdropping,100,5
+core security,Quantum threat to deployed cryptography,100,7
+core security,Reconciliation and encoding for QKD,100,1
+core security,Security proofs and protocol analysis,100,4
+core security,Migration of production systems,1,3
+core security,Post-quantum library engineering,1,7
+core security,QKD authentication and key management,1,5
+core security,QKD mechanics and eavesdropping,1,2
+core security,Quantum threat to deployed cryptography,1,6
+core security,Reconciliation and encoding for QKD,1,1
+core security,Security proofs and protocol analysis,1,4
+core security,Migration of production systems,2,7
+core security,Post-quantum library engineering,2,5
+core security,QKD authentication and key management,2,3
+core security,QKD mechanics and eavesdropping,2,4
+core security,Quantum threat to deployed cryptography,2,6
+core security,Reconciliation and encoding for QKD,2,1
+core security,Security proofs and protocol analysis,2,2
+core security,Migration of production systems,3,7
+core security,Post-quantum library engineering,3,4
+core security,QKD authentication and key management,3,2
+core security,QKD mechanics and eavesdropping,3,1
+core security,Quantum threat to deployed cryptography,3,6
+core security,Reconciliation and encoding for QKD,3,4
+core security,Security proofs and protocol analysis,3,3
+core security,Migration of production systems,4,5
+core security,Post-quantum library engineering,4,6
+core security,QKD authentication and key management,4,2
+core security,QKD mechanics and eavesdropping,4,3
+core security,Quantum threat to deployed cryptography,4,4
+core security,Reconciliation and encoding for QKD,4,1
+core security,Security proofs and protocol analysis,4,7
+integrity,"Channels, fidelity and density matrices",100,5
+integrity,Decoherence and the path to fault tolerance,100,7
+integrity,Fault-tolerant gate construction,100,2
+integrity,Noise modelling in Qiskit,100,6
+integrity,Stabilizer formalism and logical operators,100,3
+integrity,"Surface codes, decoding and thresholds",100,1
+integrity,Syndrome extraction and error correction,100,4
+integrity,"Channels, fidelity and density matrices",1,3
+integrity,Decoherence and the path to fault tolerance,1,7
+integrity,Fault-tolerant gate construction,1,1
+integrity,Noise modelling in Qiskit,1,5
+integrity,Stabilizer formalism and logical operators,1,4
+integrity,"Surface codes, decoding and thresholds",1,2
+integrity,Syndrome extraction and error correction,1,6
+integrity,"Channels, fidelity and density matrices",2,6
+integrity,Decoherence and the path to fault tolerance,2,7
+integrity,Fault-tolerant gate construction,2,3
+integrity,Noise modelling in Qiskit,2,5
+integrity,Stabilizer formalism and logical operators,2,4
+integrity,"Surface codes, decoding and thresholds",2,1
+integrity,Syndrome extraction and error correction,2,2
+integrity,"Channels, fidelity and density matrices",3,4
+integrity,Decoherence and the path to fault tolerance,3,6
+integrity,Fault-tolerant gate construction,3,3
+integrity,Noise modelling in Qiskit,3,5
+integrity,Stabilizer formalism and logical operators,3,2
+integrity,"Surface codes, decoding and thresholds",3,1
+integrity,Syndrome extraction and error correction,3,7
+integrity,"Channels, fidelity and density matrices",4,4
+integrity,Decoherence and the path to fault tolerance,4,7
+integrity,Fault-tolerant gate construction,4,5
+integrity,Noise modelling in Qiskit,4,3
+integrity,Stabilizer formalism and logical operators,4,2
+integrity,"Surface codes, decoding and thresholds",4,1
+integrity,Syndrome extraction and error correction,4,6

@@ -1,0 +1,71 @@
+layer,topic,category,seed,n,lift,p_adj,significant
+core security,Migration of production systems,Cryptographic transition and post-quantum threats,100,27,2.24,0.0447,True
+core security,Post-quantum library engineering,Tooling and implementation,100,27,4.28,0.0,True
+core security,QKD authentication and key management,Algorithm and protocol design,100,27,2.55,0.0097,True
+core security,QKD mechanics and eavesdropping,Quantum communication and QKD,100,53,3.34,0.0,True
+core security,Quantum threat to deployed cryptography,Cryptographic transition and post-quantum threats,100,74,2.45,0.0,True
+core security,Reconciliation and encoding for QKD,Quantum communication and QKD,100,17,1.92,0.1833,False
+core security,Security proofs and protocol analysis,Algorithm and protocol design,100,64,1.72,0.0477,True
+core security,Migration of production systems,Cryptographic transition and post-quantum threats,1,24,0.0,0.1211,False
+core security,Post-quantum library engineering,Tooling and implementation,1,31,4.24,0.0,True
+core security,QKD authentication and key management,Algorithm and protocol design,1,28,0.74,0.8871,False
+core security,QKD mechanics and eavesdropping,Quantum communication and QKD,1,50,3.73,0.0,True
+core security,Quantum threat to deployed cryptography,Cryptographic transition and post-quantum threats,1,76,2.3,0.0,True
+core security,Reconciliation and encoding for QKD,Quantum communication and QKD,1,13,0.36,0.5149,False
+core security,Security proofs and protocol analysis,Algorithm and protocol design,1,67,2.16,0.0002,True
+core security,Migration of production systems,Cryptographic transition and post-quantum threats,2,17,1.19,0.8889,False
+core security,Post-quantum library engineering,Tooling and implementation,2,83,1.9,0.0001,True
+core security,QKD authentication and key management,Algorithm and protocol design,2,17,1.21,0.8889,False
+core security,QKD mechanics and eavesdropping,Quantum communication and QKD,2,40,2.91,0.0,True
+core security,Quantum threat to deployed cryptography,Cryptographic transition and post-quantum threats,2,58,1.74,0.0686,False
+core security,Reconciliation and encoding for QKD,Quantum communication and QKD,2,28,1.83,0.1033,False
+core security,Security proofs and protocol analysis,Algorithm and protocol design,2,46,2.69,0.0,True
+core security,Migration of production systems,Cryptographic transition and post-quantum threats,3,15,0.0,0.295,False
+core security,Post-quantum library engineering,Tooling and implementation,3,28,3.19,0.0,True
+core security,QKD authentication and key management,Algorithm and protocol design,3,26,1.59,0.5722,False
+core security,QKD mechanics and eavesdropping,Quantum communication and QKD,3,52,3.59,0.0,True
+core security,Quantum threat to deployed cryptography,Cryptographic transition and post-quantum threats,3,92,1.9,0.0003,True
+core security,Reconciliation and encoding for QKD,Quantum communication and QKD,3,21,0.67,0.8157,False
+core security,Security proofs and protocol analysis,Algorithm and protocol design,3,55,2.13,0.0018,True
+core security,Migration of production systems,Cryptographic transition and post-quantum threats,4,23,0.29,0.5242,False
+core security,Post-quantum library engineering,Tooling and implementation,4,24,3.94,0.0,True
+core security,QKD authentication and key management,Algorithm and protocol design,4,24,1.43,0.8949,False
+core security,QKD mechanics and eavesdropping,Quantum communication and QKD,4,53,3.25,0.0,True
+core security,Quantum threat to deployed cryptography,Cryptographic transition and post-quantum threats,4,103,1.7,0.0044,True
+core security,Reconciliation and encoding for QKD,Quantum communication and QKD,4,19,0.98,1.0,False
+core security,Security proofs and protocol analysis,Algorithm and protocol design,4,43,0.8,1.0,False
+integrity,"Channels, fidelity and density matrices",Noise channels and their mathematics,100,199,4.92,0.0,True
+integrity,Decoherence and the path to fault tolerance,Conceptual foundations,100,226,3.31,0.0,True
+integrity,Fault-tolerant gate construction,Fault-tolerant logical operations,100,370,2.16,0.0,True
+integrity,Noise modelling in Qiskit,Simulators and QEC software,100,192,2.94,0.0,True
+integrity,Stabilizer formalism and logical operators,Code construction and properties,100,321,2.9,0.0,True
+integrity,"Surface codes, decoding and thresholds","Decoding, thresholds and logical error rates",100,183,4.32,0.0,True
+integrity,Syndrome extraction and error correction,"Decoding, thresholds and logical error rates",100,133,2.53,0.0,True
+integrity,"Channels, fidelity and density matrices",Noise channels and their mathematics,1,305,2.82,0.0,True
+integrity,Decoherence and the path to fault tolerance,Conceptual foundations,1,156,1.83,0.0016,True
+integrity,Fault-tolerant gate construction,Fault-tolerant logical operations,1,548,1.42,0.0,True
+integrity,Noise modelling in Qiskit,Simulators and QEC software,1,208,2.1,0.0,True
+integrity,Stabilizer formalism and logical operators,Code construction and properties,1,160,1.16,0.4096,False
+integrity,"Surface codes, decoding and thresholds","Decoding, thresholds and logical error rates",1,97,0.0,0.0028,False
+integrity,Syndrome extraction and error correction,"Decoding, thresholds and logical error rates",1,150,1.27,0.4729,False
+integrity,"Channels, fidelity and density matrices",Noise channels and their mathematics,2,203,3.96,0.0,True
+integrity,Decoherence and the path to fault tolerance,Conceptual foundations,2,381,1.19,0.2617,False
+integrity,Fault-tolerant gate construction,Fault-tolerant logical operations,2,355,1.96,0.0,True
+integrity,Noise modelling in Qiskit,Simulators and QEC software,2,273,2.33,0.0,True
+integrity,Stabilizer formalism and logical operators,Code construction and properties,2,200,2.09,0.0,True
+integrity,"Surface codes, decoding and thresholds","Decoding, thresholds and logical error rates",2,27,0.54,1.0,False
+integrity,Syndrome extraction and error correction,"Decoding, thresholds and logical error rates",2,185,2.93,0.0,True
+integrity,"Channels, fidelity and density matrices",Noise channels and their mathematics,3,172,4.95,0.0,True
+integrity,Decoherence and the path to fault tolerance,Conceptual foundations,3,349,2.27,0.0,True
+integrity,Fault-tolerant gate construction,Fault-tolerant logical operations,3,171,1.47,0.0188,True
+integrity,Noise modelling in Qiskit,Simulators and QEC software,3,214,2.28,0.0,True
+integrity,Stabilizer formalism and logical operators,Code construction and properties,3,180,2.94,0.0,True
+integrity,"Surface codes, decoding and thresholds","Decoding, thresholds and logical error rates",3,484,2.18,0.0,True
+integrity,Syndrome extraction and error correction,"Decoding, thresholds and logical error rates",3,54,0.0,0.0607,False
+integrity,"Channels, fidelity and density matrices",Noise channels and their mathematics,4,291,4.21,0.0,True
+integrity,Decoherence and the path to fault tolerance,Conceptual foundations,4,370,1.48,0.0016,True
+integrity,Fault-tolerant gate construction,Fault-tolerant logical operations,4,141,4.18,0.0,True
+integrity,Noise modelling in Qiskit,Simulators and QEC software,4,169,2.98,0.0,True
+integrity,Stabilizer formalism and logical operators,Code construction and properties,4,281,2.64,0.0,True
+integrity,"Surface codes, decoding and thresholds","Decoding, thresholds and logical error rates",4,317,1.71,0.0005,True
+integrity,Syndrome extraction and error correction,"Decoding, thresholds and logical error rates",4,55,0.27,0.2084,False
