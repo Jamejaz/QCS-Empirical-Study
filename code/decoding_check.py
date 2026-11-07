@@ -5,7 +5,7 @@ An integrity post counts as surface-code or decoding work if its title or body, 
 contains any of the six terms below as a substring. The list does not use the topic model.
 Reported: 428 posts, 109 stating non-understanding (25.5% against 20.2% for the layer),
 lift 1.26 (95% CI 1.07 to 1.48, Wilson interval of the rate divided by the layer rate),
-chi-square p = 0.002, and p_adj = 0.010 when the check is added to the fourteen topic tests of Table 12.
+chi-square p = 0.002, and p_adj = 0.005 when the check is added to the family of the seven integrity topic tests of Table 12.
 """
 import re
 import numpy as np, pandas as pd
@@ -39,9 +39,17 @@ p_kw = test(nu, hit)
 print(f'matched {n} posts, {a} state non-understanding: rate {a/n:.3f} against {base:.3f} for the layer')
 print(f'lift {a/n/base:.2f} (95% CI {lo/base:.2f} to {hi/base:.2f}), p = {p_kw:.3f}')
 
-ps = []
+t = d[d.layer == 'integrity'].reset_index(drop=True)
+ps = [test(t.nu.values, (t.topic == topic).values) for topic in sorted(t.topic.unique())]
+print(f'p_adj with the seven integrity topic tests: {multipletests(ps + [p_kw], method="fdr_bh")[1][-1]:.3f}')
+
+# Stated non-understanding by challenge category (categories with at least ten posts),
+# each tested against the rest of its layer, Benjamini-Hochberg within the layer.
+lab['nu'] = lab.states_non_understanding.eq('yes')
 for layer in ['integrity', 'core security']:
-    t = d[d.layer == layer].reset_index(drop=True)
-    for topic in sorted(t.topic.unique()):
-        ps.append(test(t.nu.values, (t.topic == topic).values))
-print(f'p_adj with the fourteen topic tests: {multipletests(ps + [p_kw], method="fdr_bh")[1][-1]:.3f}')
+    t = lab[lab.layer == layer].reset_index(drop=True)
+    cats = [c for c in sorted(t.challenge.unique()) if (t.challenge == c).sum() >= 10]
+    pv = [test(t.nu.values, (t.challenge == c).values) for c in cats]
+    for c, p, q in zip(cats, pv, multipletests(pv, method='fdr_bh')[1]):
+        m = (t.challenge == c).values
+        print(f'{layer} | {c}: {int(t.nu.values[m].sum())}/{int(m.sum())} = {t.nu.values[m].mean():.3f}, p = {p:.4f}, p_adj = {q:.3f}')

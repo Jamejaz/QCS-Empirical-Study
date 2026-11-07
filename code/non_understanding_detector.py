@@ -5,7 +5,8 @@ Construct
 The detector measures a directly observable act: the author explicitly saying that they do not
 understand something, the construct Ebert et al. (2019) use for confusion in code review. It is a
 list of first-person markers applied with word boundaries to the post text; its precision and recall
-are measured against the 200 manually coded posts (validation/non_understanding_coded_200.csv).
+are measured against the 200 labelled posts (validation/non_understanding_coded_200.csv), whose labels were
+drafted by an LLM and reviewed by the first author.
 
 Design decisions, stated so that they can be checked:
   * FIRST PERSON ONLY. "I do not understand" counts; "the documentation is unclear" does not, because

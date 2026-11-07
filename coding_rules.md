@@ -66,18 +66,18 @@ Each post is assigned to one layer according to the main concern of the person a
 
 ## Use of an LLM in labelling
 
-In rounds 1 and 2 of the layer validation, initial labels were drafted by an LLM, Claude Opus 5.5, from the written codebook and the text of each post. The first and third authors reviewed these drafts against the codebook, and the second author adjudicated disagreements. Because reviewing a draft can bias the reviewer towards it, round 3 re-coded 100 posts from the post text alone, without access to any label. Rounds 3 and 4 were coded without LLM assistance, and their labels were finalised by the second author. Agreement in these rounds is reported in Table 3 of the paper (kappa = 0.83, 0.88 and 0.84). All 289 core-security posts were verified individually, while integrity-layer assignments outside the core-security candidates were retained from the published rules and evaluated through independent sampling (round 4). For the integrity challenge taxonomy, an author reviewed the LLM-drafted labels for all 1,624 posts, and these labels were then validated independently on a sample of 300 posts. The LLM did not determine any final label used in the analysis.
+Claude Opus 5.5 assisted with initial coding in round 1, round 2, integrity challenge classification, the adjudication of core-security challenge labels, and the 200-post evaluation of stated non-understanding. The first author reviewed the LLM-drafted labels against the relevant codebooks. The LLM-drafted adjudications of the core-security challenge labels were verified by the second author. In round 1, the third author coded the same 360 posts independently without access to the drafts or the first author's labels, consulting an LLM on 10 borderline cases. In round 2, the first author reviewed all 486 candidates. Round 3 involved independent re-coding of 100 of these posts by the second author, who had not participated in round 2. Round 4 used two independent coders without LLM assistance. The second author adjudicated coding disagreements. The LLM did not make final coding decisions. Rule-assigned integrity-layer labels outside the core-security candidates were retained and evaluated through independent sampling.
 
 ## 3. Keyword rules for layer assignment
 
-The keyword rules assign a layer to every post automatically. All core-security posts were then checked by hand, and the integrity layer was validated on samples (see `validation/`). The final rules are in `code/layer_rules_final.py`, and the first version is in `code/layer_rules_first_version.py`.
+The keyword rules assign a layer to every post automatically. Every core-security candidate was then reviewed individually (round 2), and the integrity layer was validated on samples (see `validation/`). The final rules are in `code/layer_rules_final.py`, and the first version is in `code/layer_rules_first_version.py`.
 
 | Term group | Terms |
 |---|---|
 | Quantum context (required) | qubit, quantum, qiskit, cirq, qkd, shor, grover, qpu, nisq, ibmq, stim, pennylane, qutip |
 | Core security, strong terms | qkd, bb84, e91, b92, quantum key distribution, key distribution, post-quantum, pqc, quantum-safe, quantum-resistant, kyber, ml-kem, dilithium, ml-dsa, sphincs, mceliece, ntru, liboqs, oqs-provider, pqclean, open quantum safe, eavesdropping, cryptanalysis, side channel, fault injection, trojan, quantum money, blind quantum, delegated quantum, verifiable quantum, one-time pad, quantum cryptography, harvest now |
 | Core security, context terms | crypto, encryption, decryption, cipher, rsa, aes, elliptic curve, ecdsa, ecdh, diffie, digital signature, authentication, key length, key size, attack, adversary, secure, security, insecure, vulnerability, brute force, confidentiality, privacy, tampering, malicious, threat |
-| Exclusion terms (development context) | parameterized quantum circuit, pqc used for machine-learning models, time quantum, send_quantum, firefox quantum, imagemagick |
+| Exclusion terms (development context) | parameterized quantum circuit, pqc followed within 80 characters of the same sentence by keras, tensorflow, pennylane, vqc or agent, time quantum, send_quantum, firefox quantum, imagemagick |
 | Integrity, strong terms | error correction, qec, surface code, color code, toric code, steane, shor code, repetition code, stabilizer, fault tolerance, logical qubit, syndrome, decoder, decoding, mwpm, bposd, decoherence, dephasing, error mitigation, zero-noise extrapolation, magic state, distillation, threshold theorem, lattice surgery, transversal, kraus, depolarizing, amplitude damping, crosstalk, readout error, noise model, noise channel, t1, t2, coherence time, randomized benchmarking, quantum channel |
 | Integrity, weak terms | noise, noisy, error rate, fidelity, calibration, bit flip, phase flip, leakage |
 | Ignored for integrity | text of error messages and stack traces |
@@ -135,7 +135,7 @@ A post is flagged when its author states explicitly that they do not understand 
 - Asking a question is not enough on its own.
 - Statements of understanding and reported speech ("he said he was confused") are not counted.
 
-Against the 200 manually coded posts in `validation/non_understanding_coded_200.csv`, the marker list has a precision of 0.86 and a recall of 0.84.
+Against the 200 posts in `validation/non_understanding_coded_200.csv`, whose labels were drafted by the LLM and reviewed by the first author, the marker list has a precision of 0.86 and a recall of 0.84.
 
 The keyword-defined check of the surface-code and decoding result counts an integrity post as surface-code or decoding work if its title or body, in lower case, contains any of: surface code, detector error model, threshold, decoding, decode, logical error rate (substring match). It does not use the topic model and matches 428 integrity posts, 109 of which state non-understanding (`code/decoding_check.py`).
 

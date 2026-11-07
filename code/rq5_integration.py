@@ -1,7 +1,7 @@
 """RQ5: integrated analysis of where practitioners state that they do not understand something.
 
 Relates challenges to tools, algorithms and topics, using a measure
-that survived validation: the manually coded, lexicon-detected statement of non-understanding.
+that survived validation: the lexicon-detected statement of non-understanding.
 
 
 For every cross-tabulation we report the rate, a chi-square test of independence against the rest of

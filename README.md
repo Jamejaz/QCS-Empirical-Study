@@ -1,6 +1,6 @@
 # Replication package: Quantum Computing Security Discussions on Practitioner Platforms
 
-Data, labels, validation records, code and figures for the revised EMSE manuscript *Exploring Quantum Computing Security Discussions on Practitioner Platforms: A KDD-Based Empirical Study with a Validated Relevance Filter*.
+Data, labels, validation records, code and figures for the revised EMSE manuscript *Exploring Quantum Computing Security Discussions on Practitioner Platforms: A KDD-Based Empirical Study Using Topic Modeling*.
 
 ## Dataset at a glance
 
@@ -20,18 +20,24 @@ Data, labels, validation records, code and figures for the revised EMSE manuscri
 |---|---|---|
 | `data/QCS_dataset_5163.csv` | The 5,163 retained posts: post ID, platform, date, URL, title, body, answers, views and votes | Sec. 4.1.2 |
 | `data/QCS_labels_5163.csv` | The labels of each post: layer, keyword-rule labels, topic, challenge category and stated non-understanding | Sec. 4, 5 |
-| `coding_rules.md` | All coding rules in one file: retrieval query and keyword list, layer codebook, keyword layer rules, both challenge codebooks, topic labelling, non-understanding markers, tool matching | Sec. 4.1 |
+| `coding_rules.md` | All coding rules in one file: retrieval query and keyword list, layer codebook, use of an LLM in labelling, keyword layer rules, both challenge codebooks, topic labelling, non-understanding markers, tool matching | Sec. 4.1, Appendix A |
 | `validation/rule_validation_sample_360.csv` | Stratified sample of 360 posts labelled by two coders, with the label of the first version of the rules and the agreed or adjudicated final label | Sec. 4.1.4, Table 3 |
-| `validation/core_security_manual_check_486.csv` | Every post nominated as core security by either version of the rules, and whether it was confirmed by manual checking | Sec. 4.1.4, Table 3 |
+| `validation/core_security_manual_check_486.csv` | Every post nominated as core security by either version of the rules, and whether the round 2 review confirmed it | Sec. 4.1.4, Table 3 |
 | `validation/blind_recheck_100.csv` | 100 of those posts labelled again from the post text alone, without seeing any label, next to the final label | Sec. 4.1.4, Table 3 |
 | `validation/integrity_holdout_sample_150.csv` | Fresh sample of 150 posts not used to refine the rules, labelled by two coders, with the label of the final rules and the agreed or adjudicated final label | Sec. 4.1.4, Table 3 |
-| `validation/non_understanding_coded_200.csv` | 200 posts coded manually for stated non-understanding | Sec. 4.1.5 |
+| `validation/non_understanding_coded_200.csv` | 200 posts labelled for stated non-understanding (labels drafted by the LLM and reviewed by the first author; see `coding_rules.md`) | Sec. 4.1.5 |
 | `challenges/core_security_challenge_coding_289.csv` | Labels of the three coders and the settled category of every core-security post | Sec. 4.1.5, 5.5 |
 | `challenges/integrity_challenge_validation_300.csv` | 300-post validation of the integrity challenge labels by two coders | Sec. 4.1.5, 5.5 |
 | `topics/topics_core_security.csv`, `topics/topics_integrity.csv` | Seven topics per layer with posts, top-15 words and stability | Tables 6, 7 |
 | `topics/coherence_by_k.csv` | Mean c_v coherence over five seeds for each number of topics | Fig. 4 |
+| `topics/coherence_by_k_seeds.csv` | c_v and u_mass coherence for every layer, number of topics and seed | Fig. 4 |
+| `topics/topic_stability.csv` | Top-word stability of each topic across the four refits | Tables 6, 7 |
+| `topics/topic_retention.csv` | Share of posts keeping their topic under reseeding | Sec. 7.2 |
+| `topics/table11_refits.csv` | Table 11 in the reference fit and in each refit | Table 11 |
+| `topics/nonunderstanding_rank.csv` | Rank of each topic by stated non-understanding in every fit | Table 12 |
+| `results/association_tests.csv` | Every challenge association test of RQ5 (tools, algorithms, topics), with lift, p and adjusted p | Sec. 5.6 |
 | `results/results.json` | Every number reported in the paper, including the tests behind Tables 11 and 12 | Sec. 5 |
-| `code/` | Layer rules (first and final version), text cleaning, LDA, non-understanding detector, RQ5 integration, results script | |
+| `code/` | Layer rules (first and final version), text cleaning, corpus preparation, LDA, topic robustness (`topic_robustness.py`), non-understanding detector, RQ5 integration, challenge association tests (`association_tests.py`), library-name check (`library_names_check.py`), surface-code and decoding check (`decoding_check.py`), results script | |
 | `figures/` | Figures of the paper | |
 
 ## Labels

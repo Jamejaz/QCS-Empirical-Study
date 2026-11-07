@@ -1,5 +1,5 @@
 """Final layer rules, refined after the 360-post validation sample.
-Changes vs v1: security terms must occur in a quantum context; strong vs weak evidence;
+Changes vs v1: a post with no quantum-context term is out of scope before any other rule applies; strong vs weak evidence;
 error-message text no longer counts as an integrity signal; explicit exclusions for known confusions."""
 import re, ftfy
 
