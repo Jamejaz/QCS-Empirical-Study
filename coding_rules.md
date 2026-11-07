@@ -130,6 +130,14 @@ Each layer was modelled separately with LDA (seven topics, five random seeds). T
 
 A post is flagged when its author states explicitly that they do not understand something, for example "I don't understand why…" or "I am not sure how…". The marker list is in `code/non_understanding_detector.py`.
 
+The markers are matched in lower case and on word boundaries in the title and cleaned body. *I* stands for *I* or *we*, and *am* for *am*, *are*, *was* or *were*; intensifiers such as *really*, *quite*, *fully* or *a bit* may stand between the verb and the epistemic word. The exact regular expressions are in the script.
+
+- *I do not*, *cannot* or *could not* followed by *understand*, *get*, *see*, *follow*, *grasp*, *figure out*, *work out*, *make sense of*, *comprehend* or *tell*; *I did not* followed by *understand*, *get*, *follow* or *see*; *I fail to understand*, *see* or *grasp*; *what I do not get*, *understand* or *see*; *but*, *and* or *however* followed by *(I) do not* or *cannot* and one of *understand*, *get*, *see*, *follow*, *grasp* or *figure out*.
+- *I am not sure*, *I am unsure*; *I am not sure*, *clear* or *certain* followed by *how*, *why*, *what*, *whether*, *if* or *where*; *I am unclear on*, *about*, *how*, *why* or *what*; *I do not know* followed by *how*, *why*, *what*, *which*, *whether* or *where*.
+- *I am confused*, *puzzled*, *lost*, *baffled* or *unclear*; *is*, *are*, *has been* or *have been* followed by *perplexing*, *confusing*, *puzzling* or *baffling (to) me* or *us*; *this (is) confusing me*; *not (entirely) clear to me* or *us*; *my confusion*, *my doubt(s)*, *my misunderstanding*.
+- *I have (some) doubt(s)*, *difficulty*, *trouble* or *problems understanding*; *I have a (really) hard time understanding*; *I am struggling*, *having trouble* or *having difficulty* followed by *to*, *with* or *understanding*; *I cannot wrap my head*; *I have no* or *little idea* or *clue*; *no idea* followed by *how*, *why*, *what*, *whether*, *if* or *where*.
+- *I seem* or *appear to (be) missing*; *am I missing something*; *what am I missing*.
+
 - Only first-person statements count. "The documentation is unclear" is not counted.
 - An aim does not count. "I am trying to understand X" is not counted.
 - Asking a question is not enough on its own.
